@@ -20,7 +20,7 @@
             "genres":[  
                "horror"
             ],
-            "thumbnail":"https://example.org/cdn/thumbnails/1509428502952/1",
+            "thumbnail":"./images/thumbnail.jpg",
             "releaseDate":"2016-01-01",
             "shortDescription":"Incredible movie description",
             "longDescription":"Even more incredible and longer movie description",
@@ -52,7 +52,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+                            "thumbnail": "./images/thumbnail.jpg",
                             "shortDescription": "Marvelous episode description",
                             "longDescription":"Even more incredible and longer movie description"
                           },
@@ -71,7 +71,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+                            "thumbnail": "./images/thumbnail.jpg",
                             "shortDescription": "Marvelous episode description",
                             "longDescription":"Even more incredible and longer movie description"
                           }
@@ -83,7 +83,7 @@
               "science fiction",
               "thriller"
             ],
-            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+            "thumbnail": "./images/thumbnail.jpg",
             "shortDescription": "Wondrous series seasons."
           } 
     ],
@@ -102,7 +102,7 @@
                 "captions": [ ],
 				"language": "en-us"
             },
-            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+            "thumbnail": "./images/thumbnail.jpg",
             "shortDescription": "Astonishing short-form video",
             "longDescription":"Even more incredible and longer movie description",
             "releaseDate": "2016-01-01"
@@ -126,7 +126,7 @@
             "genres": [
               "animals"
             ],
-            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+            "thumbnail": "./images/thumbnail.jpg",
             "releaseDate":"2016-01-01",
             "shortDescription": "Unusual episode description",
             "tags":[  
