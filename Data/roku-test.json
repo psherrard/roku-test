@@ -1,117 +1,8 @@
 [
     {
-        "providerName": "TVO",
+        "providerName": "Acme Productions",
         "lastUpdated": "2015-11-11T22:21:37+00:00",
         "language": "en",
-        "movies": [
-            {  
-                "id":"1509428502952",
-                "title":"Sample Movie",
-                "content":{  
-                    "dateAdded": "2020-07-22T02:32:24Z",
-                    "videos": [{
-                        "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                        "videoType": "MP4",
-                        "quality": "HD"
-                    }],
-                    "duration": 178,
-                    "captions": [ ],
-                    "language": "en-us"
-                },
-                "genres":[  
-                "horror"
-                ],
-                "thumbnail":"https://example.org/cdn/thumbnails/1509428502952/1",
-                "releaseDate":"2016-01-01",
-                "shortDescription":"Incredible movie description",
-                "longDescription":"Even more incredible and longer movie description",
-                "tags":[  
-                "horror"
-                ]
-            }
-        ],
-        "series": [
-            {
-                "id": "1509428502952",
-                "title": "The Amazing Series with Seasons!",
-                "seasons": [
-                    {
-                        "seasonNumber": "1",
-                        "episodes": [
-                            {
-                                "id": "1999428507652",
-                                "title": "The Amazing First Episode Title",
-                                "episodeNumber": 1,
-                                "content": {
-                                    "dateAdded": "2020-07-22T02:32:24Z",
-                                    "videos": [{
-                                        "url": "https://example.org/cdn/videos/1509428502952",
-                                        "videoType": "HLS",
-                                        "quality": "SD"
-                                    }],
-                                    "duration": 105,
-                                    "captions": [ ],
-                                    "language": "en-us"
-                                },
-                                "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
-                                "shortDescription": "Marvelous episode description",
-                                "longDescription":"Even more incredible and longer movie description",
-                                "releaseDate": "2016-01-01"
-                            },
-                            {
-                                "id": "2589428502953",
-                                "title": "The Amazing Second Episode Title",
-                                "episodeNumber": 2,
-                                "content": {
-                                    "dateAdded": "2020-07-22T02:32:24Z",
-                                    "videos": [{
-                                        "url": "https://example.org/cdn/videos/1509428502952",
-                                        "videoType": "HLS",
-                                        "quality": "SD"
-                                    }],
-                                    "duration": 105,
-                                    "captions": [ ],
-                                    "language": "en-us"
-                                },
-                                "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
-                                "shortDescription": "Marvelous episode description",
-                                "longDescription":"Even more incredible and longer movie description",
-                                "releaseDate": "2016-01-01"
-                            }
-                        ]
-                    }
-                ],
-                "genres": [
-                "educational",
-                "science fiction",
-                "thriller"
-                ],
-                "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
-                "shortDescription": "Wondrous series seasons.",
-                "releaseDate": "2016-01-01"
-            } 
-        ],
-        "shortFormVideos":  [
-            {
-                "id": "1509428502952",
-                "title": "The Amazing Short-form Video",
-                "content": {
-                    "dateAdded": "2020-07-22T02:32:24Z",
-                    "videos": [{
-                        "url": "https://example.org/cdn/videos/1509428502952",
-                        "videoType": "HLS",
-                        "quality": "SD"
-                    }],
-                    "duration": 105,
-                    "captions": [ ],
-                    "language": "en-us"
-                },
-                "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
-                "shortDescription": "Astonishing short-form video",
-                "longDescription":"Even more incredible and longer movie description",
-                "releaseDate": "2016-01-01"
-            }
-        ],
         "tvSpecials": [
             {
                 "id": "1509428502952",
@@ -139,4 +30,5 @@
             }
         ]
     }
+
 ]
