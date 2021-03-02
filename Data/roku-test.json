@@ -1,0 +1,34 @@
+[
+    {
+        "providerName": "Acme Productions",
+        "lastUpdated": "2015-11-11T22:21:37+00:00",
+        "language": "en",
+        "tvSpecials": [
+            {
+                "id": "1509428502952",
+                "title": "The Amazing First Episode Title",
+                "content": {
+                    "dateAdded": "2020-07-22T02:32:24Z",
+                    "videos": [{
+                        "url": "https://example.org/cdn/videos/1509428502952",
+                        "videoType": "HLS",
+                        "quality": "HD"
+                    }],
+                    "duration": 145,
+                    "captions": [ ],
+                    "language": "en-us"
+                },
+                "genres": [
+                "animals"
+                ],
+                "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+                "releaseDate":"2016-01-01",
+                "shortDescription": "Unusual episode description",
+                "tags":[  
+                    "animals"
+                ]
+            }
+        ]
+    }
+
+]
