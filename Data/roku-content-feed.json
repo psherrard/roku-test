@@ -44,7 +44,7 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://example.org/cdn/videos/1509428502952",
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
                                     "videoType": "HLS",
                                     "quality": "SD"
                                 }],
@@ -63,7 +63,7 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://example.org/cdn/videos/1509428502952",
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
                                     "videoType": "HLS",
                                     "quality": "SD"
                                 }],
@@ -94,7 +94,7 @@
             "content": {
                 "dateAdded": "2020-07-22T02:32:24Z",
 				"videos": [{
-					"url": "https://example.org/cdn/videos/1509428502952",
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
 					"videoType": "HLS",
 					"quality": "SD"
 				}],
@@ -111,11 +111,11 @@
     "tvSpecials": [
         {
             "id": "1509428502952",
-            "title": "The Amazing First Episode Title",
+            "title": "TV Special!",
             "content": {
                 "dateAdded": "2020-07-22T02:32:24Z",
 				"videos": [{
-					"url": "https://example.org/cdn/videos/1509428502952",
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
 					"videoType": "HLS",
 					"quality": "HD"
 				}],
