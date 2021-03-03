@@ -20,7 +20,7 @@
             "genres":[  
                "horror"
             ],
-            "thumbnail":"https://example.org/cdn/thumbnails/1509428502952/1",
+            "thumbnail":"https://psherrard.github.io/roku-test/images/thumbnail.jpg",
             "releaseDate":"2016-01-01",
             "shortDescription":"Incredible movie description",
             "longDescription":"Even more incredible and longer movie description",
@@ -44,7 +44,7 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://example.org/cdn/videos/1509428502952",
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
                                     "videoType": "HLS",
                                     "quality": "SD"
                                 }],
@@ -52,7 +52,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
                             "shortDescription": "Marvelous episode description",
                             "longDescription":"Even more incredible and longer movie description"
                           },
@@ -63,7 +63,7 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://example.org/cdn/videos/1509428502952",
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
                                     "videoType": "HLS",
                                     "quality": "SD"
                                 }],
@@ -71,7 +71,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
                             "shortDescription": "Marvelous episode description",
                             "longDescription":"Even more incredible and longer movie description"
                           }
@@ -83,7 +83,7 @@
               "science fiction",
               "thriller"
             ],
-            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
             "shortDescription": "Wondrous series seasons."
           } 
     ],
@@ -94,7 +94,7 @@
             "content": {
                 "dateAdded": "2020-07-22T02:32:24Z",
 				"videos": [{
-					"url": "https://example.org/cdn/videos/1509428502952",
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
 					"videoType": "HLS",
 					"quality": "SD"
 				}],
@@ -102,7 +102,7 @@
                 "captions": [ ],
 				"language": "en-us"
             },
-            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
             "shortDescription": "Astonishing short-form video",
             "longDescription":"Even more incredible and longer movie description",
             "releaseDate": "2016-01-01"
@@ -111,11 +111,11 @@
     "tvSpecials": [
         {
             "id": "1509428502952",
-            "title": "The Amazing First Episode Title",
+            "title": "TV Special!",
             "content": {
                 "dateAdded": "2020-07-22T02:32:24Z",
 				"videos": [{
-					"url": "https://example.org/cdn/videos/1509428502952",
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
 					"videoType": "HLS",
 					"quality": "HD"
 				}],
@@ -126,7 +126,7 @@
             "genres": [
               "animals"
             ],
-            "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
             "releaseDate":"2016-01-01",
             "shortDescription": "Unusual episode description",
             "tags":[  
