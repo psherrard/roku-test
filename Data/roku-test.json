@@ -4,7 +4,7 @@
     "language": "en",
     "movies": [
         {  
-            "id":"this-is-the-id",
+            "id":"id-movie-001",
             "title":"Sample Movie",
             "content":{  
                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -31,16 +31,16 @@
     ],
     "series": [
         {
-            "id": "1509428502-ID-2",
-            "title": "The Amazing Series with Seasons!",
+            "id": "id-series-101",
+            "title": "The First Series w/ Two Seasons",
             "releaseDate": "2016-01-01",
             "seasons": [
                 {
                     "seasonNumber": "1",
                     "episodes": [
                         {
-                            "id": "1999428507652",
-                            "title": "The Amazing First Episode Title",
+                            "id": "id-s101e01",
+                            "title": "First Episode Title",
                             "episodeNumber": 1,
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -57,10 +57,10 @@
                             "shortDescription": "Marvelous episode description",
                             "longDescription":"Even more incredible and longer movie description",
                             "releaseDate": "2016-01-01"
-                          },
-                          {
-                            "id": "2589428502953",
-                            "title": "The Amazing Second Episode Title",
+                        },
+                        {
+                            "id": "id-s101e02",
+                            "title": "Second Episode Title",
                             "episodeNumber": 2,
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -77,29 +77,15 @@
                             "shortDescription": "Marvelous episode description",
                             "longDescription":"Even more incredible and longer movie description",
                             "releaseDate": "2016-01-01"
-                          }
+                        }
                     ]
-                  }
-            ],
-            "genres": [
-              "educational",
-              "science fiction",
-              "thriller"
-            ],
-            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-            "shortDescription": "Wondrous series seasons."
-          },
-          {
-            "id": "1508502-ID-2",
-            "title": "ANOTHER with Seasons!",
-            "releaseDate": "2016-01-01",
-            "seasons": [
+                },
                 {
-                    "seasonNumber": "1",
+                    "seasonNumber": "2",
                     "episodes": [
                         {
-                            "id": "1999507652",
-                            "title": "The Amazing First Episode Title",
+                            "id": "id-s102e01",
+                            "title": "First Episode Title",
                             "episodeNumber": 1,
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -116,10 +102,10 @@
                             "shortDescription": "Marvelous episode description",
                             "longDescription":"Even more incredible and longer movie description",
                             "releaseDate": "2016-01-01"
-                          },
-                          {
-                            "id": "2589422953",
-                            "title": "The Amazing Second Episode Title",
+                        },
+                        {
+                            "id": "id-s102e02",
+                            "title": "Second Episode Title",
                             "episodeNumber": 2,
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -136,9 +122,9 @@
                             "shortDescription": "Marvelous episode description",
                             "longDescription":"Even more incredible and longer movie description",
                             "releaseDate": "2016-01-01"
-                          }
+                        }
                     ]
-                  }
+                }
             ],
             "genres": [
               "educational",
@@ -147,32 +133,70 @@
             ],
             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
             "shortDescription": "Wondrous series seasons."
-          } 
-    ],
-    "shortFormVideos":  [
+        },
         {
-            "id": "150942850-qwe",
-            "title": "The Amazing Short-form Video",
-            "content": {
-                "dateAdded": "2020-07-22T02:32:24Z",
-				"videos": [{
-					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-					"videoType": "HLS",
-					"quality": "SD"
-				}],
-				"duration": 105,
-                "captions": [ ],
-				"language": "en-us"
-            },
+            "id": "id-series-201",
+            "title": "Second Series w/ 1 Season",
+            "releaseDate": "2016-01-01",
+            "seasons": [
+                {
+                    "seasonNumber": "1",
+                    "episodes": [
+                        {
+                            "id": "id-s201e01",
+                            "title": "First Episode Title",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Marvelous episode description",
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "id-s201e02",
+                            "title": "Second Episode Title",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Marvelous episode description",
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                }
+            ],
+            "genres": [
+              "science fiction",
+              "food",
+              "crime"
+            ],
             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-            "shortDescription": "Astonishing short-form video",
-            "longDescription":"Even more incredible and longer movie description",
-            "releaseDate": "2016-01-01"
-          }
+            "shortDescription": "Wondrous series seasons."
+        } 
     ],
     "tvSpecials": [
         {
-            "id": "1509428502952",
+            "id": "id-tv-special",
             "title": "TV Special!",
             "content": {
                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -194,6 +218,6 @@
             "tags":[  
                 "animals"
              ]
-          }
+        }
     ]
 }
