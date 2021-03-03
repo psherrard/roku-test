@@ -27,6 +27,56 @@
             "tags":[  
                "horror"
             ]
+         },
+         {  
+            "id":"id-movie-002",
+            "title":"Sample Movie",
+            "content":{  
+                "dateAdded": "2020-07-22T02:32:24Z",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[  
+               "crime"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "releaseDate":"2016-01-01",
+            "shortDescription":"Incredible movie description",
+            "longDescription":"Even more incredible and longer movie description",
+            "tags":[  
+               "crime"
+            ]
+         },
+         {  
+            "id":"id-movie-003",
+            "title":"Sample Movie",
+            "content":{  
+                "dateAdded": "2020-07-22T02:32:24Z",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[  
+               "history"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "releaseDate":"2016-01-01",
+            "shortDescription":"Incredible movie description",
+            "longDescription":"Even more incredible and longer movie description",
+            "tags":[  
+               "history"
+            ]
          }
     ],
     "series": [
@@ -192,7 +242,80 @@
             ],
             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
             "shortDescription": "Wondrous series seasons."
-        } 
+        },
+        {
+            "id": "id-series-301",
+            "title": "Mini-series",
+            "episodes": [
+                {
+                    "id": "id-s301e01",
+                    "title": "First Episode Title",
+                    "episodeNumber": 1,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                            "videoType": "HLS",
+                            "quality": "SD"
+                        }],
+                        "duration": 105,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "shortDescription": "Marvelous episode description",
+                    "longDescription":"Even more incredible and longer movie description",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "id-s301e02",
+                    "title": "Second Episode Title",
+                    "episodeNumber": 2,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                            "videoType": "HLS",
+                            "quality": "SD"
+                        }],
+                        "duration": 105,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "shortDescription": "Marvelous episode description",
+                    "longDescription":"Even more incredible and longer movie description",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "id-s301e03",
+                    "title": "Second Episode Title",
+                    "episodeNumber": 3,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                            "videoType": "HLS",
+                            "quality": "SD"
+                        }],
+                        "duration": 105,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "shortDescription": "Marvelous episode description",
+                    "longDescription":"Even more incredible and longer movie description",
+                    "releaseDate": "2016-01-01"
+                }
+            ],
+            "genres": [
+              "fashion",
+              "romance",
+              "technology"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "shortDescription": "Unbelievables series episodes."
+          } 
     ],
     "tvSpecials": [
         {
