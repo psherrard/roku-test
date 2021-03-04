@@ -359,6 +359,11 @@
             "name": "Featured",
             "playlistName": "featured_row",
             "order": "manual"
+        },
+        {
+            "name": "Test",
+            "query":"animals",
+            "order": "most_recent"
         }
     ]
 }
