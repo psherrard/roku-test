@@ -341,7 +341,23 @@
             "shortDescription": "Unusual episode description",
             "tags":[  
                 "animals"
-             ]
+            ]
+        }
+    ],
+    "playlists": [
+        {
+            "name": "featured_row",
+            "itemIds": [
+                "id-series-301"
+            ]
+
+        }
+    ],
+    "categories": [
+        {
+            "name": "Featured",
+            "playlistName": "featured_row",
+            "order": "manual"
         }
     ]
 }
