@@ -182,7 +182,10 @@
               "thriller"
             ],
             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-            "shortDescription": "Wondrous series seasons."
+            "shortDescription": "Wondrous series seasons.",
+            "tags":[  
+                "featured"
+             ]
         },
         {
             "id": "id-series-201",
@@ -342,28 +345,6 @@
             "tags":[  
                 "animals"
             ]
-        }
-    ],
-    "playlists": [
-        {
-            "name": "featured_row",
-            "itemIds": [
-                "id-series-301",
-                "id-movie-001"
-            ]
-
-        }
-    ],
-    "categories": [
-        {
-            "name": "Featured",
-            "playlistName": "featured_row",
-            "order": "manual"
-        },
-        {
-            "name": "Test",
-            "query":"animals",
-            "order": "most_recent"
         }
     ]
 }
