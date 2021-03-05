@@ -1,13 +1,13 @@
 {
     "providerName": "TVO",
-    "lastUpdated": "2015-11-11T22:21:37+00:00",
+    "lastUpdated": "2021-03-05T02:30:00+00:00",
     "language": "en",
     "movies": [
         {  
-            "id":"id-movie-001",
-            "title":"Sample Movie",
+            "id":"126169",
+            "title":"Borealis",
             "content":{  
-                "dateAdded": "2020-07-22T02:32:24Z",
+                "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
 					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
 					"videoType": "MP4",
@@ -18,21 +18,23 @@
 				"language": "en-us"
             },
             "genres":[  
-               "horror"
+               "nature",
+               "documentary"
             ],
-            "thumbnail":"https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-            "releaseDate":"2016-01-01",
-            "shortDescription":"Incredible movie description",
-            "longDescription":"Even more incredible and longer movie description",
+            "thumbnail":"https://psherrard.github.io/roku-test/images/thumbnail2.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Borealis travels deep into the heart of Canada's iconic wilderness to explore how the plants and animals that live there communicate and survive the destructive forces of fire, insects, and human encroachment.",
+            "longDescription":"Borealis travels deep into the heart of Canada's iconic wilderness to explore how the plants and animals that live there communicate and survive the destructive forces of fire, insects, and human encroachment.",
             "tags":[  
-               "horror"
+               "environment-and-nature",
+               "ontario-yours-to-discover"
             ]
          },
          {  
-            "id":"id-movie-002",
-            "title":"Sample Movie",
+            "id":"126326",
+            "title":"Captive",
             "content":{  
-                "dateAdded": "2020-07-22T02:32:24Z",
+                "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
 					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
 					"videoType": "MP4",
@@ -43,21 +45,23 @@
 				"language": "en-us"
             },
             "genres":[  
-               "crime"
+               "crime",
+               "documentary"
             ],
-            "thumbnail":"https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-            "releaseDate":"2016-01-01",
-            "shortDescription":"Incredible movie description",
-            "longDescription":"Even more incredible and longer movie description",
+            "thumbnail":"https://tvoorg-my.sharepoint.com/:i:/g/personal/jspeechly_tvo_org/EV1Bb7srod5Out1GfoUS6EMB85VeJ1DAQ5xOFMjUcTSxmA?e=FN5fmb",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Filmed over four years in Nigeria, journalist Mellissa Fung meets several brave young women who have escaped imprisonment by Boko Haram and are now trying to rebuild their lives. Through their struggles, Fung comes to terms with her own past. ",
+            "longDescription":"Filmed over four years in Nigeria, journalist Mellissa Fung meets several brave young women who have escaped imprisonment by Boko Haram and are now trying to rebuild their lives. Through their struggles, Fung comes to terms with her own past. ",
             "tags":[  
-               "crime"
+               "featured",
+               "social-and-criminal-justice"
             ]
          },
          {  
-            "id":"id-movie-003",
-            "title":"Sample Movie",
+            "id":"132423",
+            "title":"Dispatches from the Field Hospital",
             "content":{  
-                "dateAdded": "2020-07-22T02:32:24Z",
+                "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
 					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
 					"videoType": "MP4",
@@ -67,15 +71,17 @@
                 "captions": [ ],
 				"language": "en-us"
             },
-            "genres":[  
-               "history"
+            "genres":[
+                "health",  
+                "documentary"
             ],
-            "thumbnail":"https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-            "releaseDate":"2016-01-01",
-            "shortDescription":"Incredible movie description",
-            "longDescription":"Even more incredible and longer movie description",
+            "thumbnail":"https://tvoorg-my.sharepoint.com/:i:/g/personal/jspeechly_tvo_org/ERPITMvd-zNPulEAly9As6UBb5TZKYFZ7g-5J2wzVHp3QQ?e=DDtcg6",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"COVID-19 devastated long-term care homes in Ontario. In spring 2020, Windsor erected a field hospital to treat COVID-positive seniors. iPads and phones became lifelines for families, including director Matt Gallagher, whose own father was a patient.",
+            "longDescription":"The COVID-19 pandemic is devastating long-term care homes across Ontario. During the first wave in the spring of 2020, the city of Windsor erected Canada's first MASH-style field hospital almost overnight to isolate and treat elderly patients from Heron Terrace who tested positive for the virus. To fight back against confusion and despair, medical staff created a lifeline between these seniors and their families using iPads and phones. Dispatches from a Field Hospital documents the dramatic stories of several families, including director Matt Gallagher, whose own father became a patient.",
             "tags":[  
-               "history"
+               "covid-19",
+               "featured"
             ]
          }
     ],
@@ -182,7 +188,10 @@
               "thriller"
             ],
             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-            "shortDescription": "Wondrous series seasons."
+            "shortDescription": "Wondrous series seasons.",
+            "tags":[  
+                "featured"
+             ]
         },
         {
             "id": "id-series-201",
@@ -343,8 +352,5 @@
                 "animals"
             ]
         }
-    ],
-    "playlists": [
-        
     ]
 }
