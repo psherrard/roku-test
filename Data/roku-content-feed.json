@@ -4,7 +4,7 @@
     "language": "en",
     "movies": [
         {  
-            "id":"1509428502952",
+            "id":"id-movie-001",
             "title":"Sample Movie",
             "content":{  
                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -27,19 +27,70 @@
             "tags":[  
                "horror"
             ]
+         },
+         {  
+            "id":"id-movie-002",
+            "title":"Sample Movie",
+            "content":{  
+                "dateAdded": "2020-07-22T02:32:24Z",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[  
+               "crime"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "releaseDate":"2016-01-01",
+            "shortDescription":"Incredible movie description",
+            "longDescription":"Even more incredible and longer movie description",
+            "tags":[  
+               "crime"
+            ]
+         },
+         {  
+            "id":"id-movie-003",
+            "title":"Sample Movie",
+            "content":{  
+                "dateAdded": "2020-07-22T02:32:24Z",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[  
+               "history"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "releaseDate":"2016-01-01",
+            "shortDescription":"Incredible movie description",
+            "longDescription":"Even more incredible and longer movie description",
+            "tags":[  
+               "history"
+            ]
          }
     ],
     "series": [
         {
-            "id": "1509428502952",
-            "title": "The Amazing Series with Seasons!",
+            "id": "id-series-101",
+            "title": "The First Series w/ Two Seasons",
+            "releaseDate": "2016-01-01",
             "seasons": [
                 {
                     "seasonNumber": "1",
                     "episodes": [
                         {
-                            "id": "1999428507652",
-                            "title": "The Amazing First Episode Title",
+                            "id": "id-s101e01",
+                            "title": "First Episode Title",
                             "episodeNumber": 1,
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -54,11 +105,12 @@
                             },
                             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
                             "shortDescription": "Marvelous episode description",
-                            "longDescription":"Even more incredible and longer movie description"
-                          },
-                          {
-                            "id": "2589428502953",
-                            "title": "The Amazing Second Episode Title",
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "id-s101e02",
+                            "title": "Second Episode Title",
                             "episodeNumber": 2,
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -73,10 +125,56 @@
                             },
                             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
                             "shortDescription": "Marvelous episode description",
-                            "longDescription":"Even more incredible and longer movie description"
-                          }
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        }
                     ]
-                  }
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodes": [
+                        {
+                            "id": "id-s102e01",
+                            "title": "First Episode Title",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Marvelous episode description",
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "id-s102e02",
+                            "title": "Second Episode Title",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Marvelous episode description",
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                }
             ],
             "genres": [
               "educational",
@@ -85,32 +183,144 @@
             ],
             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
             "shortDescription": "Wondrous series seasons."
-          } 
-    ],
-    "shortFormVideos":  [
+        },
         {
-            "id": "1509428502952",
-            "title": "The Amazing Short-form Video",
-            "content": {
-                "dateAdded": "2020-07-22T02:32:24Z",
-				"videos": [{
-					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-					"videoType": "HLS",
-					"quality": "SD"
-				}],
-				"duration": 105,
-                "captions": [ ],
-				"language": "en-us"
-            },
+            "id": "id-series-201",
+            "title": "Second Series w/ One Season",
+            "releaseDate": "2016-01-01",
+            "seasons": [
+                {
+                    "seasonNumber": "1",
+                    "episodes": [
+                        {
+                            "id": "id-s201e01",
+                            "title": "First Episode Title",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Marvelous episode description",
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "id-s201e02",
+                            "title": "Second Episode Title",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Marvelous episode description",
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                }
+            ],
+            "genres": [
+              "science fiction",
+              "food",
+              "crime"
+            ],
             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-            "shortDescription": "Astonishing short-form video",
-            "longDescription":"Even more incredible and longer movie description",
-            "releaseDate": "2016-01-01"
-          }
+            "shortDescription": "Wondrous series seasons."
+        },
+        {
+            "id": "id-series-301",
+            "title": "Mini-series",
+            "releaseDate": "2016-01-01",
+            "episodes": [
+                {
+                    "id": "id-s301e01",
+                    "title": "First Episode Title",
+                    "episodeNumber": 1,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                            "videoType": "HLS",
+                            "quality": "SD"
+                        }],
+                        "duration": 105,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "shortDescription": "Marvelous episode description",
+                    "longDescription":"Even more incredible and longer movie description",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "id-s301e02",
+                    "title": "Second Episode Title",
+                    "episodeNumber": 2,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                            "videoType": "HLS",
+                            "quality": "SD"
+                        }],
+                        "duration": 105,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "shortDescription": "Marvelous episode description",
+                    "longDescription":"Even more incredible and longer movie description",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "id-s301e03",
+                    "title": "Second Episode Title",
+                    "episodeNumber": 3,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                            "videoType": "HLS",
+                            "quality": "SD"
+                        }],
+                        "duration": 105,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "shortDescription": "Marvelous episode description",
+                    "longDescription":"Even more incredible and longer movie description",
+                    "releaseDate": "2016-01-01"
+                }
+            ],
+            "genres": [
+              "fashion",
+              "romance",
+              "technology"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "shortDescription": "Unbelievables series episodes."
+          } 
     ],
     "tvSpecials": [
         {
-            "id": "1509428502952",
+            "id": "id-tv-special",
             "title": "TV Special!",
             "content": {
                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -131,7 +341,10 @@
             "shortDescription": "Unusual episode description",
             "tags":[  
                 "animals"
-             ]
-          }
+            ]
+        }
+    ],
+    "playlists": [
+        
     ]
 }
