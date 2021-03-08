@@ -1,0 +1,555 @@
+{
+    "providerName": "TVO",
+    "lastUpdated": "2021-03-05T02:30:00+00:00",
+    "language": "en",
+    "movies": [
+        {  
+            "id":"126169",
+            "title":"Borealis",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[  
+               "nature",
+               "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Borealis travels deep into the heart of Canada's iconic wilderness to explore how the plants and animals that live there communicate and survive the destructive forces of fire, insects, and human encroachment.",
+            "longDescription":"Borealis travels deep into the heart of Canada's iconic wilderness to explore how the plants and animals that live there communicate and survive the destructive forces of fire, insects, and human encroachment.",
+            "tags":[  
+               "environment-and-nature",
+               "ontario-yours-to-discover"
+            ]
+        },
+        {  
+            "id":"126326",
+            "title":"Captive",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[  
+               "crime",
+               "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/Captive_B.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Filmed over four years in Nigeria, journalist Mellissa Fung meets several brave young women who have escaped imprisonment by Boko Haram and are now trying to rebuild their lives. Through their struggles, Fung comes to terms with her own past. ",
+            "longDescription":"Filmed over four years in Nigeria, journalist Mellissa Fung meets several brave young women who have escaped imprisonment by Boko Haram and are now trying to rebuild their lives. Through their struggles, Fung comes to terms with her own past. ",
+            "tags":[  
+               "featured",
+               "social-and-criminal-justice"
+            ]
+        },
+        {  
+            "id":"132423",
+            "title":"Dispatches from the Field Hospital",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "health",  
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/Dispatches-from-the-Field-Hospital_B.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"COVID-19 devastated long-term care homes in Ontario. In spring 2020, Windsor erected a field hospital to treat COVID-positive seniors. iPads and phones became lifelines for families, including director Matt Gallagher, whose own father was a patient.",
+            "longDescription":"The COVID-19 pandemic is devastating long-term care homes across Ontario. During the first wave in the spring of 2020, the city of Windsor erected Canada's first MASH-style field hospital almost overnight to isolate and treat elderly patients from Heron Terrace who tested positive for the virus. To fight back against confusion and despair, medical staff created a lifeline between these seniors and their families using iPads and phones. Dispatches from a Field Hospital documents the dramatic stories of several families, including director Matt Gallagher, whose own father became a patient.",
+            "tags":[  
+               "covid-19",
+               "featured"
+            ]
+        },
+        {  
+            "id":"122648",
+            "title":"Family Camera",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "history",  
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/Family-Camera.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Through the stories of five exceptional Canadian families, this film explores how photos document our lives and bear witness to history.",
+            "longDescription":"This documentary is a moving look at 150 years of Canadian history through the iconic family photograph. From the first daguerreotypes taken in the 1840s to today's digital snapshots, family photographs have become important historical and anthropological artifacts that reflect who we are as a nation. Through the stories of five exceptional Canadian families, the film explores how these images document our lives and bear witness to history.",
+            "tags":[  
+                "history",
+                "music,-art-and-culture"
+            ]
+        },
+        {  
+            "id":"108974",
+            "title":"How to Prepare for Prison",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "crime",  
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/Family-Camera.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Shot over three years, this documentary follows the stories of three people facing prison for the first time.",
+            "longDescription":"Fuelled by fear, regret, defiance and redemption, this intimate documentary follows the stories of three people facing prison for the first time. Shot over three years, the film goes behind the scenes and into the offices of lawyers and judges, and into the homes of ordinary citizens caught in the crosshairs of the law. It captures their growing psychological distress as they await judgment.",
+            "tags":[  
+                "social-and-criminal-justice",
+                "lgbtq+"
+            ]
+        },
+        {  
+            "id":"129909",
+            "title":"Margin of Error",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "history",
+                "science",
+                "technology",  
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/Family-Camera.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"After a century of traditional polling to predict public opinion, Margin of Error examines how a small Ottawa startup uses artificial intelligence and public social media data to forecast voter behavior during the 2019 Canadian federal election.",
+            "longDescription":"In the face of a century of traditional polling to predict public opinion, there is a shakeup afoot in the prediction game. With the 2019 Canadian federal election as its backdrop, Margin of Error examines how a small Ottawa startup uses artificial intelligence and public social media data to forecast voter behaviour. But the promise of new technology also comes with questions about its accuracy, the threat to citizens' privacy and our democracy itself.",
+            "tags":[  
+                "politics",
+                "history",
+                "science-and-technology"
+            ]
+        },
+        {  
+            "id":"124303",
+            "title":"SponsorLand",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "crime", 
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/Family-Camera.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"The lives of a rambunctious Syrian refugee family of 13 intersect with their community of enthusiastic sponsors in Picton, Ont.",
+            "longDescription":"Canadians became international heroes during the Syrian refugee crisis by opening their doors and sponsoring thousands in need, but how do good intentions stack up against reality? This documentary by Michèle Hozer takes a look at the lives of a rambunctious Syrian family of 13 and their community of well-intentioned sponsors in Picton, Ont., exploring the joys, expectations, and challenges on both sides.",
+            "tags":[  
+                "social-and-criminal-justice"
+            ]
+        },
+        {  
+            "id":"131131",
+            "title":"TRIPPING The Rideau Canal",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "history",
+                "nature", 
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/Family-Camera.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Take an epic journey along Ontario's magnificent Rideau Canal and discover its rich history, unique culture, and breathtaking beauty.",
+            "longDescription":"Take an epic journey along Ontario's magnificent Rideau Canal, a UNESCO World Heritage Site and North America's oldest continuously operated canal system. Considered an engineering marvel, discover the Rideau Canal's rich history, unique culture, and breathtaking beauty.",
+            "tags":[  
+                "history",
+                "environment-and-nature",
+                "ontario-yours-to-discover"
+            ]
+        },
+        {  
+            "id":"125048",
+            "title":"The Fruit Machine",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "history",
+                "crime",
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/Family-Camera.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Survivors of a decades-long homosexual witch-hunt recount their personal stories of dedication and betrayal at the hands of the Canadian government.",
+            "longDescription":"In filmmaker Sarah Fodey's documentary, survivors of a decades-long homosexual witch-hunt recount their personal stories of dedication and betrayal at the hands of the Canadian government. Some softened by age and sadness, others loud and angry, the voices of the former public servants targeted in the purge are now united, and determined.",
+            "tags":[  
+                "history",
+                "lgbtq+",
+                "politics",
+                "social-and-criminal-justice"
+            ]
+        },
+        {  
+            "id":"124436",
+            "title":"There are No Fakes",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 178,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "history",
+                "crime",
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/Family-Camera.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"When musician Kevin Hearn buys a painting by Norval Morrisseau, doubts about its authenticity leads to a lucrative art forgery ring in Thunder Bay.",
+            "longDescription":"When musician Kevin Hearn buys a painting by the world's first Indigenous art star, Norval Morrisseau, doubts about its authenticity raises controversial questions about authorship and ownership. There Are No Fakes traces the provenance of Hearn's painting, unraveling a complex, stranger-than-fiction tale that leads to a lucrative art forgery ring in Thunder Bay. Viewer discretion is advised. ",
+            "tags":[  
+                "indigenous",
+                "social-and-criminal-justice",
+                "music,-art-and-culture"
+            ]
+        }
+        
+    ],
+    "series": [
+        {
+            "id": "id-series-101",
+            "title": "The First Series w/ Two Seasons",
+            "releaseDate": "2016-01-01",
+            "seasons": [
+                {
+                    "seasonNumber": "1",
+                    "episodes": [
+                        {
+                            "id": "id-s101e01",
+                            "title": "First Episode Title",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Marvelous episode description",
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "id-s101e02",
+                            "title": "Second Episode Title",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Marvelous episode description",
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodes": [
+                        {
+                            "id": "id-s102e01",
+                            "title": "First Episode Title",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Marvelous episode description",
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "id-s102e02",
+                            "title": "Second Episode Title",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Marvelous episode description",
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                }
+            ],
+            "genres": [
+              "educational",
+              "science fiction",
+              "thriller"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "shortDescription": "Wondrous series seasons.",
+            "tags":[  
+                "featured"
+             ]
+        },
+        {
+            "id": "id-series-201",
+            "title": "Second Series w/ One Season",
+            "releaseDate": "2016-01-01",
+            "seasons": [
+                {
+                    "seasonNumber": "1",
+                    "episodes": [
+                        {
+                            "id": "id-s201e01",
+                            "title": "First Episode Title",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Marvelous episode description",
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "id-s201e02",
+                            "title": "Second Episode Title",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Marvelous episode description",
+                            "longDescription":"Even more incredible and longer movie description",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                }
+            ],
+            "genres": [
+              "science fiction",
+              "food",
+              "crime"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "shortDescription": "Wondrous series seasons."
+        },
+        {
+            "id": "id-series-301",
+            "title": "Mini-series",
+            "releaseDate": "2016-01-01",
+            "episodes": [
+                {
+                    "id": "id-s301e01",
+                    "title": "First Episode Title",
+                    "episodeNumber": 1,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                            "videoType": "HLS",
+                            "quality": "SD"
+                        }],
+                        "duration": 105,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "shortDescription": "Marvelous episode description",
+                    "longDescription":"Even more incredible and longer movie description",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "id-s301e02",
+                    "title": "Second Episode Title",
+                    "episodeNumber": 2,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                            "videoType": "HLS",
+                            "quality": "SD"
+                        }],
+                        "duration": 105,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "shortDescription": "Marvelous episode description",
+                    "longDescription":"Even more incredible and longer movie description",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "id-s301e03",
+                    "title": "Second Episode Title",
+                    "episodeNumber": 3,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                            "videoType": "HLS",
+                            "quality": "SD"
+                        }],
+                        "duration": 105,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "shortDescription": "Marvelous episode description",
+                    "longDescription":"Even more incredible and longer movie description",
+                    "releaseDate": "2016-01-01"
+                }
+            ],
+            "genres": [
+              "fashion",
+              "romance",
+              "technology"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "shortDescription": "Unbelievables series episodes."
+          } 
+    ],
+    "tvSpecials": [
+        {
+            "id": "id-tv-special",
+            "title": "TV Special!",
+            "content": {
+                "dateAdded": "2020-07-22T02:32:24Z",
+				"videos": [{
+					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"videoType": "HLS",
+					"quality": "HD"
+				}],
+				"duration": 145,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres": [
+              "animals"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "releaseDate":"2016-01-01",
+            "shortDescription": "Unusual episode description",
+            "tags":[  
+                "animals"
+            ]
+        }
+    ]
+}
