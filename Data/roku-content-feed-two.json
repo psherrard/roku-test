@@ -51,7 +51,7 @@
             "thumbnail":"https://psherrard.github.io/roku-test/images/Captive_B.jpg",
             "releaseDate":"2021-03-05",
             "shortDescription":"Filmed over four years in Nigeria, journalist Mellissa Fung meets several brave young women who have escaped imprisonment by Boko Haram and are now trying to rebuild their lives. Through their struggles, Fung comes to terms with her own past. ",
-            "longDescription":"Filmed over four years in Nigeria, journalist Mellissa Fung meets several brave young women who have escaped imprisonment by Boko Haram and are now trying to rebuild their lives. Through their struggles, Fung comes to terms with her own past. ",
+            "longDescription":"Captive is a powerful personal journey about surviving the trauma of captivity and the toll conflict takes on women and girls. Filmed over four years in northeastern Nigeria, Canadian journalist Mellissa Fung meets several brave young women who have escaped imprisonment by Boko Haram and are now trying to rebuild their lives. Through their struggles, Fung comes to terms with her own past, confronting the deep trauma she thought she had long buried. Viewer discretion is advised.",
             "tags":[  
                "featured",
                "social-and-criminal-justice"
@@ -275,7 +275,7 @@
             "thumbnail":"https://psherrard.github.io/roku-test/images/Family-Camera.jpg",
             "releaseDate":"2021-03-05",
             "shortDescription":"When musician Kevin Hearn buys a painting by Norval Morrisseau, doubts about its authenticity leads to a lucrative art forgery ring in Thunder Bay.",
-            "longDescription":"When musician Kevin Hearn buys a painting by the world's first Indigenous art star, Norval Morrisseau, doubts about its authenticity raises controversial questions about authorship and ownership. There Are No Fakes traces the provenance of Hearn's painting, unraveling a complex, stranger-than-fiction tale that leads to a lucrative art forgery ring in Thunder Bay. Viewer discretion is advised. ",
+            "longDescription":"When musician Kevin Hearn buys a painting by the world's first Indigenous art star, Norval Morrisseau, doubts about its authenticity raises controversial questions about authorship and ownership. There Are No Fakes traces the provenance of Hearn's painting, unraveling a complex, stranger-than-fiction tale that leads to a lucrative art forgery ring in Thunder Bay. Viewer discretion is advised.",
             "tags":[  
                 "indigenous",
                 "social-and-criminal-justice",
@@ -286,9 +286,9 @@
     ],
     "series": [
         {
-            "id": "id-series-101",
-            "title": "The First Series w/ Two Seasons",
-            "releaseDate": "2016-01-01",
+            "id": "Employable",
+            "title": "Employable",
+            "releaseDate": "2021-03-05",
             "seasons": [
                 {
                     "seasonNumber": "1",
@@ -387,7 +387,8 @@
               "thriller"
             ],
             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-            "shortDescription": "Wondrous series seasons.",
+            "shortDescription": "This six-part series features job-seekers determined to show that having a disability shouldn't make them unemployable.",
+            "longDescription":"This six-part documentary series features job-seekers determined to show that having a physical disability or neurological condition shouldn't make them unemployable. Each episode features two individuals from the Greater Toronto Area or Montreal who want nothing more than to find steady employment. Each is living with vision loss or a neurological condition such as Tourette's, Asperger's or Down syndrome, or ADHD. It isn't always easy but each job seeker is determined to find their passion.",
             "tags":[  
                 "featured"
              ]
