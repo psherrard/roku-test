@@ -294,8 +294,8 @@
                     "seasonNumber": "1",
                     "episodes": [
                         {
-                            "id": "id-s101e01",
-                            "title": "First Episode Title",
+                            "id": "124295",
+                            "title": "Becca and Riley",
                             "episodeNumber": 1,
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -309,13 +309,13 @@
                                 "language": "en-us"
                             },
                             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-                            "shortDescription": "Marvelous episode description",
-                            "longDescription":"Even more incredible and longer movie description",
+                            "shortDescription": "With the guidance of experts, and support from friends and family, Becca and Riley try to navigate the process of finding work.",
+                            "longDescription":"With the guidance of experts, and support from friends and family, Becca and Riley try to navigate the process of finding work.",
                             "releaseDate": "2016-01-01"
                         },
                         {
-                            "id": "id-s101e02",
-                            "title": "Second Episode Title",
+                            "id": "124296",
+                            "title": "Melissa and Matt",
                             "episodeNumber": 2,
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -329,8 +329,88 @@
                                 "language": "en-us"
                             },
                             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-                            "shortDescription": "Marvelous episode description",
-                            "longDescription":"Even more incredible and longer movie description",
+                            "shortDescription": "Diagnosed with Tourette syndrome, Melissa is trying to find a job where she can feel accepted. Matt's ADHD makes it a struggle to maintain focus.",
+                            "longDescription":"Diagnosed with Tourette syndrome, Melissa is trying to find a job where she can feel accepted. Matt's ADHD makes it a struggle to maintain focus.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124297",
+                            "title": "Nathalea and Thomas",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Thomas, who has Down syndrome, and Nathalea, who is legally blind, remain positive they can achieve financial independence doing something they love.",
+                            "longDescription":"Thomas, who has Down syndrome, and Nathalea, who is legally blind, remain positive they can achieve financial independence doing something they love.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124298",
+                            "title": "Christine and Kelly",
+                            "episodeNumber": 4,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Highly educated and affable, Christine and Kelly are looking for someone to see past their disabilities and give them a chance at success.",
+                            "longDescription":"Highly educated and affable, Christine and Kelly are looking for someone to see past their disabilities and give them a chance at success.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124299",
+                            "title": "Jennifer and Simon",
+                            "episodeNumber": 5,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "After consulting experts and with their families' support, Jennifer and Simon confront the challenges of getting past the interview to find work.",
+                            "longDescription":"After consulting experts and with their families' support, Jennifer and Simon confront the challenges of getting past the interview to find work.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124302",
+                            "title": "Blair and Robert",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 105,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Blair has autism and dyscalculia, and has trouble with social cues and numbers. Robert, who speaks six languages, has been blind since age 8.",
+                            "longDescription":"Blair has autism and dyscalculia, and has trouble with social cues and numbers. Robert, who speaks six languages, has been blind since age 8.",
                             "releaseDate": "2016-01-01"
                         }
                     ]
@@ -382,15 +462,14 @@
                 }
             ],
             "genres": [
-              "educational",
-              "science fiction",
-              "thriller"
+              "crime"
             ],
             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
             "shortDescription": "This six-part series features job-seekers determined to show that having a disability shouldn't make them unemployable.",
             "longDescription":"This six-part documentary series features job-seekers determined to show that having a physical disability or neurological condition shouldn't make them unemployable. Each episode features two individuals from the Greater Toronto Area or Montreal who want nothing more than to find steady employment. Each is living with vision loss or a neurological condition such as Tourette's, Asperger's or Down syndrome, or ADHD. It isn't always easy but each job seeker is determined to find their passion.",
             "tags":[  
-                "featured"
+                "social-and-criminal-justice",
+                "politics"
              ]
         },
         {
