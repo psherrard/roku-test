@@ -286,8 +286,8 @@
     ],
     "series": [
         {
-            "id": "Employable",
-            "title": "Employable",
+            "id": "Employable-Me",
+            "title": "Employable Me",
             "releaseDate": "2021-03-05",
             "seasons": [
                 {
@@ -304,7 +304,7 @@
                                     "videoType": "HLS",
                                     "quality": "SD"
                                 }],
-                                "duration": 105,
+                                "duration": 3000,
                                 "captions": [ ],
                                 "language": "en-us"
                             },
@@ -324,7 +324,7 @@
                                     "videoType": "HLS",
                                     "quality": "SD"
                                 }],
-                                "duration": 105,
+                                "duration": 3000,
                                 "captions": [ ],
                                 "language": "en-us"
                             },
@@ -344,7 +344,7 @@
                                     "videoType": "HLS",
                                     "quality": "SD"
                                 }],
-                                "duration": 105,
+                                "duration": 3000,
                                 "captions": [ ],
                                 "language": "en-us"
                             },
@@ -364,7 +364,7 @@
                                     "videoType": "HLS",
                                     "quality": "SD"
                                 }],
-                                "duration": 105,
+                                "duration": 3000,
                                 "captions": [ ],
                                 "language": "en-us"
                             },
@@ -384,7 +384,7 @@
                                     "videoType": "HLS",
                                     "quality": "SD"
                                 }],
-                                "duration": 105,
+                                "duration": 3000,
                                 "captions": [ ],
                                 "language": "en-us"
                             },
@@ -404,7 +404,7 @@
                                     "videoType": "HLS",
                                     "quality": "SD"
                                 }],
-                                "duration": 105,
+                                "duration": 300,
                                 "captions": [ ],
                                 "language": "en-us"
                             },
@@ -419,8 +419,8 @@
                     "seasonNumber": "2",
                     "episodes": [
                         {
-                            "id": "id-s102e01",
-                            "title": "First Episode Title",
+                            "id": "124558",
+                            "title": "Rick and Victor",
                             "episodeNumber": 1,
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -429,18 +429,18 @@
                                     "videoType": "HLS",
                                     "quality": "SD"
                                 }],
-                                "duration": 105,
+                                "duration": 3000,
                                 "captions": [ ],
                                 "language": "en-us"
                             },
                             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-                            "shortDescription": "Marvelous episode description",
-                            "longDescription":"Even more incredible and longer movie description",
+                            "shortDescription":"Rick has Autism Spectrum Disorder and has struggled to find paid employment since graduating high school over 10 years ago ",
+                            "longDescription":"Rick has Autism Spectrum Disorder and has struggled to find paid employment since graduating high school over 10 years ago. He must overcome his fear of change in order to fulfill his dream of becoming an actor or a chef. Basketball fanatic Victor has a rare lung condition and aims to show the world that he is capable of anything he puts his mind to.",
                             "releaseDate": "2016-01-01"
                         },
                         {
-                            "id": "id-s102e02",
-                            "title": "Second Episode Title",
+                            "id": "124559",
+                            "title": "Jack and Francie",
                             "episodeNumber": 2,
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -449,20 +449,229 @@
                                     "videoType": "HLS",
                                     "quality": "SD"
                                 }],
-                                "duration": 105,
+                                "duration": 3000,
                                 "captions": [ ],
                                 "language": "en-us"
                             },
                             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-                            "shortDescription": "Marvelous episode description",
-                            "longDescription":"Even more incredible and longer movie description",
+                            "shortDescription": "Jack, a film fanatic and aspiring director, has Asperger's Syndrome and struggles in social settings.",
+                            "longDescription":"Jack, a film fanatic and aspiring director, has Asperger's Syndrome and struggles in social settings. He wants to break into the film industry, but spends most of his time in his room. Francie is an outgoing woman born with Down syndrome, a naturally occurring chromosomal arrangement. She wants to land her first paycheque so she can eventually get her own apartment.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124560",
+                            "title": "Jessica and Patrick",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Jessica has Down syndrome, a naturally occurring chromosomal arrangement, and resides with her parents in Toronto.",
+                            "longDescription":"Jessica has Down syndrome, a naturally occurring chromosomal arrangement, and resides with her parents in Toronto. She has a passion for art, but does not know how to translate it into a paying job. With the help of his mom and sister, Patrick (BJ) has overcome many challenges caused by his hydrocephalus, including becoming legally blind after one of his 23 surgeries. But one setback in his career makes him question his path.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124561",
+                            "title": "Susan and Carly",
+                            "episodeNumber": 4,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Former Olympian Susan hasn't held a paid position since suffering a brain injury over a decade ago, but she longs to be independent and help her retired parents",
+                            "longDescription":"Former Olympian Susan hasn't held a paid position since suffering a brain injury over a decade ago, but she longs to be independent and help her retired parents. While Carly's Autism Spectrum Disorder may cause her to struggle to communicate, she wants to translate her passion for music or baking into her first job.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125508",
+                            "title": "Gavin and Lucia",
+                            "episodeNumber": 5,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration":3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Blinded in two separate accidents in his hometown of Jamaica, Gavin has thrived in the academic world of music and athletics since moving to Canada",
+                            "longDescription":"Blinded in two separate accidents in his hometown of Jamaica, Gavin has thrived in the academic world of music and athletics since moving to Canada. For the first time, he will discover if he can succeed in a professional setting. Lucia longs to make a difference in the world and hopes to find a workplace that will not judge the physical and verbal tics caused by her Tourette syndrome.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125509",
+                            "title": "Miranda and Donald",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "After multiple surgeries to manage her Intractable Epilepsy, Miranda still can't find paid work at her dream job and must reevaluate her skills",
+                            "longDescription":"After multiple surgeries to manage her Intractable Epilepsy, Miranda still can't find paid work at her dream job and must reevaluate her skills. Donald is looking for a stable job where he can apply his two degrees, and not be judged by his rare genetic disorder called Osteogenesis Imperfecta, which causes brittle bones and stunted growth.",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodes": [
+                        {
+                            "id": "125270",
+                            "title": "Jordan and Ariana",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Jordan hopes to find a career that puts his extensive train knowledge to use; Ariana wants to work in the wellness field.",
+                            "longDescription":"Jordan hopes to find a career that puts his extensive train knowledge to use; Ariana wants to work in the wellness field.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125271",
+                            "title": "Kathryn and Dylan",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Kathryn hopes to find a job that puts her creative mind to use; Dylan wants a career in a dynamic environment.",
+                            "longDescription":"Kathryn hopes to find a job that puts her creative mind to use; Dylan wants a career in a dynamic environment.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125272",
+                            "title": "Daniel and George",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Daniel is looking for a job in music or film; blind track star, George, hopes to work in software development.",
+                            "longDescription":"Daniel is looking for a job in music or film; blind track star, George, hopes to work in software development.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125273",
+                            "title": "Daniel and Alessia",
+                            "episodeNumber": 4,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Daniel is looking for am employer who wants somebody who can think outside the box; Alessia wants to channel her creativity and love of kids into a career that excites her.",
+                            "longDescription":"Daniel is looking for am employer who wants somebody who can think outside the box; Alessia wants to channel her creativity and love of kids into a career that excites her.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125274",
+                            "title": "Yang and Elias",
+                            "episodeNumber": 5,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Despite having a Master's degree in Economics, Yang, a single mom who is blind, hasn't landed a paying job; Elias has Autism Spectrum Disorder and dreams of being a puppeteer.",
+                            "longDescription":"Despite having a Master's degree in Economics, Yang, a single mom who is blind, hasn't landed a paying job; Elias has Autism Spectrum Disorder and dreams of being a puppeteer.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125275",
+                            "title": "Mark and Mari",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 50,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Sports fanatic Mark has Autism Spectrum Disorder and hopes to find a career that makes use of his strong sports knowledge; Mari, who was born with Spina Bifida, craves more stability in a career.",
+                            "longDescription":"Sports fanatic Mark has Autism Spectrum Disorder and hopes to find a career that makes use of his strong sports knowledge; Mari, who was born with Spina Bifida, craves more stability in a career.",
                             "releaseDate": "2016-01-01"
                         }
                     ]
                 }
             ],
             "genres": [
-              "crime"
+              "documentary",
+              "drama",
+              "educational",
+              "health",
+              "reality"
             ],
             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
             "shortDescription": "This six-part series features job-seekers determined to show that having a disability shouldn't make them unemployable.",
@@ -470,39 +679,39 @@
             "tags":[  
                 "social-and-criminal-justice",
                 "politics"
-             ]
+            ]
         },
         {
-            "id": "id-series-201",
-            "title": "Second Series w/ One Season",
+            "id": "First-Contact",
+            "title": "First Contact",
             "releaseDate": "2016-01-01",
             "seasons": [
                 {
                     "seasonNumber": "1",
                     "episodes": [
                         {
-                            "id": "id-s201e01",
-                            "title": "First Episode Title",
+                            "id": "124438",
+                            "title": "Ep 1 - First Contact",
                             "episodeNumber": 1,
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
                                     "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
                                     "videoType": "HLS",
-                                    "quality": "SD"
+                                    "quality": "HD"
                                 }],
-                                "duration": 105,
+                                "duration": 2710,
                                 "captions": [ ],
                                 "language": "en-us"
                             },
                             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-                            "shortDescription": "Marvelous episode description",
-                            "longDescription":"Even more incredible and longer movie description",
+                            "shortDescription": "The six travelers begin their journey in heart of Canada; Winnipeg, Manitoba. Here they meet prominent Indigenous activist Michael Redhead Champagne who sheds some light on the journey ahead.",
+                            "longDescription": "The six travelers begin their journey in heart of Canada; Winnipeg, Manitoba. Here they meet prominent Indigenous activist Michael Redhead Champagne who sheds some light on the journey ahead.",
                             "releaseDate": "2016-01-01"
                         },
                         {
-                            "id": "id-s201e02",
-                            "title": "Second Episode Title",
+                            "id": "124439",
+                            "title": "Ep 2 - First Contact",
                             "episodeNumber": 2,
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
@@ -511,25 +720,496 @@
                                     "videoType": "HLS",
                                     "quality": "SD"
                                 }],
-                                "duration": 105,
+                                "duration": 2710,
                                 "captions": [ ],
                                 "language": "en-us"
                             },
                             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-                            "shortDescription": "Marvelous episode description",
-                            "longDescription":"Even more incredible and longer movie description",
+                            "shortDescription": "The group arrives in Muskrat Dam, one of several fly-in reserves in Northern Ontario.",
+                            "longDescription":"The group arrives in Muskrat Dam, one of several fly-in reserves in Northern Ontario. Most Canadians don`t understand why people continue to live in remote places like this one. During their stay the group will learn why relocating isn`t an option for the families whose families have been here for generations. Viewer Discretion Advised",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124440",
+                            "title": "Ep 3 - First Contact",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Heading south to Calgary, the group hits the front lines to experience life on the streets, and then go north, to an Edmonton prison to learn about life on the inside",
+                            "longDescription":"Heading south to Calgary, the group hits the front lines to experience life on the streets, and then go north, to an Edmonton prison to learn about life on the inside",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodes": [
+                        {
+                            "id": "127634",
+                            "title": "Ep 1 - First Contact",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "The six travelers embark on a life-changing 28-day journey into Indigenous communities across Canada.",
+                            "longDescription": "The six travelers embark on a life-changing 28-day journey into Indigenous communities across Canada. In Kanasatake, Quebec, they are exposed to new perspective about the Oka Siege. And in Natuasish, Labrador, time spent with the local Innu people sheds new light on its residents and history.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "127635",
+                            "title": "Ep 2 - First Contact",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "The six participants travel south to Thunder Bay, where a number of tragic incidents have exposed racist attitudes towards Indigenous people. Then, a meeting with residential school survivors in southern Ontario shocks the participants.",
+                            "longDescription":"The six participants travel south to Thunder Bay, where a number of tragic incidents have exposed racist attitudes towards Indigenous people. Then, a meeting with residential school survivors in southern Ontario shocks the participants.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "127636",
+                            "title": "Ep 3 - First Contact",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Traveling to northern Saskatchewan, the six travelers face their biggest test yet as they meet with people from communities deeply affected by the death of Colten Boushie.",
+                            "longDescription":"Traveling to northern Saskatchewan, the six travelers face their biggest test yet as they meet with people from communities deeply affected by the death of Colten Boushie. Finally, the group travels to the Yukon, where self-governance is helping a community flourish.",
                             "releaseDate": "2016-01-01"
                         }
                     ]
                 }
             ],
             "genres": [
-              "science fiction",
-              "food",
-              "crime"
+              "adventure",
+              "documentary",
+              "drama",
+              "educational",
+              "history",
+              "nature",
+              "reality"
             ],
             "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
-            "shortDescription": "Wondrous series seasons."
+            "shortDescription": "First Contact takes a group of six non-Indigenous Canadians with strong opinions on Indigenous people and immerses them into Aboriginal Canada for the first time.",
+            "longDescription":"First Contact takes a group of six non-Indigenous Canadians with strong opinions on Indigenous people and immerses them into Aboriginal Canada for the first time. The six participants are tested in extraordinary situations, their beliefs are confronted, their emotions pushed to the limit.",
+            "tags":[  
+                "social-and-criminal-justice",
+                "indigenous",
+                "ontario-yours-to-discover",
+                "music,-art-and-culture"
+            ]
+        },
+        {
+            "id": "striking-balance",
+            "title": "Striking Balance",
+            "releaseDate": "2016-01-01",
+            "seasons": [
+                {
+                    "seasonNumber": "1",
+                    "episodes": [
+                        {
+                            "id": "117018",
+                            "title": "Long point",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3147,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Ontario's Long Point, the world's longest freshwater sand spit, is threatened by an invasive plant, phragmites.",
+                            "longDescription": "Once surrounded by desert, Ontario's Long Point, the world's longest freshwater sand spit, is today lush with forests and wetlands. An invasive plant, phragmites, is its biggest threat.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117019",
+                            "title": "Clayoquot Sound",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "British Columbia communities look to the past to learn how the environment, cultures and economies can thrive.",
+                            "longDescription":"After years of conflict over logging in Clayoquot Sound, British Columbia communities look to the past to learn how the environment, cultures and economies can thrive for hundreds of years to come.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117020",
+                            "title": "Mont Saint-Hilaire",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "The old-growth forest and pristine lake of Quebec's Mont Saint-Hilaire are cherished by nearby communities.",
+                            "longDescription":"The old-growth forest and pristine glacial lake of Quebec's towering Mont Saint-Hilaire are cherished by the communities that surround it. But unchecked growth threatens the very mountain they love.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117021",
+                            "title": "Bras d'Or",
+                            "episodeNumber": 4,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "On the Bras d'Or Lake in Cape Breton Island, oyster farming was seen as a sustainable alternative to working in coal and steel.",
+                            "longDescription":"On the Bras d'Or Lake in Nova Scotia's Cape Breton Island, oyster farming was seen as a sustainable alternative to working in coal and steel. After a parasite ravaged the oyster population, both traditional Mi'kmaq knowledge and western science are being used to bring the oysters back.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117022",
+                            "title": "Georgian Bay",
+                            "episodeNumber": 5,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Residents struggle to mitigate the impact of cottagers and a new highway on the region's endangered species.",
+                            "longDescription":"The people of Georgian Bay struggle to mitigate the impact of increasing numbers of cottagers and a new four-lane highway on the region's endangered species.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117023",
+                            "title": "Redberry Lake",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Students conduct social and scientific experiments at Redberry, a salt lake at the heart of a shrinking Saskatchewan community.",
+                            "longDescription":"Students conduct both social and scientific experiments at Redberry, a salt lake at the heart of a shrinking Saskatchewan community that's determined to thrive in the face of industrial agriculture.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117024",
+                            "title": "Fundy",
+                            "episodeNumber": 7,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "The Inner Bay of Fundy's population of Atlantic salmon is teetering on the edge of extinction, but people are determined to bring it back.",
+                            "longDescription":"The Inner Bay of Fundy's population of Atlantic salmon is teetering on the edge of extinction, but the people of the Fundy Biosphere Reserve are determined to bring it back.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117025",
+                            "title": "Waterton",
+                            "episodeNumber": 8,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Grizzlies are increasingly protected in Alberta, challenging the ranchers of the Waterton Biosphere Reserve to find new ways to coexist with them.",
+                            "longDescription":"Grizzly bears have been increasingly protected in Alberta since 2006, challenging the ranchers of the Waterton Biosphere Reserve to find new ways to coexist with this powerful animal.",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodes": [
+                        {
+                            "id": "125577",
+                            "title": "Tsa Tue Biosphere Reserve",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Join us on a journey across Canada as we look at our nation's breathtaking biosphere reserves in this eight-part cinematic documentary series.",
+                            "longDescription": "Troubled by a history of uranium mining, the Sahtu Dene of Great Bear Lake create North America's largest biosphere reserve to protect its pristine waters for all of humanity.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125579",
+                            "title": "Manicouagan-Uapishka Biosphere Reserve",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Join us on a journey across Canada as we look at our nation's breathtaking biosphere reserves in this eight-part cinematic documentary series.",
+                            "longDescription":"Quebec's Manicouagan-Uapishka Biosphere Reserve prides itself on working with industry toward a sustainable future. But their dream is put to the test when their biggest project is jeopardized by North America's largest hydro-electricity reservoir.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125584",
+                            "title": "Niagara Escarpment",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Join us on a journey across Canada as we look at our nation's breathtaking biosphere reserves in this eight-part cinematic documentary series.",
+                            "longDescription":"In Ontario's Niagara Escarpment Biosphere Reserve, scientists, climbers and even quarry companies come up with innovative ways to co-exist with, restore and enhance the natural world.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125580",
+                            "title": "Riding Mountain Biosphere Reserve",
+                            "episodeNumber": 4,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Join us on a journey across Canada as we look at our nation's breathtaking biosphere reserves in this eight-part cinematic documentary series.",
+                            "longDescription":"After suffering through repeated, tsunami-like floods north of Manitoba's Riding Mountain, the Von Bargens lead the call to restore nature's flood protection systems.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125581",
+                            "title": "Mount Arrowsmith Biosphere Reserve",
+                            "episodeNumber": 5,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Join us on a journey across Canada as we look at our nation's breathtaking biosphere reserves in this eight-part cinematic documentary series.",
+                            "longDescription":"Following unprecedented droughts, the people of BC's Mount Arrowsmith Biosphere Region begin their quest to restore the water balance.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125582",
+                            "title": "Lac Saint-Pierre Biosphere Reserve",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Join us on a journey across Canada as we look at our nation's breathtaking biosphere reserves in this eight-part cinematic documentary series.",
+                            "longDescription":"The yellow perch, a key indicator of the health of Quebec's Lac Saint-Pierre, is in serious trouble. But this little fish is inspiring the big change needed to restore the lake to its former glory.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125583",
+                            "title": "Beaver Hills Biosphere Reserve",
+                            "episodeNumber": 7,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Join us on a journey across Canada as we look at our nation's breathtaking biosphere reserves in this eight-part cinematic documentary series.",
+                            "longDescription":"A little-known, but remarkable region of wetlands, called the Beaver Hills, are at risk of being swallowed by a growing Edmonton. As home to the world's most important herd of buffalo, people here are uniting to keep the Hills intact.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125578",
+                            "title": "Frontenac Arch Biosphere Reserve",
+                            "episodeNumber": 8,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Join us on a journey across Canada as we look at our nation's breathtaking biosphere reserves in this eight-part cinematic documentary series.",
+                            "longDescription":"The heart of eastern North America's last, great forest corridor is threatened by development, but the people of Ontario's Frontenac Arch Biosphere Reserve are determined to keep it intact.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125584",
+                            "title": "Niagara Escarpment",
+                            "episodeNumber": 9,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "shortDescription": "Join us on a journey across Canada as we look at our nation's breathtaking biosphere reserves in this eight-part cinematic documentary series.",
+                            "longDescription":"In Ontario's Niagara Escarpment Biosphere Reserve, scientists, climbers and even quarry companies come up with innovative ways to co-exist with, restore and enhance the natural world.",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                }
+            ],
+            "genres": [
+              "adventure",
+              "documentary",
+              "drama",
+              "educational",
+              "history",
+              "nature",
+              "reality"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "shortDescription": "First Contact takes a group of six non-Indigenous Canadians with strong opinions on Indigenous people and immerses them into Aboriginal Canada for the first time.",
+            "longDescription":"First Contact takes a group of six non-Indigenous Canadians with strong opinions on Indigenous people and immerses them into Aboriginal Canada for the first time. The six participants are tested in extraordinary situations, their beliefs are confronted, their emotions pushed to the limit.",
+            "tags":[  
+                "social-and-criminal-justice",
+                "indigenous",
+                "ontario-yours-to-discover",
+                "music,-art-and-culture"
+            ]
         },
         {
             "id": "id-series-301",
