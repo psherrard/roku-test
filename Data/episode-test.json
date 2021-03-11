@@ -1,0 +1,558 @@
+{
+    "providerName": "TVO",
+    "lastUpdated": "2021-03-05T02:30:00+00:00",
+    "language": "en",
+    "series": [
+        {
+            "id": "Employable-Me",
+            "title": "Employable Me",
+            "releaseDate": "2021-03-05",
+            "seasons": [
+                {
+                    "seasonNumber": "2",
+                    "episodes": [
+                        {
+                            "id": "124295",
+                            "title": "Becca and Riley",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/101.jpg",
+                            "shortDescription": "With the guidance of experts, and support from friends and family, Becca and Riley try to navigate the process of finding work.",
+                            "longDescription":"With the guidance of experts, and support from friends and family, Becca and Riley try to navigate the process of finding work.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124296",
+                            "title": "Melissa and Matt",
+                            "episodeNumber": 5,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/102.jpg",
+                            "shortDescription": "Diagnosed with Tourette syndrome, Melissa is trying to find a job where she can feel accepted. Matt's ADHD makes it a struggle to maintain focus.",
+                            "longDescription":"Diagnosed with Tourette syndrome, Melissa is trying to find a job where she can feel accepted. Matt's ADHD makes it a struggle to maintain focus.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124297",
+                            "title": "Nathalea and Thomas",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/103.jpg",
+                            "shortDescription": "Thomas, who has Down syndrome, and Nathalea, who is legally blind, remain positive they can achieve financial independence doing something they love.",
+                            "longDescription":"Thomas, who has Down syndrome, and Nathalea, who is legally blind, remain positive they can achieve financial independence doing something they love.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124298",
+                            "title": "Christine and Kelly",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/104.jpg",
+                            "shortDescription": "Highly educated and affable, Christine and Kelly are looking for someone to see past their disabilities and give them a chance at success.",
+                            "longDescription":"Highly educated and affable, Christine and Kelly are looking for someone to see past their disabilities and give them a chance at success.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124299",
+                            "title": "Jennifer and Simon",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/105.jpg",
+                            "shortDescription": "After consulting experts and with their families' support, Jennifer and Simon confront the challenges of getting past the interview to find work.",
+                            "longDescription":"After consulting experts and with their families' support, Jennifer and Simon confront the challenges of getting past the interview to find work.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124302",
+                            "title": "Blair and Robert",
+                            "episodeNumber": 4,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 300,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/106.jpg",
+                            "shortDescription": "Blair has autism and dyscalculia, and has trouble with social cues and numbers. Robert, who speaks six languages, has been blind since age 8.",
+                            "longDescription":"Blair has autism and dyscalculia, and has trouble with social cues and numbers. Robert, who speaks six languages, has been blind since age 8.",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodes": [
+                        {
+                            "id": "124558",
+                            "title": "Rick and Victor",
+                            "episodeNumber": 4,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/201.jpg",
+                            "shortDescription":"Rick has Autism Spectrum Disorder and has struggled to find paid employment since graduating high school over 10 years ago ",
+                            "longDescription":"Rick has Autism Spectrum Disorder and has struggled to find paid employment since graduating high school over 10 years ago. He must overcome his fear of change in order to fulfill his dream of becoming an actor or a chef. Basketball fanatic Victor has a rare lung condition and aims to show the world that he is capable of anything he puts his mind to.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124559",
+                            "title": "Jack and Francie",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/202.jpg",
+                            "shortDescription": "Jack, a film fanatic and aspiring director, has Asperger's Syndrome and struggles in social settings.",
+                            "longDescription":"Jack, a film fanatic and aspiring director, has Asperger's Syndrome and struggles in social settings. He wants to break into the film industry, but spends most of his time in his room. Francie is an outgoing woman born with Down syndrome, a naturally occurring chromosomal arrangement. She wants to land her first paycheque so she can eventually get her own apartment.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124560",
+                            "title": "Jessica and Patrick",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/203.jpg",
+                            "shortDescription": "Jessica has Down syndrome, a naturally occurring chromosomal arrangement, and resides with her parents in Toronto.",
+                            "longDescription":"Jessica has Down syndrome, a naturally occurring chromosomal arrangement, and resides with her parents in Toronto. She has a passion for art, but does not know how to translate it into a paying job. With the help of his mom and sister, Patrick (BJ) has overcome many challenges caused by his hydrocephalus, including becoming legally blind after one of his 23 surgeries. But one setback in his career makes him question his path.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124561",
+                            "title": "Susan and Carly",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/204.jpg",
+                            "shortDescription": "Former Olympian Susan hasn't held a paid position since suffering a brain injury over a decade ago, but she longs to be independent and help her retired parents",
+                            "longDescription":"Former Olympian Susan hasn't held a paid position since suffering a brain injury over a decade ago, but she longs to be independent and help her retired parents. While Carly's Autism Spectrum Disorder may cause her to struggle to communicate, she wants to translate her passion for music or baking into her first job.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125508",
+                            "title": "Gavin and Lucia",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration":3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/205.jpg",
+                            "shortDescription": "Blinded in two separate accidents in his hometown of Jamaica, Gavin has thrived in the academic world of music and athletics since moving to Canada",
+                            "longDescription":"Blinded in two separate accidents in his hometown of Jamaica, Gavin has thrived in the academic world of music and athletics since moving to Canada. For the first time, he will discover if he can succeed in a professional setting. Lucia longs to make a difference in the world and hopes to find a workplace that will not judge the physical and verbal tics caused by her Tourette syndrome.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125509",
+                            "title": "Miranda and Donald",
+                            "episodeNumber": 5,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/206.jpg",
+                            "shortDescription": "After multiple surgeries to manage her Intractable Epilepsy, Miranda still can't find paid work at her dream job and must reevaluate her skills",
+                            "longDescription":"After multiple surgeries to manage her Intractable Epilepsy, Miranda still can't find paid work at her dream job and must reevaluate her skills. Donald is looking for a stable job where he can apply his two degrees, and not be judged by his rare genetic disorder called Osteogenesis Imperfecta, which causes brittle bones and stunted growth.",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": "1",
+                    "episodes": [
+                        {
+                            "id": "125270",
+                            "title": "Jordan and Ariana",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/301.jpg",
+                            "shortDescription": "Jordan hopes to find a career that puts his extensive train knowledge to use; Ariana wants to work in the wellness field.",
+                            "longDescription":"Jordan hopes to find a career that puts his extensive train knowledge to use; Ariana wants to work in the wellness field.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125271",
+                            "title": "Kathryn and Dylan",
+                            "episodeNumber": 5,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/302.jpg",
+                            "shortDescription": "Kathryn hopes to find a job that puts her creative mind to use; Dylan wants a career in a dynamic environment.",
+                            "longDescription":"Kathryn hopes to find a job that puts her creative mind to use; Dylan wants a career in a dynamic environment.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125272",
+                            "title": "Daniel and George",
+                            "episodeNumber": 4,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/303.jpg",
+                            "shortDescription": "Daniel is looking for a job in music or film; blind track star, George, hopes to work in software development.",
+                            "longDescription":"Daniel is looking for a job in music or film; blind track star, George, hopes to work in software development.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125273",
+                            "title": "Daniel and Alessia",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/304.jpg",
+                            "shortDescription": "Daniel is looking for am employer who wants somebody who can think outside the box; Alessia wants to channel her creativity and love of kids into a career that excites her.",
+                            "longDescription":"Daniel is looking for am employer who wants somebody who can think outside the box; Alessia wants to channel her creativity and love of kids into a career that excites her.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125274",
+                            "title": "Yang and Elias",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/305.jpg",
+                            "shortDescription": "Despite having a Master's degree in Economics, Yang, a single mom who is blind, hasn't landed a paying job; Elias has Autism Spectrum Disorder and dreams of being a puppeteer.",
+                            "longDescription":"Despite having a Master's degree in Economics, Yang, a single mom who is blind, hasn't landed a paying job; Elias has Autism Spectrum Disorder and dreams of being a puppeteer.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125275",
+                            "title": "Mark and Mari",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 50,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/306.jpg",
+                            "shortDescription": "Sports fanatic Mark has Autism Spectrum Disorder and hopes to find a career that makes use of his strong sports knowledge; Mari, who was born with Spina Bifida, craves more stability in a career.",
+                            "longDescription":"Sports fanatic Mark has Autism Spectrum Disorder and hopes to find a career that makes use of his strong sports knowledge; Mari, who was born with Spina Bifida, craves more stability in a career.",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                }
+            ],
+            "genres": [
+              "documentary",
+              "drama",
+              "educational",
+              "health",
+              "reality"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/empolyable-me.jpg",
+            "shortDescription": "This six-part series features job-seekers determined to show that having a disability shouldn't make them unemployable.",
+            "longDescription":"This six-part documentary series features job-seekers determined to show that having a physical disability or neurological condition shouldn't make them unemployable. Each episode features two individuals from the Greater Toronto Area or Montreal who want nothing more than to find steady employment. Each is living with vision loss or a neurological condition such as Tourette's, Asperger's or Down syndrome, or ADHD. It isn't always easy but each job seeker is determined to find their passion.",
+            "tags":[  
+                "social-and-criminal-justice",
+                "politics"
+            ]
+        },
+        {
+            "id": "First-Contact",
+            "title": "First Contact",
+            "releaseDate": "2016-01-01",
+            "seasons": [
+                {
+                    "seasonNumber": "4",
+                    "episodes": [
+                        {
+                            "id": "124438",
+                            "title": "Ep 1 - First Contact",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "HD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/101.jpg",
+                            "shortDescription": "The six travelers begin their journey in heart of Canada; Winnipeg, Manitoba. Here they meet prominent Indigenous activist Michael Redhead Champagne who sheds some light on the journey ahead.",
+                            "longDescription": "The six travelers begin their journey in heart of Canada; Winnipeg, Manitoba. Here they meet prominent Indigenous activist Michael Redhead Champagne who sheds some light on the journey ahead.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124439",
+                            "title": "Ep 2 - First Contact",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/102.jpg",
+                            "shortDescription": "The group arrives in Muskrat Dam, one of several fly-in reserves in Northern Ontario.",
+                            "longDescription":"The group arrives in Muskrat Dam, one of several fly-in reserves in Northern Ontario. Most Canadians don`t understand why people continue to live in remote places like this one. During their stay the group will learn why relocating isn`t an option for the families whose families have been here for generations. Viewer Discretion Advised",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124440",
+                            "title": "Ep 3 - First Contact",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/103.jpg",
+                            "shortDescription": "Heading south to Calgary, the group hits the front lines to experience life on the streets, and then go north, to an Edmonton prison to learn about life on the inside",
+                            "longDescription":"Heading south to Calgary, the group hits the front lines to experience life on the streets, and then go north, to an Edmonton prison to learn about life on the inside",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": "20",
+                    "episodes": [
+                        {
+                            "id": "127634",
+                            "title": "Ep 1 - First Contact",
+                            "episodeNumber": 10,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "MP4",
+                                    "quality": "SD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/201.jpg",
+                            "shortDescription": "The six travelers embark on a life-changing 28-day journey into Indigenous communities across Canada.",
+                            "longDescription": "The six travelers embark on a life-changing 28-day journey into Indigenous communities across Canada. In Kanasatake, Quebec, they are exposed to new perspective about the Oka Siege. And in Natuasish, Labrador, time spent with the local Innu people sheds new light on its residents and history.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "127635",
+                            "title": "Ep 2 - First Contact",
+                            "episodeNumber": 22,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/202.jpg",
+                            "shortDescription": "The six participants travel south to Thunder Bay, where a number of tragic incidents have exposed racist attitudes towards Indigenous people. Then, a meeting with residential school survivors in southern Ontario shocks the participants.",
+                            "longDescription":"The six participants travel south to Thunder Bay, where a number of tragic incidents have exposed racist attitudes towards Indigenous people. Then, a meeting with residential school survivors in southern Ontario shocks the participants.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "127636",
+                            "title": "Ep 3 - First Contact",
+                            "episodeNumber": 31,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "videoType": "HLS",
+                                    "quality": "SD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/203.jpg",
+                            "shortDescription": "Traveling to northern Saskatchewan, the six travelers face their biggest test yet as they meet with people from communities deeply affected by the death of Colten Boushie.",
+                            "longDescription":"Traveling to northern Saskatchewan, the six travelers face their biggest test yet as they meet with people from communities deeply affected by the death of Colten Boushie. Finally, the group travels to the Yukon, where self-governance is helping a community flourish.",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                }
+            ],
+            "genres": [
+              "adventure",
+              "documentary",
+              "drama",
+              "educational",
+              "history",
+              "nature",
+              "reality"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/first-contact.jpg",
+            "shortDescription": "First Contact takes a group of six non-Indigenous Canadians with strong opinions on Indigenous people and immerses them into Aboriginal Canada for the first time.",
+            "longDescription":"First Contact takes a group of six non-Indigenous Canadians with strong opinions on Indigenous people and immerses them into Aboriginal Canada for the first time. The six participants are tested in extraordinary situations, their beliefs are confronted, their emotions pushed to the limit.",
+            "tags":[  
+                "social-and-criminal-justice",
+                "indigenous",
+                "ontario-yours-to-discover",
+                "music,-art-and-culture"
+            ]
+        } 
+    ]
+}
