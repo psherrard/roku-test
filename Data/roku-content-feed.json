@@ -63,7 +63,7 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/8c214705-a968-4b7a-904f-cbb3aea4723a/d2f0f016-0d7f-4818-8ad7-596b7e28323f/main.mp4?akamai_token=exp=1616453112~acl=/media/v1/pmp4/static/clear/18140038001/8c214705-a968-4b7a-904f-cbb3aea4723a/d2f0f016-0d7f-4818-8ad7-596b7e28323f/main.mp4*~hmac=5b319020d939fe583a8efc777cc586be74d7b8a6473602671c410a5b3f733e53",
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
