@@ -931,8 +931,8 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
+                                    "url": "https://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/e30c1eb6-97c9-4a0a-9d13-50526d70b03e/ea6e119c-d3b1-4fb6-9c43-b5c4858f5bea/main.mp4?akamai_token=exp=1615937922~acl=/media/v1/pmp4/static/clear/1351824783/e30c1eb6-97c9-4a0a-9d13-50526d70b03e/ea6e119c-d3b1-4fb6-9c43-b5c4858f5bea/main.mp4*~hmac=cee6ebb2c6e00bc92e1c4219095d797d87aeca7b6f6541b45dd094daa22ea3a5&pubid=18140038001",
+                                    "videoType": "MP4",
                                     "quality": "HD"
                                 }],
                                 "duration": 3086,
