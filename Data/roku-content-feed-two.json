@@ -13,7 +13,7 @@
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
-				"duration": 178,
+				"duration": 5400,
                 "captions": [ ],
 				"language": "en-us"
             },
@@ -21,7 +21,7 @@
                "nature",
                "documentary"
             ],
-            "thumbnail":"https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "thumbnail":"https://psherrard.github.io/roku-test/images/borealis.jpg",
             "releaseDate":"2021-03-05",
             "shortDescription":"Borealis travels deep into the heart of Canada's iconic wilderness to explore how the plants and animals that live there communicate and survive the destructive forces of fire, insects, and human encroachment.",
             "longDescription":"Borealis travels deep into the heart of Canada's iconic wilderness to explore how the plants and animals that live there communicate and survive the destructive forces of fire, insects, and human encroachment.",
@@ -40,7 +40,7 @@
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
-				"duration": 178,
+				"duration": 5233,
                 "captions": [ ],
 				"language": "en-us"
             },
@@ -63,11 +63,11 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/8c214705-a968-4b7a-904f-cbb3aea4723a/d2f0f016-0d7f-4818-8ad7-596b7e28323f/main.mp4?akamai_token=exp=1616453112~acl=/media/v1/pmp4/static/clear/18140038001/8c214705-a968-4b7a-904f-cbb3aea4723a/d2f0f016-0d7f-4818-8ad7-596b7e28323f/main.mp4*~hmac=5b319020d939fe583a8efc777cc586be74d7b8a6473602671c410a5b3f733e53",
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
-				"duration": 178,
+				"duration": 4928,
                 "captions": [ ],
 				"language": "en-us"
             },
@@ -94,7 +94,7 @@
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
-				"duration": 178,
+				"duration": 3515,
                 "captions": [ ],
 				"language": "en-us"
             },
@@ -121,7 +121,7 @@
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
-				"duration": 178,
+				"duration": 5020,
                 "captions": [ ],
 				"language": "en-us"
             },
@@ -148,7 +148,7 @@
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
-				"duration": 178,
+				"duration": 3467,
                 "captions": [ ],
 				"language": "en-us"
             },
@@ -178,7 +178,7 @@
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
-				"duration": 178,
+				"duration": 5311,
                 "captions": [ ],
 				"language": "en-us"
             },
@@ -204,7 +204,7 @@
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
-				"duration": 178,
+				"duration": 3479,
                 "captions": [ ],
 				"language": "en-us"
             },
@@ -233,7 +233,7 @@
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
-				"duration": 178,
+				"duration": 4874,
                 "captions": [ ],
 				"language": "en-us"
             },
@@ -263,7 +263,7 @@
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
-				"duration": 178,
+				"duration": 2000,
                 "captions": [ ],
 				"language": "en-us"
             },
@@ -308,7 +308,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/101.jpg",
                             "shortDescription": "With the guidance of experts, and support from friends and family, Becca and Riley try to navigate the process of finding work.",
                             "longDescription":"With the guidance of experts, and support from friends and family, Becca and Riley try to navigate the process of finding work.",
                             "releaseDate": "2016-01-01"
@@ -328,7 +328,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/102.jpg",
                             "shortDescription": "Diagnosed with Tourette syndrome, Melissa is trying to find a job where she can feel accepted. Matt's ADHD makes it a struggle to maintain focus.",
                             "longDescription":"Diagnosed with Tourette syndrome, Melissa is trying to find a job where she can feel accepted. Matt's ADHD makes it a struggle to maintain focus.",
                             "releaseDate": "2016-01-01"
@@ -348,7 +348,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/103.jpg",
                             "shortDescription": "Thomas, who has Down syndrome, and Nathalea, who is legally blind, remain positive they can achieve financial independence doing something they love.",
                             "longDescription":"Thomas, who has Down syndrome, and Nathalea, who is legally blind, remain positive they can achieve financial independence doing something they love.",
                             "releaseDate": "2016-01-01"
@@ -368,7 +368,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/104.jpg",
                             "shortDescription": "Highly educated and affable, Christine and Kelly are looking for someone to see past their disabilities and give them a chance at success.",
                             "longDescription":"Highly educated and affable, Christine and Kelly are looking for someone to see past their disabilities and give them a chance at success.",
                             "releaseDate": "2016-01-01"
@@ -388,7 +388,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/105.jpg",
                             "shortDescription": "After consulting experts and with their families' support, Jennifer and Simon confront the challenges of getting past the interview to find work.",
                             "longDescription":"After consulting experts and with their families' support, Jennifer and Simon confront the challenges of getting past the interview to find work.",
                             "releaseDate": "2016-01-01"
@@ -408,7 +408,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/106.jpg",
                             "shortDescription": "Blair has autism and dyscalculia, and has trouble with social cues and numbers. Robert, who speaks six languages, has been blind since age 8.",
                             "longDescription":"Blair has autism and dyscalculia, and has trouble with social cues and numbers. Robert, who speaks six languages, has been blind since age 8.",
                             "releaseDate": "2016-01-01"
@@ -433,7 +433,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/201.jpg",
                             "shortDescription":"Rick has Autism Spectrum Disorder and has struggled to find paid employment since graduating high school over 10 years ago ",
                             "longDescription":"Rick has Autism Spectrum Disorder and has struggled to find paid employment since graduating high school over 10 years ago. He must overcome his fear of change in order to fulfill his dream of becoming an actor or a chef. Basketball fanatic Victor has a rare lung condition and aims to show the world that he is capable of anything he puts his mind to.",
                             "releaseDate": "2016-01-01"
@@ -453,7 +453,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/202.jpg",
                             "shortDescription": "Jack, a film fanatic and aspiring director, has Asperger's Syndrome and struggles in social settings.",
                             "longDescription":"Jack, a film fanatic and aspiring director, has Asperger's Syndrome and struggles in social settings. He wants to break into the film industry, but spends most of his time in his room. Francie is an outgoing woman born with Down syndrome, a naturally occurring chromosomal arrangement. She wants to land her first paycheque so she can eventually get her own apartment.",
                             "releaseDate": "2016-01-01"
@@ -473,7 +473,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/203.jpg",
                             "shortDescription": "Jessica has Down syndrome, a naturally occurring chromosomal arrangement, and resides with her parents in Toronto.",
                             "longDescription":"Jessica has Down syndrome, a naturally occurring chromosomal arrangement, and resides with her parents in Toronto. She has a passion for art, but does not know how to translate it into a paying job. With the help of his mom and sister, Patrick (BJ) has overcome many challenges caused by his hydrocephalus, including becoming legally blind after one of his 23 surgeries. But one setback in his career makes him question his path.",
                             "releaseDate": "2016-01-01"
@@ -493,7 +493,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/204.jpg",
                             "shortDescription": "Former Olympian Susan hasn't held a paid position since suffering a brain injury over a decade ago, but she longs to be independent and help her retired parents",
                             "longDescription":"Former Olympian Susan hasn't held a paid position since suffering a brain injury over a decade ago, but she longs to be independent and help her retired parents. While Carly's Autism Spectrum Disorder may cause her to struggle to communicate, she wants to translate her passion for music or baking into her first job.",
                             "releaseDate": "2016-01-01"
@@ -513,7 +513,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/205.jpg",
                             "shortDescription": "Blinded in two separate accidents in his hometown of Jamaica, Gavin has thrived in the academic world of music and athletics since moving to Canada",
                             "longDescription":"Blinded in two separate accidents in his hometown of Jamaica, Gavin has thrived in the academic world of music and athletics since moving to Canada. For the first time, he will discover if he can succeed in a professional setting. Lucia longs to make a difference in the world and hopes to find a workplace that will not judge the physical and verbal tics caused by her Tourette syndrome.",
                             "releaseDate": "2016-01-01"
@@ -533,7 +533,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/206.jpg",
                             "shortDescription": "After multiple surgeries to manage her Intractable Epilepsy, Miranda still can't find paid work at her dream job and must reevaluate her skills",
                             "longDescription":"After multiple surgeries to manage her Intractable Epilepsy, Miranda still can't find paid work at her dream job and must reevaluate her skills. Donald is looking for a stable job where he can apply his two degrees, and not be judged by his rare genetic disorder called Osteogenesis Imperfecta, which causes brittle bones and stunted growth.",
                             "releaseDate": "2016-01-01"
@@ -558,7 +558,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/301.jpg",
                             "shortDescription": "Jordan hopes to find a career that puts his extensive train knowledge to use; Ariana wants to work in the wellness field.",
                             "longDescription":"Jordan hopes to find a career that puts his extensive train knowledge to use; Ariana wants to work in the wellness field.",
                             "releaseDate": "2016-01-01"
@@ -578,7 +578,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/302.jpg",
                             "shortDescription": "Kathryn hopes to find a job that puts her creative mind to use; Dylan wants a career in a dynamic environment.",
                             "longDescription":"Kathryn hopes to find a job that puts her creative mind to use; Dylan wants a career in a dynamic environment.",
                             "releaseDate": "2016-01-01"
@@ -598,7 +598,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/303.jpg",
                             "shortDescription": "Daniel is looking for a job in music or film; blind track star, George, hopes to work in software development.",
                             "longDescription":"Daniel is looking for a job in music or film; blind track star, George, hopes to work in software development.",
                             "releaseDate": "2016-01-01"
@@ -618,7 +618,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/304.jpg",
                             "shortDescription": "Daniel is looking for am employer who wants somebody who can think outside the box; Alessia wants to channel her creativity and love of kids into a career that excites her.",
                             "longDescription":"Daniel is looking for am employer who wants somebody who can think outside the box; Alessia wants to channel her creativity and love of kids into a career that excites her.",
                             "releaseDate": "2016-01-01"
@@ -638,7 +638,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/305.jpg",
                             "shortDescription": "Despite having a Master's degree in Economics, Yang, a single mom who is blind, hasn't landed a paying job; Elias has Autism Spectrum Disorder and dreams of being a puppeteer.",
                             "longDescription":"Despite having a Master's degree in Economics, Yang, a single mom who is blind, hasn't landed a paying job; Elias has Autism Spectrum Disorder and dreams of being a puppeteer.",
                             "releaseDate": "2016-01-01"
@@ -658,7 +658,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/306.jpg",
                             "shortDescription": "Sports fanatic Mark has Autism Spectrum Disorder and hopes to find a career that makes use of his strong sports knowledge; Mari, who was born with Spina Bifida, craves more stability in a career.",
                             "longDescription":"Sports fanatic Mark has Autism Spectrum Disorder and hopes to find a career that makes use of his strong sports knowledge; Mari, who was born with Spina Bifida, craves more stability in a career.",
                             "releaseDate": "2016-01-01"
@@ -673,7 +673,7 @@
               "health",
               "reality"
             ],
-            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/empolyable-me.jpg",
             "shortDescription": "This six-part series features job-seekers determined to show that having a disability shouldn't make them unemployable.",
             "longDescription":"This six-part documentary series features job-seekers determined to show that having a physical disability or neurological condition shouldn't make them unemployable. Each episode features two individuals from the Greater Toronto Area or Montreal who want nothing more than to find steady employment. Each is living with vision loss or a neurological condition such as Tourette's, Asperger's or Down syndrome, or ADHD. It isn't always easy but each job seeker is determined to find their passion.",
             "tags":[  
@@ -704,7 +704,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/101.jpg",
                             "shortDescription": "The six travelers begin their journey in heart of Canada; Winnipeg, Manitoba. Here they meet prominent Indigenous activist Michael Redhead Champagne who sheds some light on the journey ahead.",
                             "longDescription": "The six travelers begin their journey in heart of Canada; Winnipeg, Manitoba. Here they meet prominent Indigenous activist Michael Redhead Champagne who sheds some light on the journey ahead.",
                             "releaseDate": "2016-01-01"
@@ -724,7 +724,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/102.jpg",
                             "shortDescription": "The group arrives in Muskrat Dam, one of several fly-in reserves in Northern Ontario.",
                             "longDescription":"The group arrives in Muskrat Dam, one of several fly-in reserves in Northern Ontario. Most Canadians don`t understand why people continue to live in remote places like this one. During their stay the group will learn why relocating isn`t an option for the families whose families have been here for generations. Viewer Discretion Advised",
                             "releaseDate": "2016-01-01"
@@ -744,7 +744,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/103.jpg",
                             "shortDescription": "Heading south to Calgary, the group hits the front lines to experience life on the streets, and then go north, to an Edmonton prison to learn about life on the inside",
                             "longDescription":"Heading south to Calgary, the group hits the front lines to experience life on the streets, and then go north, to an Edmonton prison to learn about life on the inside",
                             "releaseDate": "2016-01-01"
@@ -762,14 +762,14 @@
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
                                     "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
+                                    "videoType": "MP4",
                                     "quality": "SD"
                                 }],
                                 "duration": 2710,
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/201.jpg",
                             "shortDescription": "The six travelers embark on a life-changing 28-day journey into Indigenous communities across Canada.",
                             "longDescription": "The six travelers embark on a life-changing 28-day journey into Indigenous communities across Canada. In Kanasatake, Quebec, they are exposed to new perspective about the Oka Siege. And in Natuasish, Labrador, time spent with the local Innu people sheds new light on its residents and history.",
                             "releaseDate": "2016-01-01"
@@ -789,7 +789,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/202.jpg",
                             "shortDescription": "The six participants travel south to Thunder Bay, where a number of tragic incidents have exposed racist attitudes towards Indigenous people. Then, a meeting with residential school survivors in southern Ontario shocks the participants.",
                             "longDescription":"The six participants travel south to Thunder Bay, where a number of tragic incidents have exposed racist attitudes towards Indigenous people. Then, a meeting with residential school survivors in southern Ontario shocks the participants.",
                             "releaseDate": "2016-01-01"
@@ -809,7 +809,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/203.jpg",
                             "shortDescription": "Traveling to northern Saskatchewan, the six travelers face their biggest test yet as they meet with people from communities deeply affected by the death of Colten Boushie.",
                             "longDescription":"Traveling to northern Saskatchewan, the six travelers face their biggest test yet as they meet with people from communities deeply affected by the death of Colten Boushie. Finally, the group travels to the Yukon, where self-governance is helping a community flourish.",
                             "releaseDate": "2016-01-01"
@@ -826,7 +826,7 @@
               "nature",
               "reality"
             ],
-            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/first-contact.jpg",
             "shortDescription": "First Contact takes a group of six non-Indigenous Canadians with strong opinions on Indigenous people and immerses them into Aboriginal Canada for the first time.",
             "longDescription":"First Contact takes a group of six non-Indigenous Canadians with strong opinions on Indigenous people and immerses them into Aboriginal Canada for the first time. The six participants are tested in extraordinary situations, their beliefs are confronted, their emotions pushed to the limit.",
             "tags":[  
@@ -859,7 +859,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/101.jpg",
                             "shortDescription": "Ontario's Long Point, the world's longest freshwater sand spit, is threatened by an invasive plant, phragmites.",
                             "longDescription": "Once surrounded by desert, Ontario's Long Point, the world's longest freshwater sand spit, is today lush with forests and wetlands. An invasive plant, phragmites, is its biggest threat.",
                             "releaseDate": "2016-01-01"
@@ -879,7 +879,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/102.jpg",
                             "shortDescription": "British Columbia communities look to the past to learn how the environment, cultures and economies can thrive.",
                             "longDescription":"After years of conflict over logging in Clayoquot Sound, British Columbia communities look to the past to learn how the environment, cultures and economies can thrive for hundreds of years to come.",
                             "releaseDate": "2016-01-01"
@@ -899,7 +899,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/103.jpg",
                             "shortDescription": "The old-growth forest and pristine lake of Quebec's Mont Saint-Hilaire are cherished by nearby communities.",
                             "longDescription":"The old-growth forest and pristine glacial lake of Quebec's towering Mont Saint-Hilaire are cherished by the communities that surround it. But unchecked growth threatens the very mountain they love.",
                             "releaseDate": "2016-01-01"
@@ -919,7 +919,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/104.jpg",
                             "shortDescription": "On the Bras d'Or Lake in Cape Breton Island, oyster farming was seen as a sustainable alternative to working in coal and steel.",
                             "longDescription":"On the Bras d'Or Lake in Nova Scotia's Cape Breton Island, oyster farming was seen as a sustainable alternative to working in coal and steel. After a parasite ravaged the oyster population, both traditional Mi'kmaq knowledge and western science are being used to bring the oysters back.",
                             "releaseDate": "2016-01-01"
@@ -932,14 +932,14 @@
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
                                     "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
+                                    "videoType": "MP4",
                                     "quality": "HD"
                                 }],
                                 "duration": 3086,
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/105.jpg",
                             "shortDescription": "Residents struggle to mitigate the impact of cottagers and a new highway on the region's endangered species.",
                             "longDescription":"The people of Georgian Bay struggle to mitigate the impact of increasing numbers of cottagers and a new four-lane highway on the region's endangered species.",
                             "releaseDate": "2016-01-01"
@@ -959,7 +959,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/106.jpg",
                             "shortDescription": "Students conduct social and scientific experiments at Redberry, a salt lake at the heart of a shrinking Saskatchewan community.",
                             "longDescription":"Students conduct both social and scientific experiments at Redberry, a salt lake at the heart of a shrinking Saskatchewan community that's determined to thrive in the face of industrial agriculture.",
                             "releaseDate": "2016-01-01"
@@ -979,7 +979,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/107.jpg",
                             "shortDescription": "The Inner Bay of Fundy's population of Atlantic salmon is teetering on the edge of extinction, but people are determined to bring it back.",
                             "longDescription":"The Inner Bay of Fundy's population of Atlantic salmon is teetering on the edge of extinction, but the people of the Fundy Biosphere Reserve are determined to bring it back.",
                             "releaseDate": "2016-01-01"
@@ -999,7 +999,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/108.jpg",
                             "shortDescription": "Grizzlies are increasingly protected in Alberta, challenging the ranchers of the Waterton Biosphere Reserve to find new ways to coexist with them.",
                             "longDescription":"Grizzly bears have been increasingly protected in Alberta since 2006, challenging the ranchers of the Waterton Biosphere Reserve to find new ways to coexist with this powerful animal.",
                             "releaseDate": "2016-01-01"
@@ -1024,7 +1024,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/201.jpg",
                             "shortDescription": "Troubled by a history of uranium mining, the Sahtu Dene of Great Bear Lake create North America's largest biosphere reserve to protect its pristine waters for all of humanity.",
                             "longDescription": "Troubled by a history of uranium mining, the Sahtu Dene of Great Bear Lake create North America's largest biosphere reserve to protect its pristine waters for all of humanity.",
                             "releaseDate": "2016-01-01"
@@ -1044,7 +1044,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/202.jpg",
                             "shortDescription": "Quebec's Manicouagan-Uapishka Biosphere Reserve prides itself on working with industry toward a sustainable future. But their dream is put to the test when their biggest project is jeopardized by North America's largest hydro-electricity reservoir.",
                             "longDescription":"Quebec's Manicouagan-Uapishka Biosphere Reserve prides itself on working with industry toward a sustainable future. But their dream is put to the test when their biggest project is jeopardized by North America's largest hydro-electricity reservoir.",
                             "releaseDate": "2016-01-01"
@@ -1064,7 +1064,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/203.jpg",
                             "shortDescription": "In Ontario's Niagara Escarpment Biosphere Reserve, scientists, climbers and even quarry companies come up with innovative ways to co-exist with, restore and enhance the natural world.",
                             "longDescription":"In Ontario's Niagara Escarpment Biosphere Reserve, scientists, climbers and even quarry companies come up with innovative ways to co-exist with, restore and enhance the natural world.",
                             "releaseDate": "2016-01-01"
@@ -1084,7 +1084,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/204.jpg",
                             "shortDescription": "After suffering through repeated, tsunami-like floods north of Manitoba's Riding Mountain, the Von Bargens lead the call to restore nature's flood protection systems.",
                             "longDescription":"After suffering through repeated, tsunami-like floods north of Manitoba's Riding Mountain, the Von Bargens lead the call to restore nature's flood protection systems.",
                             "releaseDate": "2016-01-01"
@@ -1104,7 +1104,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/205.jpg",
                             "shortDescription": "Following unprecedented droughts, the people of BC's Mount Arrowsmith Biosphere Region begin their quest to restore the water balance.",
                             "longDescription":"Following unprecedented droughts, the people of BC's Mount Arrowsmith Biosphere Region begin their quest to restore the water balance.",
                             "releaseDate": "2016-01-01"
@@ -1124,7 +1124,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/206.jpg",
                             "shortDescription": "The yellow perch, a key indicator of the health of Quebec's Lac Saint-Pierre, is in serious trouble. But this little fish is inspiring the big change needed to restore the lake to its former glory.",
                             "longDescription":"The yellow perch, a key indicator of the health of Quebec's Lac Saint-Pierre, is in serious trouble. But this little fish is inspiring the big change needed to restore the lake to its former glory.",
                             "releaseDate": "2016-01-01"
@@ -1144,7 +1144,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/207.jpg",
                             "shortDescription": "A little-known, but remarkable region of wetlands, called the Beaver Hills, are at risk of being swallowed by a growing Edmonton. As home to the world's most important herd of buffalo, people here are uniting to keep the Hills intact.",
                             "longDescription":"A little-known, but remarkable region of wetlands, called the Beaver Hills, are at risk of being swallowed by a growing Edmonton. As home to the world's most important herd of buffalo, people here are uniting to keep the Hills intact.",
                             "releaseDate": "2016-01-01"
@@ -1164,7 +1164,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/208.jpg",
                             "shortDescription": "The heart of eastern North America's last, great forest corridor is threatened by development, but the people of Ontario's Frontenac Arch Biosphere Reserve are determined to keep it intact.",
                             "longDescription":"The heart of eastern North America's last, great forest corridor is threatened by development, but the people of Ontario's Frontenac Arch Biosphere Reserve are determined to keep it intact.",
                             "releaseDate": "2016-01-01"
@@ -1184,7 +1184,7 @@
                                 "captions": [ ],
                                 "language": "en-us"
                             },
-                            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/209.jpg",
                             "shortDescription": "Under siege from invasive species, the people of the Southwest Nova Biosphere Reserve innovate new ways to hold back, eradicate, and even eat the invaders.",
                             "longDescription":"Under siege from invasive species, the people of the Southwest Nova Biosphere Reserve innovate new ways to hold back, eradicate, and even eat the invaders.",
                             "releaseDate": "2016-01-01"
@@ -1200,7 +1200,7 @@
               "nature",
               "science"
             ],
-            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/striking-balance.jpg",
             "shortDescription": "Join us on a journey across Canada as we look at our nation's breathtaking biosphere reserves in this eight-part cinematic documentary series.",
             "longDescription":"Join us on a journey across Canada as we look at our nation's breathtaking biosphere reserves in this eight-part cinematic documentary series.",
             "tags":[  
@@ -1229,7 +1229,7 @@
                         "captions": [ ],
                         "language": "en-us"
                     },
-                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/human-plus/101.jpg",
                     "shortDescription": "The sense of touch is an invisible force of human nature. Not only does it perceive tiny elements that our eyes can't see, but it plays a vital role in our lives.",
                     "longDescription": "The sense of touch is an invisible force of human nature. Not only does it perceive tiny elements that our eyes can't see, but it plays a vital role in our lives. It has an important influence on our physical capacity, our cerebral functioning, and our well-being ",
                     "releaseDate": "2016-01-01"
@@ -1249,7 +1249,7 @@
                         "captions": [ ],
                         "language": "en-us"
                     },
-                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/human-plus/102.jpg",
                     "shortDescription": "The science of sight has entered a new era.",
                     "longDescription": "The science of sight has entered a new era. We are starting to understand how a few rare individuals can see better or see faster. We meet a woman who can see a hundred more colors than the average human being, and a heavyweight boxer who undergoes sophisticated training to increase the speed of his visual reflexes and acuity.",
                     "releaseDate": "2016-01-01"
@@ -1269,7 +1269,7 @@
                         "captions": [ ],
                         "language": "en-us"
                     },
-                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/human-plus/103.jpg",
                     "shortDescription": "As the mysteries of hearing are revealed, we see how technology and scientific progress are working to restore, replace, or supercharge this enormously powerful human sense.",
                     "longDescription":"As the mysteries of hearing are revealed, we see how technology and scientific progress are working to restore, replace, or supercharge this enormously powerful human sense.",
                     "releaseDate": "2016-01-01"
@@ -1289,7 +1289,7 @@
                         "captions": [ ],
                         "language": "en-us"
                     },
-                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/human-plus/104.jpg",
                     "shortDescription": "Your sense of smell is much more developed than you might imagine. In your genetic code, 400 genes make up the receptors of your sense of smell. You are able to smell billions of odors.",
                     "longDescription":"Your sense of smell is much more developed than you might imagine. In your genetic code, 400 genes make up the receptors of your sense of smell. You are able to smell billions of odors.",
                     "releaseDate": "2016-01-01"
@@ -1309,7 +1309,7 @@
                         "captions": [ ],
                         "language": "en-us"
                     },
-                    "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/human-plus/105.jpg",
                     "shortDescription": "Sight, touch, hearing, taste, and smell send sensory messages to the brain at a speed of 430km/hr.",
                     "longDescription": "Sight, touch, hearing, taste, and smell send sensory messages to the brain at a speed of 430km/hr. The two cerebral hemispheres deal with 11 million information signals per second -an imperceptible and continual effort. This continual flow of information is sorted and analyzed by the brain, which directs the senses, organizes them, and improves them without any technological intervention.",
                     "releaseDate": "2016-01-01"
@@ -1322,7 +1322,7 @@
               "science",
               "technology"
             ],
-            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "thumbnail": "https://psherrard.github.io/roku-test/images/human-plus/human-plus.jpg",
             "shortDescription": "We're living in an era in which the incredible is possible and the unbelievable is believable. The science and technology of sense enhancement and recovery is astonishing.",
             "longDescription":"We're living in an era in which the incredible is possible and the unbelievable is believable. The science and technology of sense enhancement and recovery is astonishing. Join us as we delve into the awe-inspiring and emotional stories of people whose lives are being turned around.",
             "tags":[  
@@ -1439,7 +1439,7 @@
               "educational",
               "news"
             ],
-            "thumbnail": "https://psherrard.github.io/roku-test/images/thumbnail.jpg",
+            "thumbnail": "https://psherrard.github.io/roku-test/images/The-Agenda/the-agenda.jpg",
             "shortDescription": "Daily current affairs show offering in-depth analysis and intelligent debate on issues of concern in the rapidly changing world around us.",
             "longDescription":"The Agenda with Steve Paikin is TVO's flagship current affairs program, devoted to exploring the social, political, cultural, and economic issues that are changing our world. We consistently offer a diversity of viewpoints and in-depth analysis of what lies behind the headlines.",
             "tags":[  

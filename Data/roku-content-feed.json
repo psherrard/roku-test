@@ -9,7 +9,7 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/919ea82a-93cd-46d1-83c0-7b1b18d52dd2/f6eb95c1-2383-407c-9196-6a3efa6c69e9/main.mp4?akamai_token=exp=1616623680~acl=/media/v1/pmp4/static/clear/18140038001/919ea82a-93cd-46d1-83c0-7b1b18d52dd2/f6eb95c1-2383-407c-9196-6a3efa6c69e9/main.mp4*~hmac=36f0545b261d02a596ac169c03578129ca8e5f82a082055aa183d6c744bcabe2",
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
@@ -36,7 +36,7 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/95a8c856-3383-4ec0-baee-2223318a8c0c/282a4f7d-9676-44ad-b697-91176fc22b0d/main.mp4?akamai_token=exp=1616623720~acl=/media/v1/pmp4/static/clear/18140038001/95a8c856-3383-4ec0-baee-2223318a8c0c/282a4f7d-9676-44ad-b697-91176fc22b0d/main.mp4*~hmac=b2b9ea427c5519fec5f2b5134c6f80bd330da5f069bd7ba299bbfc3f9fcde976",
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
@@ -63,7 +63,7 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/8c214705-a968-4b7a-904f-cbb3aea4723a/d2f0f016-0d7f-4818-8ad7-596b7e28323f/main.mp4?akamai_token=exp=1616453112~acl=/media/v1/pmp4/static/clear/18140038001/8c214705-a968-4b7a-904f-cbb3aea4723a/d2f0f016-0d7f-4818-8ad7-596b7e28323f/main.mp4*~hmac=5b319020d939fe583a8efc777cc586be74d7b8a6473602671c410a5b3f733e53",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/8c214705-a968-4b7a-904f-cbb3aea4723a/d2f0f016-0d7f-4818-8ad7-596b7e28323f/main.mp4?akamai_token=exp=1616623516~acl=/media/v1/pmp4/static/clear/18140038001/8c214705-a968-4b7a-904f-cbb3aea4723a/d2f0f016-0d7f-4818-8ad7-596b7e28323f/main.mp4*~hmac=11af35ced75ec7119c3dd46b8023a3b5ea1e3c97783566f73a73c7b0493fdb8b",
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
@@ -90,12 +90,18 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/108640a9-78bf-450a-adb0-784a02463757/ed6379c3-042c-460e-a963-49fa4d13730f/main.mp4?akamai_token=exp=1616622185~acl=/media/v1/pmp4/static/clear/18140038001/108640a9-78bf-450a-adb0-784a02463757/ed6379c3-042c-460e-a963-49fa4d13730f/main.mp4*~hmac=64fd78af3380a25a020c4a89b28044a468580b8658925ef76778127e76426f6b",
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
 				"duration": 3515,
-                "captions": [ ],
+                "captions": [
+                    {
+                        "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/18140038001/108640a9-78bf-450a-adb0-784a02463757/087e58b9-981e-437a-9035-261baced8108/text.vtt?akamai_token=exp=1616621965~acl=/media/v1/text/vtt/clear/18140038001/108640a9-78bf-450a-adb0-784a02463757/087e58b9-981e-437a-9035-261baced8108/text.vtt*~hmac=dba6276f050a85b2831472cb77b3a6648ce94a2999a53dccea6235651d0e7d8b",
+                        "language": "en",
+                        "captionType": "CLOSED_CAPTION"
+                      }
+                ],
 				"language": "en-us"
             },
             "genres":[
@@ -117,8 +123,8 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-					"videoType": "MP4",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/dd8d98ef-5566-4548-b1a5-fa0fed8c2aa9/5d99b63f-2560-4e90-b135-e003efb5b020/main.mp4?akamai_token=exp=1616040960~acl=/media/v1/pmp4/static/clear/1351824783/dd8d98ef-5566-4548-b1a5-fa0fed8c2aa9/5d99b63f-2560-4e90-b135-e003efb5b020/main.mp4*~hmac=3ce42c5faa4028c72885705ea16094349e0b6efaa58e46fd4b1691adcfcfdc91&pubid=18140038001",
+					"videoType": "HLS",
 					"quality": "HD"
 				}],
 				"duration": 5020,
