@@ -327,7 +327,7 @@
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
                                     "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/808095c7-c867-43eb-ab98-07f3c5224c08/716b05eb-fc77-4557-aec6-e472c22ca2b0/main.mp4?akamai_token=exp=1616776676~acl=/media/v1/pmp4/static/clear/18140038001/808095c7-c867-43eb-ab98-07f3c5224c08/716b05eb-fc77-4557-aec6-e472c22ca2b0/main.mp4*~hmac=b3573fe578146ebf2d6b2c25ee22e7039b982208ef6c20eeb4ab13e54d2d957a",
-                                    "videoType": "MP$",
+                                    "videoType": "MP4",
                                     "quality": "HD"
                                 }],
                                 "duration": 3000,
