@@ -1,26 +1,1476 @@
 {
-    "providerName": "TVOTestChannel",
-    "language": "en-us",
-    "lastUpdated": "2021-09-30T18:12:32.125Z",
-    "shortFormVideos": [{
-        "id": "5175390515001",
-        "title": "Georgian Bay",
-        "shortDescription": "A short description (<200 characters) of my video",
-        "longDescription": "A longer description (<500 characters) of my video",
-        "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/104.jpg",
-        "genres": ["comedy"],
-        "tags": ["comedy"],
-        "releaseDate": "2019-10-31",
-        "content": {
-            "dateAdded": "2019-10-31T14:14:54.431Z",
-            "captions": [],
-            "duration": 600,
-            "videos": [{
-                "url": "https://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/e30c1eb6-97c9-4a0a-9d13-50526d70b03e/ea6e119c-d3b1-4fb6-9c43-b5c4858f5bea/main.mp4?akamai_token=exp=1615937922~acl=/media/v1/pmp4/static/clear/1351824783/e30c1eb6-97c9-4a0a-9d13-50526d70b03e/ea6e119c-d3b1-4fb6-9c43-b5c4858f5bea/main.mp4*~hmac=cee6ebb2c6e00bc92e1c4219095d797d87aeca7b6f6541b45dd094daa22ea3a5&pubid=18140038001",
-                "quality": "HD",
-                "videoType": "MP4",
-                "bitrate": 1000
-            }]
-         }
-     }]
-  }
+    "providerName": "TVO",
+    "lastUpdated": "2021-03-05T02:30:00+00:00",
+    "language": "en",
+    "movies": [
+        {  
+            "id":"126169",
+            "title":"Borealis",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/919ea82a-93cd-46d1-83c0-7b1b18d52dd2/f6eb95c1-2383-407c-9196-6a3efa6c69e9/main.mp4?akamai_token=exp=1616623680~acl=/media/v1/pmp4/static/clear/18140038001/919ea82a-93cd-46d1-83c0-7b1b18d52dd2/f6eb95c1-2383-407c-9196-6a3efa6c69e9/main.mp4*~hmac=36f0545b261d02a596ac169c03578129ca8e5f82a082055aa183d6c744bcabe2",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 5400,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[  
+               "nature",
+               "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/borealis.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Borealis travels deep into the heart of Canada's iconic wilderness to explore how the plants and animals that live there communicate and survive the destructive forces of fire, insects, and human encroachment.",
+            "longDescription":"Borealis travels deep into the heart of Canada's iconic wilderness to explore how the plants and animals that live there communicate and survive the destructive forces of fire, insects, and human encroachment.",
+            "tags":[  
+               "environment-and-nature",
+               "ontario-yours-to-discover"
+            ]
+        },
+        {  
+            "id":"126326",
+            "title":"Captive",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/95a8c856-3383-4ec0-baee-2223318a8c0c/282a4f7d-9676-44ad-b697-91176fc22b0d/main.mp4?akamai_token=exp=1616623720~acl=/media/v1/pmp4/static/clear/18140038001/95a8c856-3383-4ec0-baee-2223318a8c0c/282a4f7d-9676-44ad-b697-91176fc22b0d/main.mp4*~hmac=b2b9ea427c5519fec5f2b5134c6f80bd330da5f069bd7ba299bbfc3f9fcde976",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 5233,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[  
+               "crime",
+               "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/Captive_B.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Filmed over four years in Nigeria, journalist Mellissa Fung meets several brave young women who have escaped imprisonment by Boko Haram and are now trying to rebuild their lives. Through their struggles, Fung comes to terms with her own past. ",
+            "longDescription":"Captive is a powerful personal journey about surviving the trauma of captivity and the toll conflict takes on women and girls. Filmed over four years in northeastern Nigeria, Canadian journalist Mellissa Fung meets several brave young women who have escaped imprisonment by Boko Haram and are now trying to rebuild their lives. Through their struggles, Fung comes to terms with her own past, confronting the deep trauma she thought she had long buried. Viewer discretion is advised.",
+            "tags":[  
+               "featured",
+               "social-and-criminal-justice"
+            ]
+        },
+        {  
+            "id":"132423",
+            "title":"Dispatches from the Field Hospital",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/8c214705-a968-4b7a-904f-cbb3aea4723a/d2f0f016-0d7f-4818-8ad7-596b7e28323f/main.mp4?akamai_token=exp=1616623516~acl=/media/v1/pmp4/static/clear/18140038001/8c214705-a968-4b7a-904f-cbb3aea4723a/d2f0f016-0d7f-4818-8ad7-596b7e28323f/main.mp4*~hmac=11af35ced75ec7119c3dd46b8023a3b5ea1e3c97783566f73a73c7b0493fdb8b",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 4928,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "health",  
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/Dispatches-from-the-Field-Hospital_B.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"COVID-19 devastated long-term care homes in Ontario. In spring 2020, Windsor erected a field hospital to treat COVID-positive seniors. iPads and phones became lifelines for families, including director Matt Gallagher, whose own father was a patient.",
+            "longDescription":"The COVID-19 pandemic is devastating long-term care homes across Ontario. During the first wave in the spring of 2020, the city of Windsor erected Canada's first MASH-style field hospital almost overnight to isolate and treat elderly patients from Heron Terrace who tested positive for the virus. To fight back against confusion and despair, medical staff created a lifeline between these seniors and their families using iPads and phones. Dispatches from a Field Hospital documents the dramatic stories of several families, including director Matt Gallagher, whose own father became a patient.",
+            "tags":[  
+               "covid-19",
+               "featured"
+            ]
+        },
+        {  
+            "id":"122648",
+            "title":"Family Camera",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/108640a9-78bf-450a-adb0-784a02463757/ed6379c3-042c-460e-a963-49fa4d13730f/main.mp4?akamai_token=exp=1616622185~acl=/media/v1/pmp4/static/clear/18140038001/108640a9-78bf-450a-adb0-784a02463757/ed6379c3-042c-460e-a963-49fa4d13730f/main.mp4*~hmac=64fd78af3380a25a020c4a89b28044a468580b8658925ef76778127e76426f6b",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 3515,
+                "captions": [
+                    {
+                        "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/text/vtt/clear/18140038001/108640a9-78bf-450a-adb0-784a02463757/087e58b9-981e-437a-9035-261baced8108/text.vtt?akamai_token=exp=1616621965~acl=/media/v1/text/vtt/clear/18140038001/108640a9-78bf-450a-adb0-784a02463757/087e58b9-981e-437a-9035-261baced8108/text.vtt*~hmac=dba6276f050a85b2831472cb77b3a6648ce94a2999a53dccea6235651d0e7d8b",
+                        "language": "en",
+                        "captionType": "CLOSED_CAPTION"
+                      }
+                ],
+				"language": "en-us"
+            },
+            "genres":[
+                "history",  
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/Family-Camera.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Through the stories of five exceptional Canadian families, this film explores how photos document our lives and bear witness to history.",
+            "longDescription":"This documentary is a moving look at 150 years of Canadian history through the iconic family photograph. From the first daguerreotypes taken in the 1840s to today's digital snapshots, family photographs have become important historical and anthropological artifacts that reflect who we are as a nation. Through the stories of five exceptional Canadian families, the film explores how these images document our lives and bear witness to history.",
+            "tags":[  
+                "history",
+                "music,-art-and-culture"
+            ]
+        },
+        {  
+            "id":"108974",
+            "title":"How to Prepare for Prison",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/dd8d98ef-5566-4548-b1a5-fa0fed8c2aa9/5d99b63f-2560-4e90-b135-e003efb5b020/main.mp4?akamai_token=exp=1616207050~acl=/media/v1/pmp4/static/clear/1351824783/dd8d98ef-5566-4548-b1a5-fa0fed8c2aa9/5d99b63f-2560-4e90-b135-e003efb5b020/main.mp4*~hmac=cae4b8e7a349c30784dd6de2daa5661775f90000ad43dbe1bcce93ff2d0ad866&pubid=18140038001",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 5020,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "crime",  
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/How-to-Prepare-for-Prison_B.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Shot over three years, this documentary follows the stories of three people facing prison for the first time.",
+            "longDescription":"Fuelled by fear, regret, defiance and redemption, this intimate documentary follows the stories of three people facing prison for the first time. Shot over three years, the film goes behind the scenes and into the offices of lawyers and judges, and into the homes of ordinary citizens caught in the crosshairs of the law. It captures their growing psychological distress as they await judgment.",
+            "tags":[  
+                "social-and-criminal-justice",
+                "lgbtq+"
+            ]
+        },
+        {  
+            "id":"129909",
+            "title":"Margin of Error",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/7fcb56f4-0c91-4f23-85ac-d833d4f1003f/29abef27-4cee-4c6e-85dd-ea9dee8dcfd1/main.mp4?akamai_token=exp=1616776310~acl=/media/v1/pmp4/static/clear/18140038001/7fcb56f4-0c91-4f23-85ac-d833d4f1003f/29abef27-4cee-4c6e-85dd-ea9dee8dcfd1/main.mp4*~hmac=87fe6dc0d5bed786c5a11e024ad6ac22efb5fdedee45e6c36ab85b6b02db3624",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 3467,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "history",
+                "science",
+                "technology",  
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/Margin-of-Error.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"After a century of traditional polling to predict public opinion, Margin of Error examines how a small Ottawa startup uses artificial intelligence and public social media data to forecast voter behavior during the 2019 Canadian federal election.",
+            "longDescription":"In the face of a century of traditional polling to predict public opinion, there is a shakeup afoot in the prediction game. With the 2019 Canadian federal election as its backdrop, Margin of Error examines how a small Ottawa startup uses artificial intelligence and public social media data to forecast voter behaviour. But the promise of new technology also comes with questions about its accuracy, the threat to citizens' privacy and our democracy itself.",
+            "tags":[  
+                "politics",
+                "history",
+                "science-and-technology"
+            ]
+        },
+        {  
+            "id":"124303",
+            "title":"SponsorLand",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/9e4e0ac7-a5d6-47ae-bb51-7214d8ba131d/2b641ac2-70bf-4176-a3da-f414e5b96196/main.mp4?akamai_token=exp=1616778554~acl=/media/v1/pmp4/static/clear/18140038001/9e4e0ac7-a5d6-47ae-bb51-7214d8ba131d/2b641ac2-70bf-4176-a3da-f414e5b96196/main.mp4*~hmac=532bcb7bdd89b001753d8ce9a607a8e5204a7ed2d6dd283e4130636a54136a27",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 5311,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "crime", 
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/SponsorLand.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"The lives of a rambunctious Syrian refugee family of 13 intersect with their community of enthusiastic sponsors in Picton, Ont.",
+            "longDescription":"Canadians became international heroes during the Syrian refugee crisis by opening their doors and sponsoring thousands in need, but how do good intentions stack up against reality? This documentary by Michèle Hozer takes a look at the lives of a rambunctious Syrian family of 13 and their community of well-intentioned sponsors in Picton, Ont., exploring the joys, expectations, and challenges on both sides.",
+            "tags":[  
+                "social-and-criminal-justice"
+            ]
+        },
+        {  
+            "id":"131131",
+            "title":"TRIPPING The Rideau Canal",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/6de4859a-316e-49e0-9741-2448a36f3ccc/4c7a6440-c1b8-4299-b540-947d5b643888/main.mp4?akamai_token=exp=1616776503~acl=/media/v1/pmp4/static/clear/18140038001/6de4859a-316e-49e0-9741-2448a36f3ccc/4c7a6440-c1b8-4299-b540-947d5b643888/main.mp4*~hmac=acce36e76e7a64d5567d20d38a6e8ff4376707856110050f8a0eda7a53a5be21",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 3479,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "history",
+                "nature", 
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/TRIPPING-The-Rideau-Canal.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Take an epic journey along Ontario's magnificent Rideau Canal and discover its rich history, unique culture, and breathtaking beauty.",
+            "longDescription":"Take an epic journey along Ontario's magnificent Rideau Canal, a UNESCO World Heritage Site and North America's oldest continuously operated canal system. Considered an engineering marvel, discover the Rideau Canal's rich history, unique culture, and breathtaking beauty.",
+            "tags":[  
+                "history",
+                "environment-and-nature",
+                "ontario-yours-to-discover"
+            ]
+        },
+        {  
+            "id":"125048",
+            "title":"The Fruit Machine",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/299c8921-51b6-4e4e-b15f-00ede23ab2e9/8b4b77b1-4883-4f20-b168-07a98bd6ef30/main.mp4?akamai_token=exp=1616778284~acl=/media/v1/pmp4/static/clear/18140038001/299c8921-51b6-4e4e-b15f-00ede23ab2e9/8b4b77b1-4883-4f20-b168-07a98bd6ef30/main.mp4*~hmac=443829b704c44c0cbe799112ed83cf105ebc60fbee3b6080cff6e17fed1a419d",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 4874,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "history",
+                "crime",
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/The-Fruit-Machine.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"Survivors of a decades-long homosexual witch-hunt recount their personal stories of dedication and betrayal at the hands of the Canadian government.",
+            "longDescription":"In filmmaker Sarah Fodey's documentary, survivors of a decades-long homosexual witch-hunt recount their personal stories of dedication and betrayal at the hands of the Canadian government. Some softened by age and sadness, others loud and angry, the voices of the former public servants targeted in the purge are now united, and determined.",
+            "tags":[  
+                "history",
+                "lgbtq+",
+                "politics",
+                "social-and-criminal-justice"
+            ]
+        },
+        {  
+            "id":"124436",
+            "title":"There are No Fakes",
+            "content":{  
+                "dateAdded": "2021-03-05T02:32:24+00:00",
+				"videos": [{
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/064766aa-3c2f-47c6-bfd2-d4f45cf35317/baf79f80-592e-49e7-a8fd-364fd4611f71/main.mp4?akamai_token=exp=1616783303~acl=/media/v1/pmp4/static/clear/18140038001/064766aa-3c2f-47c6-bfd2-d4f45cf35317/baf79f80-592e-49e7-a8fd-364fd4611f71/main.mp4*~hmac=fb1b520a112641fae5a0a88c5d2bf21bd95868f4505f6ea2b3ddd09c649e813a",
+					"videoType": "MP4",
+					"quality": "HD"
+				}],
+				"duration": 2000,
+                "captions": [ ],
+				"language": "en-us"
+            },
+            "genres":[
+                "history",
+                "crime",
+                "documentary"
+            ],
+            "thumbnail":"https://psherrard.github.io/roku-test/images/There-are-No-Fakes.jpg",
+            "releaseDate":"2021-03-05",
+            "shortDescription":"When musician Kevin Hearn buys a painting by Norval Morrisseau, doubts about its authenticity leads to a lucrative art forgery ring in Thunder Bay.",
+            "longDescription":"When musician Kevin Hearn buys a painting by the world's first Indigenous art star, Norval Morrisseau, doubts about its authenticity raises controversial questions about authorship and ownership. There Are No Fakes traces the provenance of Hearn's painting, unraveling a complex, stranger-than-fiction tale that leads to a lucrative art forgery ring in Thunder Bay. Viewer discretion is advised.",
+            "tags":[  
+                "indigenous",
+                "social-and-criminal-justice",
+                "music,-art-and-culture"
+            ]
+        }
+        
+    ],
+    "series": [
+        {
+            "id": "Employable-Me",
+            "title": "Employable Me",
+            "releaseDate": "2021-03-05",
+            "seasons": [
+                {
+                    "seasonNumber": "1",
+                    "episodes": [
+                        {
+                            "id": "124295",
+                            "title": "Becca and Riley",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/8fe239bc-642c-437d-9683-cade230d6a1b/fc098fb7-240d-4a33-9e10-2ddf6462d092/main.mp4?akamai_token=exp=1616776592~acl=/media/v1/pmp4/static/clear/18140038001/8fe239bc-642c-437d-9683-cade230d6a1b/fc098fb7-240d-4a33-9e10-2ddf6462d092/main.mp4*~hmac=28adfd0c14531746aaf9d59e28e0106607a533af5e35fb38c06d5eca5b466b44",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/101.jpg",
+                            "shortDescription": "With the guidance of experts, and support from friends and family, Becca and Riley try to navigate the process of finding work.",
+                            "longDescription":"With the guidance of experts, and support from friends and family, Becca and Riley try to navigate the process of finding work.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124296",
+                            "title": "Melissa and Matt",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/808095c7-c867-43eb-ab98-07f3c5224c08/716b05eb-fc77-4557-aec6-e472c22ca2b0/main.mp4?akamai_token=exp=1616776676~acl=/media/v1/pmp4/static/clear/18140038001/808095c7-c867-43eb-ab98-07f3c5224c08/716b05eb-fc77-4557-aec6-e472c22ca2b0/main.mp4*~hmac=b3573fe578146ebf2d6b2c25ee22e7039b982208ef6c20eeb4ab13e54d2d957a",
+                                    "videoType": "MP$",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/102.jpg",
+                            "shortDescription": "Diagnosed with Tourette syndrome, Melissa is trying to find a job where she can feel accepted. Matt's ADHD makes it a struggle to maintain focus.",
+                            "longDescription":"Diagnosed with Tourette syndrome, Melissa is trying to find a job where she can feel accepted. Matt's ADHD makes it a struggle to maintain focus.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124297",
+                            "title": "Nathalea and Thomas",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/e015dc0e-21fc-43f6-b0f4-3e683bd3cc6e/4d3e22f1-b93c-4221-97a1-d1d141ce8d2c/main.mp4?akamai_token=exp=1616777612~acl=/media/v1/pmp4/static/clear/18140038001/e015dc0e-21fc-43f6-b0f4-3e683bd3cc6e/4d3e22f1-b93c-4221-97a1-d1d141ce8d2c/main.mp4*~hmac=d36ba0b12033f308f046da49bc2987a395d3dea46567a2e82c2fed58e7047811",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/103.jpg",
+                            "shortDescription": "Thomas, who has Down syndrome, and Nathalea, who is legally blind, remain positive they can achieve financial independence doing something they love.",
+                            "longDescription":"Thomas, who has Down syndrome, and Nathalea, who is legally blind, remain positive they can achieve financial independence doing something they love.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124298",
+                            "title": "Christine and Kelly",
+                            "episodeNumber": 4,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/05f1fa2d-2310-4987-98be-3f783d281e56/663b0a0b-7299-49df-9ca1-de2947b7a311/main.mp4?akamai_token=exp=1616777852~acl=/media/v1/pmp4/static/clear/18140038001/05f1fa2d-2310-4987-98be-3f783d281e56/663b0a0b-7299-49df-9ca1-de2947b7a311/main.mp4*~hmac=36bfacd739b8dd03c8e8587d909802eeda0d06c61b7768ebc8c38c8f284ea843",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/104.jpg",
+                            "shortDescription": "Highly educated and affable, Christine and Kelly are looking for someone to see past their disabilities and give them a chance at success.",
+                            "longDescription":"Highly educated and affable, Christine and Kelly are looking for someone to see past their disabilities and give them a chance at success.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124299",
+                            "title": "Jennifer and Simon",
+                            "episodeNumber": 5,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/ef8ec1a8-9774-4f78-a620-6fece771b694/e956a623-9a53-49d2-8219-76c3b018f9fb/main.mp4?akamai_token=exp=1616778088~acl=/media/v1/pmp4/static/clear/18140038001/ef8ec1a8-9774-4f78-a620-6fece771b694/e956a623-9a53-49d2-8219-76c3b018f9fb/main.mp4*~hmac=4a516a85a89804283fd544976a699f90baae273061ebbea57fc1ee42c887822f",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/105.jpg",
+                            "shortDescription": "After consulting experts and with their families' support, Jennifer and Simon confront the challenges of getting past the interview to find work.",
+                            "longDescription":"After consulting experts and with their families' support, Jennifer and Simon confront the challenges of getting past the interview to find work.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124302",
+                            "title": "Blair and Robert",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/0ef3453e-b514-4930-bfa5-886abc30e1d6/06a68be3-4ee7-482b-be44-50c63ca20b08/main.mp4?akamai_token=exp=1616778179~acl=/media/v1/pmp4/static/clear/18140038001/0ef3453e-b514-4930-bfa5-886abc30e1d6/06a68be3-4ee7-482b-be44-50c63ca20b08/main.mp4*~hmac=8541871eb6dd2aa2ba18f79afc11a7e905e418eba24b3022b91f61e0d866947a",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 300,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/106.jpg",
+                            "shortDescription": "Blair has autism and dyscalculia, and has trouble with social cues and numbers. Robert, who speaks six languages, has been blind since age 8.",
+                            "longDescription":"Blair has autism and dyscalculia, and has trouble with social cues and numbers. Robert, who speaks six languages, has been blind since age 8.",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodes": [
+                        {
+                            "id": "124558",
+                            "title": "Rick and Victor",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/74ccbc84-1e4d-4084-9508-a5e6c9bef99f/21e58bc8-3d5f-4c6d-b55c-6511727b9918/main.mp4?akamai_token=exp=1616778528~acl=/media/v1/pmp4/static/clear/18140038001/74ccbc84-1e4d-4084-9508-a5e6c9bef99f/21e58bc8-3d5f-4c6d-b55c-6511727b9918/main.mp4*~hmac=82962601e7d309753496407cb319d674f32e271524f042e6cebc91af02aa274e",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/201.jpg",
+                            "shortDescription":"Rick has Autism Spectrum Disorder and has struggled to find paid employment since graduating high school over 10 years ago ",
+                            "longDescription":"Rick has Autism Spectrum Disorder and has struggled to find paid employment since graduating high school over 10 years ago. He must overcome his fear of change in order to fulfill his dream of becoming an actor or a chef. Basketball fanatic Victor has a rare lung condition and aims to show the world that he is capable of anything he puts his mind to.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124559",
+                            "title": "Jack and Francie",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/25eba18a-5f87-4a3d-8e9b-3d23664c8574/94a44994-b4a5-4516-8ab1-47891515a76a/main.mp4?akamai_token=exp=1616778618~acl=/media/v1/pmp4/static/clear/18140038001/25eba18a-5f87-4a3d-8e9b-3d23664c8574/94a44994-b4a5-4516-8ab1-47891515a76a/main.mp4*~hmac=ba6351baed56b322eda16b75d9841c3f22155008d3f1dd293d264cc1166e86f1",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/202.jpg",
+                            "shortDescription": "Jack, a film fanatic and aspiring director, has Asperger's Syndrome and struggles in social settings.",
+                            "longDescription":"Jack, a film fanatic and aspiring director, has Asperger's Syndrome and struggles in social settings. He wants to break into the film industry, but spends most of his time in his room. Francie is an outgoing woman born with Down syndrome, a naturally occurring chromosomal arrangement. She wants to land her first paycheque so she can eventually get her own apartment.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124560",
+                            "title": "Jessica and Patrick",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/e2fce1d5-fd25-4a63-b743-78fae74b0052/a965b24c-0bd9-46a8-96ee-3941769cee45/main.mp4?akamai_token=exp=1616779095~acl=/media/v1/pmp4/static/clear/18140038001/e2fce1d5-fd25-4a63-b743-78fae74b0052/a965b24c-0bd9-46a8-96ee-3941769cee45/main.mp4*~hmac=5fc95c1f29f66405e6a0c1b2538d0d4a7d5507c72ded0b90f323f4bb4c45c1b7",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/203.jpg",
+                            "shortDescription": "Jessica has Down syndrome, a naturally occurring chromosomal arrangement, and resides with her parents in Toronto.",
+                            "longDescription":"Jessica has Down syndrome, a naturally occurring chromosomal arrangement, and resides with her parents in Toronto. She has a passion for art, but does not know how to translate it into a paying job. With the help of his mom and sister, Patrick (BJ) has overcome many challenges caused by his hydrocephalus, including becoming legally blind after one of his 23 surgeries. But one setback in his career makes him question his path.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124561",
+                            "title": "Susan and Carly",
+                            "episodeNumber": 4,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/cba01920-2426-4a7c-a808-1f2b64e30d87/de837d26-5d6e-4547-b2e9-7b20593c80e4/main.mp4?akamai_token=exp=1616779369~acl=/media/v1/pmp4/static/clear/18140038001/cba01920-2426-4a7c-a808-1f2b64e30d87/de837d26-5d6e-4547-b2e9-7b20593c80e4/main.mp4*~hmac=f072565d521a4102eeb8cbc69a674e698c646a71f1ed2d5b49992bcd4957107a",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/204.jpg",
+                            "shortDescription": "Former Olympian Susan hasn't held a paid position since suffering a brain injury over a decade ago, but she longs to be independent and help her retired parents",
+                            "longDescription":"Former Olympian Susan hasn't held a paid position since suffering a brain injury over a decade ago, but she longs to be independent and help her retired parents. While Carly's Autism Spectrum Disorder may cause her to struggle to communicate, she wants to translate her passion for music or baking into her first job.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125508",
+                            "title": "Gavin and Lucia",
+                            "episodeNumber": 5,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/0aed09ac-a483-446f-a428-79c62a3be088/cbe556a6-5fb6-48b1-b6d5-7698427a03ab/main.mp4?akamai_token=exp=1616779570~acl=/media/v1/pmp4/static/clear/18140038001/0aed09ac-a483-446f-a428-79c62a3be088/cbe556a6-5fb6-48b1-b6d5-7698427a03ab/main.mp4*~hmac=d826eb949a0f6f2441dd931533376d0e5dacf393aa0a0f43a08f29f6835945e8",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration":3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/205.jpg",
+                            "shortDescription": "Blinded in two separate accidents in his hometown of Jamaica, Gavin has thrived in the academic world of music and athletics since moving to Canada",
+                            "longDescription":"Blinded in two separate accidents in his hometown of Jamaica, Gavin has thrived in the academic world of music and athletics since moving to Canada. For the first time, he will discover if he can succeed in a professional setting. Lucia longs to make a difference in the world and hopes to find a workplace that will not judge the physical and verbal tics caused by her Tourette syndrome.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125509",
+                            "title": "Miranda and Donald",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/4ec48e5e-2fc9-46a7-8eed-3b57b0203e7e/0d5a50eb-3a26-4e09-8c83-3242b57b07ef/main.mp4?akamai_token=exp=1616779671~acl=/media/v1/pmp4/static/clear/18140038001/4ec48e5e-2fc9-46a7-8eed-3b57b0203e7e/0d5a50eb-3a26-4e09-8c83-3242b57b07ef/main.mp4*~hmac=0d37cdf1e4f9f06dd7e15db1127c178ded87f59d48710ec8192da6cf930e6778",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/206.jpg",
+                            "shortDescription": "After multiple surgeries to manage her Intractable Epilepsy, Miranda still can't find paid work at her dream job and must reevaluate her skills",
+                            "longDescription":"After multiple surgeries to manage her Intractable Epilepsy, Miranda still can't find paid work at her dream job and must reevaluate her skills. Donald is looking for a stable job where he can apply his two degrees, and not be judged by his rare genetic disorder called Osteogenesis Imperfecta, which causes brittle bones and stunted growth.",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": "3",
+                    "episodes": [
+                        {
+                            "id": "125270",
+                            "title": "Jordan and Ariana",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/b7662193-17d8-4edf-9654-3d400dc0e817/87040076-421b-41ed-8c71-ae39f8a04aed/main.mp4?akamai_token=exp=1616779782~acl=/media/v1/pmp4/static/clear/18140038001/b7662193-17d8-4edf-9654-3d400dc0e817/87040076-421b-41ed-8c71-ae39f8a04aed/main.mp4*~hmac=78b0baacc2bed8231e6b52b432558726b8bba7ca1cf9f16708e53ff8d4c5f334",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/301.jpg",
+                            "shortDescription": "Jordan hopes to find a career that puts his extensive train knowledge to use; Ariana wants to work in the wellness field.",
+                            "longDescription":"Jordan hopes to find a career that puts his extensive train knowledge to use; Ariana wants to work in the wellness field.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125271",
+                            "title": "Kathryn and Dylan",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/857d54c6-11ef-4536-9f16-643b53fe0f75/bbef0755-ad62-435c-b8a5-2284183fc8b3/main.mp4?akamai_token=exp=1616779912~acl=/media/v1/pmp4/static/clear/18140038001/857d54c6-11ef-4536-9f16-643b53fe0f75/bbef0755-ad62-435c-b8a5-2284183fc8b3/main.mp4*~hmac=cb8c292704c7ee489aa5530849ce48f7209b87cb8d8d84e24cf2f42aeb29faf4",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/302.jpg",
+                            "shortDescription": "Kathryn hopes to find a job that puts her creative mind to use; Dylan wants a career in a dynamic environment.",
+                            "longDescription":"Kathryn hopes to find a job that puts her creative mind to use; Dylan wants a career in a dynamic environment.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125272",
+                            "title": "Daniel and George",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/e7ca492a-ced3-42ae-ba4a-f6b5b8747e0a/f650da09-fe05-444a-a310-9a399e442576/main.mp4?akamai_token=exp=1616781036~acl=/media/v1/pmp4/static/clear/18140038001/e7ca492a-ced3-42ae-ba4a-f6b5b8747e0a/f650da09-fe05-444a-a310-9a399e442576/main.mp4*~hmac=734e3eef36c6b636835e1742bdf46b931ab7c4378e3af9df447a454699d74769",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/303.jpg",
+                            "shortDescription": "Daniel is looking for a job in music or film; blind track star, George, hopes to work in software development.",
+                            "longDescription":"Daniel is looking for a job in music or film; blind track star, George, hopes to work in software development.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125273",
+                            "title": "Daniel and Alessia",
+                            "episodeNumber": 4,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/1bacf883-8ef9-4d9d-b660-d36f11a9035a/98fc2b88-015e-4a2a-862f-5424cb91c94a/main.mp4?akamai_token=exp=1616781137~acl=/media/v1/pmp4/static/clear/18140038001/1bacf883-8ef9-4d9d-b660-d36f11a9035a/98fc2b88-015e-4a2a-862f-5424cb91c94a/main.mp4*~hmac=9ee0c130bc8356e58e6ba699e47684510848135ab597aaac272bacbd28c47c67",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/304.jpg",
+                            "shortDescription": "Daniel is looking for am employer who wants somebody who can think outside the box; Alessia wants to channel her creativity and love of kids into a career that excites her.",
+                            "longDescription":"Daniel is looking for am employer who wants somebody who can think outside the box; Alessia wants to channel her creativity and love of kids into a career that excites her.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125274",
+                            "title": "Yang and Elias",
+                            "episodeNumber": 5,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/012bf8b8-af4d-49a2-8fe5-d13b3475fbdb/5af9dd66-9c38-4ca9-93a1-63b4d7ed0287/main.mp4?akamai_token=exp=1616781556~acl=/media/v1/pmp4/static/clear/18140038001/012bf8b8-af4d-49a2-8fe5-d13b3475fbdb/5af9dd66-9c38-4ca9-93a1-63b4d7ed0287/main.mp4*~hmac=0c6437a1ca2f92f599d7d68fcac9a464721138813c03ffd75edde4ed177e148f",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3000,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/305.jpg",
+                            "shortDescription": "Despite having a Master's degree in Economics, Yang, a single mom who is blind, hasn't landed a paying job; Elias has Autism Spectrum Disorder and dreams of being a puppeteer.",
+                            "longDescription":"Despite having a Master's degree in Economics, Yang, a single mom who is blind, hasn't landed a paying job; Elias has Autism Spectrum Disorder and dreams of being a puppeteer.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125275",
+                            "title": "Mark and Mari",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/d1d4e7c2-5597-4507-9c2f-f81a8b284c26/6231ed0c-bc5f-442d-bf26-ffbc4218b2c9/main.mp4?akamai_token=exp=1616781664~acl=/media/v1/pmp4/static/clear/18140038001/d1d4e7c2-5597-4507-9c2f-f81a8b284c26/6231ed0c-bc5f-442d-bf26-ffbc4218b2c9/main.mp4*~hmac=e6bf5de96f42254f86d022bad53e8cc4a20f58250a340269de635f99c643ddac",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 50,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/306.jpg",
+                            "shortDescription": "Sports fanatic Mark has Autism Spectrum Disorder and hopes to find a career that makes use of his strong sports knowledge; Mari, who was born with Spina Bifida, craves more stability in a career.",
+                            "longDescription":"Sports fanatic Mark has Autism Spectrum Disorder and hopes to find a career that makes use of his strong sports knowledge; Mari, who was born with Spina Bifida, craves more stability in a career.",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                }
+            ],
+            "genres": [
+              "documentary",
+              "drama",
+              "educational",
+              "health",
+              "reality"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/Employable-Me/empolyable-me.jpg",
+            "shortDescription": "This six-part series features job-seekers determined to show that having a disability shouldn't make them unemployable.",
+            "longDescription":"This six-part documentary series features job-seekers determined to show that having a physical disability or neurological condition shouldn't make them unemployable. Each episode features two individuals from the Greater Toronto Area or Montreal who want nothing more than to find steady employment. Each is living with vision loss or a neurological condition such as Tourette's, Asperger's or Down syndrome, or ADHD. It isn't always easy but each job seeker is determined to find their passion.",
+            "tags":[  
+                "social-and-criminal-justice",
+                "politics"
+            ]
+        },
+        {
+            "id": "First-Contact",
+            "title": "First Contact",
+            "releaseDate": "2016-01-01",
+            "seasons": [
+                {
+                    "seasonNumber": "1",
+                    "episodes": [
+                        {
+                            "id": "124438",
+                            "title": "Ep 1 - First Contact",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/0244ba3d-c9f2-4535-8757-a7ffbff76663/8499d187-d47f-4e77-9020-c7a3d62e399b/main.mp4?akamai_token=exp=1616781611~acl=/media/v1/pmp4/static/clear/18140038001/0244ba3d-c9f2-4535-8757-a7ffbff76663/8499d187-d47f-4e77-9020-c7a3d62e399b/main.mp4*~hmac=c8aafbb128c344a5ecfd476544a83885db292a8fcface794a3ce3a3c8eebd077",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/101.jpg",
+                            "shortDescription": "The six travelers begin their journey in heart of Canada; Winnipeg, Manitoba. Here they meet prominent Indigenous activist Michael Redhead Champagne who sheds some light on the journey ahead.",
+                            "longDescription": "The six travelers begin their journey in heart of Canada; Winnipeg, Manitoba. Here they meet prominent Indigenous activist Michael Redhead Champagne who sheds some light on the journey ahead.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124439",
+                            "title": "Ep 2 - First Contact",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/18937c10-e681-48f9-b4c6-f761f9a7b690/fff5baa7-f6e3-44af-9f87-c65436087bda/main.mp4?akamai_token=exp=1616781734~acl=/media/v1/pmp4/static/clear/18140038001/18937c10-e681-48f9-b4c6-f761f9a7b690/fff5baa7-f6e3-44af-9f87-c65436087bda/main.mp4*~hmac=784a1a951b3a13f12dc0af379672bac2eab50fc1ebb35d2abd75808bdb094d64",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/102.jpg",
+                            "shortDescription": "The group arrives in Muskrat Dam, one of several fly-in reserves in Northern Ontario.",
+                            "longDescription":"The group arrives in Muskrat Dam, one of several fly-in reserves in Northern Ontario. Most Canadians don`t understand why people continue to live in remote places like this one. During their stay the group will learn why relocating isn`t an option for the families whose families have been here for generations. Viewer Discretion Advised",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "124440",
+                            "title": "Ep 3 - First Contact",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/7f7c4913-574b-4933-8fbf-bde54b320735/0acbeb56-e18e-460b-a3bc-677bc72bdd31/main.mp4?akamai_token=exp=1616781851~acl=/media/v1/pmp4/static/clear/18140038001/7f7c4913-574b-4933-8fbf-bde54b320735/0acbeb56-e18e-460b-a3bc-677bc72bdd31/main.mp4*~hmac=6d08a5e29efc2acfec74f7558521e6de780b8edcee3c39b7456553241cbbcc10",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/103.jpg",
+                            "shortDescription": "Heading south to Calgary, the group hits the front lines to experience life on the streets, and then go north, to an Edmonton prison to learn about life on the inside",
+                            "longDescription":"Heading south to Calgary, the group hits the front lines to experience life on the streets, and then go north, to an Edmonton prison to learn about life on the inside",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodes": [
+                        {
+                            "id": "127634",
+                            "title": "Ep 1 - First Contact",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/6919fa6d-be2d-4fb2-8f84-adaabd4eefe1/29f58fd5-a0b6-4e08-8b56-ec7d7ca75f2f/main.mp4?akamai_token=exp=1616782052~acl=/media/v1/pmp4/static/clear/18140038001/6919fa6d-be2d-4fb2-8f84-adaabd4eefe1/29f58fd5-a0b6-4e08-8b56-ec7d7ca75f2f/main.mp4*~hmac=58971d04482c53047c3c214b2072972a867732a51f32470c612cc35939d15139",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/201.jpg",
+                            "shortDescription": "The six travelers embark on a life-changing 28-day journey into Indigenous communities across Canada.",
+                            "longDescription": "The six travelers embark on a life-changing 28-day journey into Indigenous communities across Canada. In Kanasatake, Quebec, they are exposed to new perspective about the Oka Siege. And in Natuasish, Labrador, time spent with the local Innu people sheds new light on its residents and history.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "127635",
+                            "title": "Ep 2 - First Contact",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/3e34db7e-6efd-4cc1-b090-f4546e3f65f0/0d8398c5-7a01-44e2-a40e-65ad6fa67511/main.mp4?akamai_token=exp=1616783806~acl=/media/v1/pmp4/static/clear/18140038001/3e34db7e-6efd-4cc1-b090-f4546e3f65f0/0d8398c5-7a01-44e2-a40e-65ad6fa67511/main.mp4*~hmac=14a1be2d7c92a31236cf4d3ee8cab524002080100c7b0bc845cae3a502797e24",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/202.jpg",
+                            "shortDescription": "The six participants travel south to Thunder Bay, where a number of tragic incidents have exposed racist attitudes towards Indigenous people. Then, a meeting with residential school survivors in southern Ontario shocks the participants.",
+                            "longDescription":"The six participants travel south to Thunder Bay, where a number of tragic incidents have exposed racist attitudes towards Indigenous people. Then, a meeting with residential school survivors in southern Ontario shocks the participants.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "127636",
+                            "title": "Ep 3 - First Contact",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/24e7fe2f-8b1a-4e65-83bb-88be645a3b9b/88801e58-eea8-476f-a5a8-d81136cbb460/main.mp4?akamai_token=exp=1616783897~acl=/media/v1/pmp4/static/clear/18140038001/24e7fe2f-8b1a-4e65-83bb-88be645a3b9b/88801e58-eea8-476f-a5a8-d81136cbb460/main.mp4*~hmac=2b69eed500faa5ce8a816ee0c110236117c4afa753179bf5f405aa85861dd741",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 2710,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/203.jpg",
+                            "shortDescription": "Traveling to northern Saskatchewan, the six travelers face their biggest test yet as they meet with people from communities deeply affected by the death of Colten Boushie.",
+                            "longDescription":"Traveling to northern Saskatchewan, the six travelers face their biggest test yet as they meet with people from communities deeply affected by the death of Colten Boushie. Finally, the group travels to the Yukon, where self-governance is helping a community flourish.",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                }
+            ],
+            "genres": [
+              "adventure",
+              "documentary",
+              "drama",
+              "educational",
+              "history",
+              "nature",
+              "reality"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/First-Contact/first-contact.jpg",
+            "shortDescription": "First Contact takes a group of six non-Indigenous Canadians with strong opinions on Indigenous people and immerses them into Aboriginal Canada for the first time.",
+            "longDescription":"First Contact takes a group of six non-Indigenous Canadians with strong opinions on Indigenous people and immerses them into Aboriginal Canada for the first time. The six participants are tested in extraordinary situations, their beliefs are confronted, their emotions pushed to the limit.",
+            "tags":[  
+                "social-and-criminal-justice",
+                "indigenous",
+                "ontario-yours-to-discover",
+                "music,-art-and-culture"
+            ]
+        },
+        {
+            "id": "striking-balance",
+            "title": "Striking Balance",
+            "releaseDate": "2016-01-01",
+            "seasons": [
+                {
+                    "seasonNumber": "1",
+                    "episodes": [
+                        {
+                            "id": "117018",
+                            "title": "Long point",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/b42a0aab-9ef9-4405-a1c9-7787a32bbeca/dc2f8009-e9eb-460b-919a-4d9d11100e68/main.mp4?akamai_token=exp=1616205141~acl=/media/v1/pmp4/static/clear/1351824783/b42a0aab-9ef9-4405-a1c9-7787a32bbeca/dc2f8009-e9eb-460b-919a-4d9d11100e68/main.mp4*~hmac=f0f35fe65f0ca88412079288b1ba265898c4cf68b0c8c4b40f88a6bbe2a8a82b&pubid=18140038001",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3147,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/101.jpg",
+                            "shortDescription": "Ontario's Long Point, the world's longest freshwater sand spit, is threatened by an invasive plant, phragmites.",
+                            "longDescription": "Once surrounded by desert, Ontario's Long Point, the world's longest freshwater sand spit, is today lush with forests and wetlands. An invasive plant, phragmites, is its biggest threat.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117019",
+                            "title": "Clayoquot Sound",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/5f14017d-1baf-47a0-8aeb-0b9e9f4fe816/428b8886-2157-47cf-b80b-0e861df7c85f/main.mp4?akamai_token=exp=1616205206~acl=/media/v1/pmp4/static/clear/1351824783/5f14017d-1baf-47a0-8aeb-0b9e9f4fe816/428b8886-2157-47cf-b80b-0e861df7c85f/main.mp4*~hmac=f7d9ba9168d46d8803929f54e56e6706ede03cbc5444484954639f56a364cc42&pubid=18140038001",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/102.jpg",
+                            "shortDescription": "British Columbia communities look to the past to learn how the environment, cultures and economies can thrive.",
+                            "longDescription":"After years of conflict over logging in Clayoquot Sound, British Columbia communities look to the past to learn how the environment, cultures and economies can thrive for hundreds of years to come.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117020",
+                            "title": "Mont Saint-Hilaire",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/c8887d32-b7f7-4a83-aaac-04131d10e775/d5f77cfa-9d86-47cd-8108-e75f9ec00533/main.mp4?akamai_token=exp=1616205156~acl=/media/v1/pmp4/static/clear/1351824783/c8887d32-b7f7-4a83-aaac-04131d10e775/d5f77cfa-9d86-47cd-8108-e75f9ec00533/main.mp4*~hmac=810eefc0e8da989ead6511a56e3596822fb8435fed11ef637760761d1f69a1c3&pubid=18140038001",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/103.jpg",
+                            "shortDescription": "The old-growth forest and pristine lake of Quebec's Mont Saint-Hilaire are cherished by nearby communities.",
+                            "longDescription":"The old-growth forest and pristine glacial lake of Quebec's towering Mont Saint-Hilaire are cherished by the communities that surround it. But unchecked growth threatens the very mountain they love.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117021",
+                            "title": "Bras d'Or",
+                            "episodeNumber": 4,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/772d259d-c80d-4176-adb7-d9ff5784b4d2/84bce82f-6ef4-4666-a306-95a57e65dd58/main.mp4?akamai_token=exp=1616205290~acl=/media/v1/pmp4/static/clear/1351824783/772d259d-c80d-4176-adb7-d9ff5784b4d2/84bce82f-6ef4-4666-a306-95a57e65dd58/main.mp4*~hmac=10e30e20390742d8e8e16709b5196fbfb8b28aff39981b6e400b24a5e9cac7e3&pubid=18140038001",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/104.jpg",
+                            "shortDescription": "On the Bras d'Or Lake in Cape Breton Island, oyster farming was seen as a sustainable alternative to working in coal and steel.",
+                            "longDescription":"On the Bras d'Or Lake in Nova Scotia's Cape Breton Island, oyster farming was seen as a sustainable alternative to working in coal and steel. After a parasite ravaged the oyster population, both traditional Mi'kmaq knowledge and western science are being used to bring the oysters back.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117022",
+                            "title": "Georgian Bay",
+                            "episodeNumber": 5,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/e30c1eb6-97c9-4a0a-9d13-50526d70b03e/ea6e119c-d3b1-4fb6-9c43-b5c4858f5bea/main.mp4?akamai_token=exp=1616205521~acl=/media/v1/pmp4/static/clear/1351824783/e30c1eb6-97c9-4a0a-9d13-50526d70b03e/ea6e119c-d3b1-4fb6-9c43-b5c4858f5bea/main.mp4*~hmac=78820d25822a302d9aab6b810cca77f9ed51d1faea6ac42c9840c37b828497f5&pubid=18140038001",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/105.jpg",
+                            "shortDescription": "Residents struggle to mitigate the impact of cottagers and a new highway on the region's endangered species.",
+                            "longDescription":"The people of Georgian Bay struggle to mitigate the impact of increasing numbers of cottagers and a new four-lane highway on the region's endangered species.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117023",
+                            "title": "Redberry Lake",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/dcb12a99-facc-47ba-86a4-27ebebddc32d/b5f1b05f-fec9-48db-be43-a94b72e6e9ef/main.mp4?akamai_token=exp=1616205468~acl=/media/v1/pmp4/static/clear/1351824783/dcb12a99-facc-47ba-86a4-27ebebddc32d/b5f1b05f-fec9-48db-be43-a94b72e6e9ef/main.mp4*~hmac=e651a0ccaa3c7f28d1b8c188528af0fa520be7bd30326edad06db2d614b48714&pubid=18140038001",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/106.jpg",
+                            "shortDescription": "Students conduct social and scientific experiments at Redberry, a salt lake at the heart of a shrinking Saskatchewan community.",
+                            "longDescription":"Students conduct both social and scientific experiments at Redberry, a salt lake at the heart of a shrinking Saskatchewan community that's determined to thrive in the face of industrial agriculture.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117024",
+                            "title": "Fundy",
+                            "episodeNumber": 7,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/a97767a4-5e73-4457-914f-725ee44de44a/f1257651-49f2-4e1c-a0a3-ff6c67cc6935/main.mp4?akamai_token=exp=1616205647~acl=/media/v1/pmp4/static/clear/1351824783/a97767a4-5e73-4457-914f-725ee44de44a/f1257651-49f2-4e1c-a0a3-ff6c67cc6935/main.mp4*~hmac=481e2dd56a3b0e9bf227e11c5e081e23ed43f4ec7f3211a0f8fa9372dfb0e354&pubid=18140038001",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/107.jpg",
+                            "shortDescription": "The Inner Bay of Fundy's population of Atlantic salmon is teetering on the edge of extinction, but people are determined to bring it back.",
+                            "longDescription":"The Inner Bay of Fundy's population of Atlantic salmon is teetering on the edge of extinction, but the people of the Fundy Biosphere Reserve are determined to bring it back.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "117025",
+                            "title": "Waterton",
+                            "episodeNumber": 8,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/63b46543-26df-469a-8882-2550374683e1/db14b4d0-e5f5-4e63-8967-0f8087d6e7ae/main.mp4?akamai_token=exp=1616205662~acl=/media/v1/pmp4/static/clear/1351824783/63b46543-26df-469a-8882-2550374683e1/db14b4d0-e5f5-4e63-8967-0f8087d6e7ae/main.mp4*~hmac=c8146c395a891e5293e103097f144dad86d4b904048c63527b0a94e653db253c&pubid=18140038001",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/108.jpg",
+                            "shortDescription": "Grizzlies are increasingly protected in Alberta, challenging the ranchers of the Waterton Biosphere Reserve to find new ways to coexist with them.",
+                            "longDescription":"Grizzly bears have been increasingly protected in Alberta since 2006, challenging the ranchers of the Waterton Biosphere Reserve to find new ways to coexist with this powerful animal.",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": "2",
+                    "episodes": [
+                        {
+                            "id": "125577",
+                            "title": "Tsa Tue Biosphere Reserve",
+                            "episodeNumber": 1,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/cf42e217-0d72-417c-baa5-2c545f8ca66f/614db559-e94d-4678-837b-3dbfe1309835/main.mp4?akamai_token=exp=1616789200~acl=/media/v1/pmp4/static/clear/18140038001/cf42e217-0d72-417c-baa5-2c545f8ca66f/614db559-e94d-4678-837b-3dbfe1309835/main.mp4*~hmac=2c4dc38609eeeb2d60096522a3afa82f5f59c2158cb53c7a75af410057891a4d",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/201.jpg",
+                            "shortDescription": "Troubled by a history of uranium mining, the Sahtu Dene of Great Bear Lake create North America's largest biosphere reserve to protect its pristine waters for all of humanity.",
+                            "longDescription": "Troubled by a history of uranium mining, the Sahtu Dene of Great Bear Lake create North America's largest biosphere reserve to protect its pristine waters for all of humanity.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125579",
+                            "title": "Manicouagan-Uapishka Biosphere Reserve",
+                            "episodeNumber": 2,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/7141ce5b-dbe1-45f1-962c-fce2074d173c/6c23e729-59a4-4718-81f5-ef243ad01225/main.mp4?akamai_token=exp=1616788926~acl=/media/v1/pmp4/static/clear/18140038001/7141ce5b-dbe1-45f1-962c-fce2074d173c/6c23e729-59a4-4718-81f5-ef243ad01225/main.mp4*~hmac=8caff37e76881bdd79defb7abd3a762059ce7933b026795734482cf958027301",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3086,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/202.jpg",
+                            "shortDescription": "Quebec's Manicouagan-Uapishka Biosphere Reserve prides itself on working with industry toward a sustainable future. But their dream is put to the test when their biggest project is jeopardized by North America's largest hydro-electricity reservoir.",
+                            "longDescription":"Quebec's Manicouagan-Uapishka Biosphere Reserve prides itself on working with industry toward a sustainable future. But their dream is put to the test when their biggest project is jeopardized by North America's largest hydro-electricity reservoir.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125584",
+                            "title": "Niagara Escarpment",
+                            "episodeNumber": 3,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/f696c636-a06a-4336-abd3-b811bb35ae0d/296772de-0b00-46e7-89fa-6619eccf8fd3/main.mp4?akamai_token=exp=1616789086~acl=/media/v1/pmp4/static/clear/18140038001/f696c636-a06a-4336-abd3-b811bb35ae0d/296772de-0b00-46e7-89fa-6619eccf8fd3/main.mp4*~hmac=37f390a2a1c457740b99e8136ef1f8416465855b5a616dd7893050c5e27c3a7b",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/203.jpg",
+                            "shortDescription": "In Ontario's Niagara Escarpment Biosphere Reserve, scientists, climbers and even quarry companies come up with innovative ways to co-exist with, restore and enhance the natural world.",
+                            "longDescription":"In Ontario's Niagara Escarpment Biosphere Reserve, scientists, climbers and even quarry companies come up with innovative ways to co-exist with, restore and enhance the natural world.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125580",
+                            "title": "Riding Mountain Biosphere Reserve",
+                            "episodeNumber": 4,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/a4384450-a605-4255-88b6-8627d5264efc/d114ff32-21b2-4021-9864-26d78f2b566a/main.mp4?akamai_token=exp=1616789167~acl=/media/v1/pmp4/static/clear/18140038001/a4384450-a605-4255-88b6-8627d5264efc/d114ff32-21b2-4021-9864-26d78f2b566a/main.mp4*~hmac=a4d65c53b0d854fa4ed3566eb6022ccda2b0740e24cbc1446855b49e8177f618",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/204.jpg",
+                            "shortDescription": "After suffering through repeated, tsunami-like floods north of Manitoba's Riding Mountain, the Von Bargens lead the call to restore nature's flood protection systems.",
+                            "longDescription":"After suffering through repeated, tsunami-like floods north of Manitoba's Riding Mountain, the Von Bargens lead the call to restore nature's flood protection systems.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125581",
+                            "title": "Mount Arrowsmith Biosphere Reserve",
+                            "episodeNumber": 5,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/79872035-a12c-40f0-abe2-d09f5e408e61/3af3e042-bb78-40ee-b237-88c32a3a839e/main.mp4?akamai_token=exp=1616789461~acl=/media/v1/pmp4/static/clear/18140038001/79872035-a12c-40f0-abe2-d09f5e408e61/3af3e042-bb78-40ee-b237-88c32a3a839e/main.mp4*~hmac=10329d27cdf86e4cc6db3bd78b119434e992211f2c3a4acc56ab3a49367a0f30",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/205.jpg",
+                            "shortDescription": "Following unprecedented droughts, the people of BC's Mount Arrowsmith Biosphere Region begin their quest to restore the water balance.",
+                            "longDescription":"Following unprecedented droughts, the people of BC's Mount Arrowsmith Biosphere Region begin their quest to restore the water balance.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125582",
+                            "title": "Lac Saint-Pierre Biosphere Reserve",
+                            "episodeNumber": 6,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/a281e954-e35b-4a73-80df-abc9c0f82e36/4263fb03-b59e-4fe3-aaf7-0e07eab2b6d6/main.mp4?akamai_token=exp=1616789966~acl=/media/v1/pmp4/static/clear/18140038001/a281e954-e35b-4a73-80df-abc9c0f82e36/4263fb03-b59e-4fe3-aaf7-0e07eab2b6d6/main.mp4*~hmac=42ca4c7322746b8cb80dcf4e5982dff0920269d4de86ed48190f48b4fd5312b3",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/206.jpg",
+                            "shortDescription": "The yellow perch, a key indicator of the health of Quebec's Lac Saint-Pierre, is in serious trouble. But this little fish is inspiring the big change needed to restore the lake to its former glory.",
+                            "longDescription":"The yellow perch, a key indicator of the health of Quebec's Lac Saint-Pierre, is in serious trouble. But this little fish is inspiring the big change needed to restore the lake to its former glory.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125583",
+                            "title": "Beaver Hills Biosphere Reserve",
+                            "episodeNumber": 7,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/0615ca31-06cf-4bb8-8ca3-17dc8d5fb09b/ffec7486-b23d-477c-93e9-caa6230818d0/main.mp4?akamai_token=exp=1616790033~acl=/media/v1/pmp4/static/clear/18140038001/0615ca31-06cf-4bb8-8ca3-17dc8d5fb09b/ffec7486-b23d-477c-93e9-caa6230818d0/main.mp4*~hmac=1cb967a242bfe1c333d5d2e77059b0503e2387ab8a076838ad0223e7ee5c0af4",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/207.jpg",
+                            "shortDescription": "A little-known, but remarkable region of wetlands, called the Beaver Hills, are at risk of being swallowed by a growing Edmonton. As home to the world's most important herd of buffalo, people here are uniting to keep the Hills intact.",
+                            "longDescription":"A little-known, but remarkable region of wetlands, called the Beaver Hills, are at risk of being swallowed by a growing Edmonton. As home to the world's most important herd of buffalo, people here are uniting to keep the Hills intact.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125578",
+                            "title": "Frontenac Arch Biosphere Reserve",
+                            "episodeNumber": 8,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/8f631d00-36ec-4c50-a168-6593c1f21e2b/2e1454eb-b9ad-41b8-896f-86bcf853e448/main.mp4?akamai_token=exp=1616790088~acl=/media/v1/pmp4/static/clear/18140038001/8f631d00-36ec-4c50-a168-6593c1f21e2b/2e1454eb-b9ad-41b8-896f-86bcf853e448/main.mp4*~hmac=3df7b8da9bf80b37e659eadb6a2b68a93db4c9b586762da3f7fc7b7091a8ee37",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/208.jpg",
+                            "shortDescription": "The heart of eastern North America's last, great forest corridor is threatened by development, but the people of Ontario's Frontenac Arch Biosphere Reserve are determined to keep it intact.",
+                            "longDescription":"The heart of eastern North America's last, great forest corridor is threatened by development, but the people of Ontario's Frontenac Arch Biosphere Reserve are determined to keep it intact.",
+                            "releaseDate": "2016-01-01"
+                        },
+                        {
+                            "id": "125585",
+                            "title": "Southwest Nova Biosphere Reserve",
+                            "episodeNumber": 9,
+                            "content": {
+                                "dateAdded": "2020-07-22T02:32:24Z",
+                                "videos": [{
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/4ba37a8c-2828-413b-94fe-40a31735a86f/f563471d-b369-4a5e-9d23-96981c9b9863/main.mp4?akamai_token=exp=1616790158~acl=/media/v1/pmp4/static/clear/18140038001/4ba37a8c-2828-413b-94fe-40a31735a86f/f563471d-b369-4a5e-9d23-96981c9b9863/main.mp4*~hmac=00d50778a091fd00aef4c9b063c5821e8078cf358b5e19c47cdb8ba7be259afb",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
+                                }],
+                                "duration": 3806,
+                                "captions": [ ],
+                                "language": "en-us"
+                            },
+                            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/209.jpg",
+                            "shortDescription": "Under siege from invasive species, the people of the Southwest Nova Biosphere Reserve innovate new ways to hold back, eradicate, and even eat the invaders.",
+                            "longDescription":"Under siege from invasive species, the people of the Southwest Nova Biosphere Reserve innovate new ways to hold back, eradicate, and even eat the invaders.",
+                            "releaseDate": "2016-01-01"
+                        }
+                    ]
+                }
+            ],
+            "genres": [
+              "adventure",
+              "animals",
+              "documentary",
+              "educational",
+              "nature",
+              "science"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/striking-balance/striking-balance.jpg",
+            "shortDescription": "Join us on a journey across Canada as we look at our nation's breathtaking biosphere reserves in this eight-part cinematic documentary series.",
+            "longDescription":"Join us on a journey across Canada as we look at our nation's breathtaking biosphere reserves in this eight-part cinematic documentary series.",
+            "tags":[  
+                "environment-and-nature",
+                "science-and-technology",
+                "ontario-yours-to-discover"
+            ]
+        },
+        {
+            "id": "human-plus",
+            "title": "Human Plus",
+            "releaseDate": "2020-01-01",
+            "episodes": [
+                {
+                    "id": "127247",
+                    "title": "Touch",
+                    "episodeNumber": 1,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/e1b5af3e-212f-443d-a65c-78356461ef8b/d5880936-ab6c-44e7-b9ce-84b01c0aa223/main.mp4?akamai_token=exp=1616790339~acl=/media/v1/pmp4/static/clear/18140038001/e1b5af3e-212f-443d-a65c-78356461ef8b/d5880936-ab6c-44e7-b9ce-84b01c0aa223/main.mp4*~hmac=42ccae7af9b3e482084d4b973b874cb290597dc21f85e8289075af811d26906e",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/human-plus/101.jpg",
+                    "shortDescription": "The sense of touch is an invisible force of human nature. Not only does it perceive tiny elements that our eyes can't see, but it plays a vital role in our lives.",
+                    "longDescription": "The sense of touch is an invisible force of human nature. Not only does it perceive tiny elements that our eyes can't see, but it plays a vital role in our lives. It has an important influence on our physical capacity, our cerebral functioning, and our well-being ",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "127248",
+                    "title": "Sight",
+                    "episodeNumber": 2,
+                    "content": {
+                        "dateAdded": "2021-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/8c8ce693-c2a3-4a2f-859d-afeb80144ecc/e562985c-7341-462b-a5e2-de9dd5bc0740/main.mp4?akamai_token=exp=1616790501~acl=/media/v1/pmp4/static/clear/18140038001/8c8ce693-c2a3-4a2f-859d-afeb80144ecc/e562985c-7341-462b-a5e2-de9dd5bc0740/main.mp4*~hmac=c2c9dd30dfdc1e4bdd4f434f26a3de13b1d6ce082307a0d12a148aba81604ba1",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/human-plus/102.jpg",
+                    "shortDescription": "The science of sight has entered a new era.",
+                    "longDescription": "The science of sight has entered a new era. We are starting to understand how a few rare individuals can see better or see faster. We meet a woman who can see a hundred more colors than the average human being, and a heavyweight boxer who undergoes sophisticated training to increase the speed of his visual reflexes and acuity.",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "127249",
+                    "title": "Hearing",
+                    "episodeNumber": 3,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/18b33189-5b23-4bba-8e04-713818890f75/6f6e1fe9-fbef-45dc-89f8-260af4e0d76a/main.mp4?akamai_token=exp=1616790569~acl=/media/v1/pmp4/static/clear/18140038001/18b33189-5b23-4bba-8e04-713818890f75/6f6e1fe9-fbef-45dc-89f8-260af4e0d76a/main.mp4*~hmac=eb6e20c809e07b082f9f1c615a8cdae5fb7ce2d283145eb117c3c5042ae985df",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/human-plus/103.jpg",
+                    "shortDescription": "As the mysteries of hearing are revealed, we see how technology and scientific progress are working to restore, replace, or supercharge this enormously powerful human sense.",
+                    "longDescription":"As the mysteries of hearing are revealed, we see how technology and scientific progress are working to restore, replace, or supercharge this enormously powerful human sense.",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "127250",
+                    "title": "Taste and Smell",
+                    "episodeNumber": 4,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/742a74fb-4981-4730-869b-eb230300a17d/b9cbff28-223e-465c-9b46-8dd37bffcf52/main.mp4?akamai_token=exp=1616790693~acl=/media/v1/pmp4/static/clear/18140038001/742a74fb-4981-4730-869b-eb230300a17d/b9cbff28-223e-465c-9b46-8dd37bffcf52/main.mp4*~hmac=bcbf5cf262b823a263c961a9dccda2991643a5d1e3cc89b837ee94540bf39daa",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/human-plus/104.jpg",
+                    "shortDescription": "Your sense of smell is much more developed than you might imagine. In your genetic code, 400 genes make up the receptors of your sense of smell. You are able to smell billions of odors.",
+                    "longDescription":"Your sense of smell is much more developed than you might imagine. In your genetic code, 400 genes make up the receptors of your sense of smell. You are able to smell billions of odors.",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "127251",
+                    "title": "Orchestra of the Senses",
+                    "episodeNumber": 5,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/fc563318-2939-4bfa-8094-c87e55dd954b/92147b48-53f9-435d-8a0c-872774b1515b/main.mp4?akamai_token=exp=1616791917~acl=/media/v1/pmp4/static/clear/18140038001/fc563318-2939-4bfa-8094-c87e55dd954b/92147b48-53f9-435d-8a0c-872774b1515b/main.mp4*~hmac=734814c98b2580c51fa272c5bcdd8f4d238066c9935066b62926078e4a600a31",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/human-plus/105.jpg",
+                    "shortDescription": "Sight, touch, hearing, taste, and smell send sensory messages to the brain at a speed of 430km/hr.",
+                    "longDescription": "Sight, touch, hearing, taste, and smell send sensory messages to the brain at a speed of 430km/hr. The two cerebral hemispheres deal with 11 million information signals per second -an imperceptible and continual effort. This continual flow of information is sorted and analyzed by the brain, which directs the senses, organizes them, and improves them without any technological intervention.",
+                    "releaseDate": "2016-01-01"
+                }
+            ],
+            "genres": [
+              "documentary",
+              "educational",
+              "health",
+              "science",
+              "technology"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/human-plus/human-plus.jpg",
+            "shortDescription": "We're living in an era in which the incredible is possible and the unbelievable is believable. The science and technology of sense enhancement and recovery is astonishing.",
+            "longDescription":"We're living in an era in which the incredible is possible and the unbelievable is believable. The science and technology of sense enhancement and recovery is astonishing. Join us as we delve into the awe-inspiring and emotional stories of people whose lives are being turned around.",
+            "tags":[  
+                "science-and-technology"
+            ]
+        },
+        {
+            "id": "the-agenda",
+            "title": "The Agenda",
+            "releaseDate": "2016-01-01",
+            "episodes": [
+                {
+                    "id": "2646482",
+                    "title": "Turning Our Back on Long-Term Care?",
+                    "episodeNumber": 1,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/2d8dcf0c-b332-405d-a9ca-9b32c26dbe99/e792958c-1708-4156-918d-3a7f6b2d0eb3/main.mp4?akamai_token=exp=1616792813~acl=/media/v1/pmp4/static/clear/18140038001/2d8dcf0c-b332-405d-a9ca-9b32c26dbe99/e792958c-1708-4156-918d-3a7f6b2d0eb3/main.mp4*~hmac=0d4943b05b853cddf4908b6b18f688ca419ed60c88cdd4475173cfb66fbdacee",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/The-Agenda/01.jpg",
+                    "shortDescription": "Health journalist André Picard shares insights from his new book, \"Neglected No More.\"",
+                    "longDescription": "André Picard, the Globe and Mail's award-winning health columnist, has covered long-term Care in Canada for decades. His new book, \"Neglected No More: The Urgent Need to Improve the Lives of Canada's Elders in the Wake of a Pandemic,\" casts a lens on the effects of COVID-19 on this sector and the conditions that led to so many deaths.",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "2648477",
+                    "title": "Has Ontario Failed Long-Term Care?",
+                    "episodeNumber": 2,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/b96ba0ac-d92c-4386-b20a-8395673d9715/1cc2dc2a-7f11-42b0-be12-f28a216ba7f1/main.mp4?akamai_token=exp=1616793713~acl=/media/v1/pmp4/static/clear/18140038001/b96ba0ac-d92c-4386-b20a-8395673d9715/1cc2dc2a-7f11-42b0-be12-f28a216ba7f1/main.mp4*~hmac=741505ac56cee190e5ed01f0b4333cb2c994e256951175242d4e092c53a3b8e0",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/The-Agenda/02.jpg",
+                    "shortDescription": "Reviewing the devestating reality of long-term care during COVID-19.",
+                    "longDescription": "The Ontario government has promised - more than once - that it would put an iron ring around seniors in this province. But as the government's own Long-term Care Commission established, residents and staff in that sector have been devastatingly affected during the COVID-19 emergency. To discuss how and why we got here, we invite Peter Shawn Taylor, senior features editor at C2C Journal; Vivian Stamatopoulos, long-term care researcher with Ontario Tech University and co-founder of the advocacy group Doctors for Justice in LTC; Donna Duncan, CEO of the Ontario Long Term Care Association; and Pat Armstrong, distinguished research professor of sociology at York University.",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "2647833",
+                    "title": "Liberal Democracy Does Not Flourish on Self Loathing",
+                    "episodeNumber": 3,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/7893af88-d2f5-4aa7-b613-3b99f0606c9e/741e627a-76ba-4179-9967-092f738baa8e/main.mp4?akamai_token=exp=1616793567~acl=/media/v1/pmp4/static/clear/18140038001/7893af88-d2f5-4aa7-b613-3b99f0606c9e/741e627a-76ba-4179-9967-092f738baa8e/main.mp4*~hmac=ccd20015d1fd229d1a8270a18e9d10344e7e6ff5bb5b7938836b57e550aedca8",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/The-Agenda/03.jpg",
+                    "shortDescription": "A feature interview with Michael Ignatieff, as part of The Democracy Agenda, a joint series between The Toronto Star and The Agenda.",
+                    "longDescription": "Can liberal democracies remain liberal when contending with global emergencies such as epidemics and global warming. A conversation with Michael Ignatieff, former Liberal leader and currently the president and rector of Central European University in Vienna.",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "2648350",
+                    "title": "How Much Free Speech do Canadians Want?",
+                    "episodeNumber": 4,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/87517edc-76d9-4d0e-b82d-92a9aaa94976/4566c42d-a6d3-43cb-bf5e-5a34267138bb/main.mp4?akamai_token=exp=1616794311~acl=/media/v1/pmp4/static/clear/18140038001/87517edc-76d9-4d0e-b82d-92a9aaa94976/4566c42d-a6d3-43cb-bf5e-5a34267138bb/main.mp4*~hmac=0b138f6acb3982653954d215d252df7c719535d5c35cd12956b03cbcf802c06c",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/The-Agenda/04.jpg",
+                    "shortDescription": "A presentation of The Democracy Agenda, a collaboration between the Toronto Star and The Agenda." ,
+                    "longDescription":"Canada is the fifth-best democracy in the world but only a fifth of all Canadians are comfortable expressing their political opinions in public. To discuss how much free speech is tolerable in Canada, we invite journalists Irshad Manji, Michael Coren, Shree Paradkar, and Jonathan Kay.",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "2648859",
+                    "title": "Where Are Ontario's Vaccines?",
+                    "episodeNumber": 5,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/dd4174c9-6589-449b-9dd4-a65759665aa9/96f1ae90-0ac1-425d-b44f-671151da6b10/main.mp4?akamai_token=exp=1616794025~acl=/media/v1/pmp4/static/clear/18140038001/dd4174c9-6589-449b-9dd4-a65759665aa9/96f1ae90-0ac1-425d-b44f-671151da6b10/main.mp4*~hmac=3f4e34af7383c7e5e5e141f5b79bc16d7c2872cf840e478c7b95d2c159168aed",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/The-Agenda/05.jpg",
+                    "shortDescription": "As Ontarians await their COVID-19 vaccinations, we discuss what the barriers are to a smooth rollout.",
+                    "longDescription": "Ontarians are understandably anxious to recieve their COVID-19 vaccinations, but what are the realistic rollout timelines, and what is holding things up? The Agenda welcomes Simon Fraser University's Caroline Colijn; Nick Taylor Vaisey, Maclean's associate editor, and Isaac Bogoch, associate professor, Department of Medicine, University of Toronto.",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "2644674",
+                    "title": "A Searing Tale of Homelessness",
+                    "episodeNumber": 6,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/7807066c-aab7-4e2d-93f7-22ef6f4d3d53/af204e0b-3a6d-4c3f-9bbd-6dabdb42d33d/main.mp4?akamai_token=exp=1616794046~acl=/media/v1/pmp4/static/clear/18140038001/7807066c-aab7-4e2d-93f7-22ef6f4d3d53/af204e0b-3a6d-4c3f-9bbd-6dabdb42d33d/main.mp4*~hmac=4aef10e491bc1d582f1ef67bd00d20b799b918daf55389367ba43cebabbcde87",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/The-Agenda/06.jpg",
+                    "shortDescription": "Journalist and author Denise Davy discusses her book, \"Her Name Was Margaret: Life and Death on the Streets.\"",
+                    "longDescription": "Journalist and author Denise Davy discusses her latest book, \"Her Name Was Margaret: Life and Death on the Streets.\" Meticulously researched, it weaves a deeply compassionate portrait of Margaret Jacobson's life from her childhood to her death as a homeless woman on the streets of Hamilton, Ont.",
+                    "releaseDate": "2016-01-01"
+                }
+            ],
+            "genres": [
+              "educational",
+              "news"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/The-Agenda/the-agenda.jpg",
+            "shortDescription": "Daily current affairs show offering in-depth analysis and intelligent debate on issues of concern in the rapidly changing world around us.",
+            "longDescription":"The Agenda with Steve Paikin is TVO's flagship current affairs program, devoted to exploring the social, political, cultural, and economic issues that are changing our world. We consistently offer a diversity of viewpoints and in-depth analysis of what lies behind the headlines.",
+            "tags":[  
+                "the-agenda"
+            ]
+        } 
+    ]
+}
