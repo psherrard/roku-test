@@ -123,8 +123,8 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/dd8d98ef-5566-4548-b1a5-fa0fed8c2aa9/5d99b63f-2560-4e90-b135-e003efb5b020/main.mp4?akamai_token=exp=1616040960~acl=/media/v1/pmp4/static/clear/1351824783/dd8d98ef-5566-4548-b1a5-fa0fed8c2aa9/5d99b63f-2560-4e90-b135-e003efb5b020/main.mp4*~hmac=3ce42c5faa4028c72885705ea16094349e0b6efaa58e46fd4b1691adcfcfdc91&pubid=18140038001",
-					"videoType": "HLS",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/dd8d98ef-5566-4548-b1a5-fa0fed8c2aa9/5d99b63f-2560-4e90-b135-e003efb5b020/main.mp4?akamai_token=exp=1616207050~acl=/media/v1/pmp4/static/clear/1351824783/dd8d98ef-5566-4548-b1a5-fa0fed8c2aa9/5d99b63f-2560-4e90-b135-e003efb5b020/main.mp4*~hmac=cae4b8e7a349c30784dd6de2daa5661775f90000ad43dbe1bcce93ff2d0ad866&pubid=18140038001",
+					"videoType": "MP4",
 					"quality": "HD"
 				}],
 				"duration": 5020,
@@ -150,7 +150,7 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/7fcb56f4-0c91-4f23-85ac-d833d4f1003f/29abef27-4cee-4c6e-85dd-ea9dee8dcfd1/main.mp4?akamai_token=exp=1616776310~acl=/media/v1/pmp4/static/clear/18140038001/7fcb56f4-0c91-4f23-85ac-d833d4f1003f/29abef27-4cee-4c6e-85dd-ea9dee8dcfd1/main.mp4*~hmac=87fe6dc0d5bed786c5a11e024ad6ac22efb5fdedee45e6c36ab85b6b02db3624",
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
@@ -180,7 +180,7 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/9e4e0ac7-a5d6-47ae-bb51-7214d8ba131d/2b641ac2-70bf-4176-a3da-f414e5b96196/main.mp4?akamai_token=exp=1616778554~acl=/media/v1/pmp4/static/clear/18140038001/9e4e0ac7-a5d6-47ae-bb51-7214d8ba131d/2b641ac2-70bf-4176-a3da-f414e5b96196/main.mp4*~hmac=532bcb7bdd89b001753d8ce9a607a8e5204a7ed2d6dd283e4130636a54136a27",
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
@@ -206,7 +206,7 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/6de4859a-316e-49e0-9741-2448a36f3ccc/4c7a6440-c1b8-4299-b540-947d5b643888/main.mp4?akamai_token=exp=1616776503~acl=/media/v1/pmp4/static/clear/18140038001/6de4859a-316e-49e0-9741-2448a36f3ccc/4c7a6440-c1b8-4299-b540-947d5b643888/main.mp4*~hmac=acce36e76e7a64d5567d20d38a6e8ff4376707856110050f8a0eda7a53a5be21",
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
@@ -235,7 +235,7 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/299c8921-51b6-4e4e-b15f-00ede23ab2e9/8b4b77b1-4883-4f20-b168-07a98bd6ef30/main.mp4?akamai_token=exp=1616778284~acl=/media/v1/pmp4/static/clear/18140038001/299c8921-51b6-4e4e-b15f-00ede23ab2e9/8b4b77b1-4883-4f20-b168-07a98bd6ef30/main.mp4*~hmac=443829b704c44c0cbe799112ed83cf105ebc60fbee3b6080cff6e17fed1a419d",
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
@@ -265,7 +265,7 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/064766aa-3c2f-47c6-bfd2-d4f45cf35317/baf79f80-592e-49e7-a8fd-364fd4611f71/main.mp4?akamai_token=exp=1616783303~acl=/media/v1/pmp4/static/clear/18140038001/064766aa-3c2f-47c6-bfd2-d4f45cf35317/baf79f80-592e-49e7-a8fd-364fd4611f71/main.mp4*~hmac=fb1b520a112641fae5a0a88c5d2bf21bd95868f4505f6ea2b3ddd09c649e813a",
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
@@ -306,9 +306,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/8fe239bc-642c-437d-9683-cade230d6a1b/fc098fb7-240d-4a33-9e10-2ddf6462d092/main.mp4?akamai_token=exp=1616776592~acl=/media/v1/pmp4/static/clear/18140038001/8fe239bc-642c-437d-9683-cade230d6a1b/fc098fb7-240d-4a33-9e10-2ddf6462d092/main.mp4*~hmac=28adfd0c14531746aaf9d59e28e0106607a533af5e35fb38c06d5eca5b466b44",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -326,9 +326,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/808095c7-c867-43eb-ab98-07f3c5224c08/716b05eb-fc77-4557-aec6-e472c22ca2b0/main.mp4?akamai_token=exp=1616776676~acl=/media/v1/pmp4/static/clear/18140038001/808095c7-c867-43eb-ab98-07f3c5224c08/716b05eb-fc77-4557-aec6-e472c22ca2b0/main.mp4*~hmac=b3573fe578146ebf2d6b2c25ee22e7039b982208ef6c20eeb4ab13e54d2d957a",
+                                    "videoType": "MP$",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -346,9 +346,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/e015dc0e-21fc-43f6-b0f4-3e683bd3cc6e/4d3e22f1-b93c-4221-97a1-d1d141ce8d2c/main.mp4?akamai_token=exp=1616777612~acl=/media/v1/pmp4/static/clear/18140038001/e015dc0e-21fc-43f6-b0f4-3e683bd3cc6e/4d3e22f1-b93c-4221-97a1-d1d141ce8d2c/main.mp4*~hmac=d36ba0b12033f308f046da49bc2987a395d3dea46567a2e82c2fed58e7047811",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -366,9 +366,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/05f1fa2d-2310-4987-98be-3f783d281e56/663b0a0b-7299-49df-9ca1-de2947b7a311/main.mp4?akamai_token=exp=1616777852~acl=/media/v1/pmp4/static/clear/18140038001/05f1fa2d-2310-4987-98be-3f783d281e56/663b0a0b-7299-49df-9ca1-de2947b7a311/main.mp4*~hmac=36bfacd739b8dd03c8e8587d909802eeda0d06c61b7768ebc8c38c8f284ea843",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -386,9 +386,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/ef8ec1a8-9774-4f78-a620-6fece771b694/e956a623-9a53-49d2-8219-76c3b018f9fb/main.mp4?akamai_token=exp=1616778088~acl=/media/v1/pmp4/static/clear/18140038001/ef8ec1a8-9774-4f78-a620-6fece771b694/e956a623-9a53-49d2-8219-76c3b018f9fb/main.mp4*~hmac=4a516a85a89804283fd544976a699f90baae273061ebbea57fc1ee42c887822f",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -406,9 +406,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/0ef3453e-b514-4930-bfa5-886abc30e1d6/06a68be3-4ee7-482b-be44-50c63ca20b08/main.mp4?akamai_token=exp=1616778179~acl=/media/v1/pmp4/static/clear/18140038001/0ef3453e-b514-4930-bfa5-886abc30e1d6/06a68be3-4ee7-482b-be44-50c63ca20b08/main.mp4*~hmac=8541871eb6dd2aa2ba18f79afc11a7e905e418eba24b3022b91f61e0d866947a",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 300,
                                 "captions": [ ],
@@ -431,9 +431,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/74ccbc84-1e4d-4084-9508-a5e6c9bef99f/21e58bc8-3d5f-4c6d-b55c-6511727b9918/main.mp4?akamai_token=exp=1616778528~acl=/media/v1/pmp4/static/clear/18140038001/74ccbc84-1e4d-4084-9508-a5e6c9bef99f/21e58bc8-3d5f-4c6d-b55c-6511727b9918/main.mp4*~hmac=82962601e7d309753496407cb319d674f32e271524f042e6cebc91af02aa274e",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -451,9 +451,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/25eba18a-5f87-4a3d-8e9b-3d23664c8574/94a44994-b4a5-4516-8ab1-47891515a76a/main.mp4?akamai_token=exp=1616778618~acl=/media/v1/pmp4/static/clear/18140038001/25eba18a-5f87-4a3d-8e9b-3d23664c8574/94a44994-b4a5-4516-8ab1-47891515a76a/main.mp4*~hmac=ba6351baed56b322eda16b75d9841c3f22155008d3f1dd293d264cc1166e86f1",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -471,9 +471,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/e2fce1d5-fd25-4a63-b743-78fae74b0052/a965b24c-0bd9-46a8-96ee-3941769cee45/main.mp4?akamai_token=exp=1616779095~acl=/media/v1/pmp4/static/clear/18140038001/e2fce1d5-fd25-4a63-b743-78fae74b0052/a965b24c-0bd9-46a8-96ee-3941769cee45/main.mp4*~hmac=5fc95c1f29f66405e6a0c1b2538d0d4a7d5507c72ded0b90f323f4bb4c45c1b7",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -491,9 +491,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/cba01920-2426-4a7c-a808-1f2b64e30d87/de837d26-5d6e-4547-b2e9-7b20593c80e4/main.mp4?akamai_token=exp=1616779369~acl=/media/v1/pmp4/static/clear/18140038001/cba01920-2426-4a7c-a808-1f2b64e30d87/de837d26-5d6e-4547-b2e9-7b20593c80e4/main.mp4*~hmac=f072565d521a4102eeb8cbc69a674e698c646a71f1ed2d5b49992bcd4957107a",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -511,9 +511,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/0aed09ac-a483-446f-a428-79c62a3be088/cbe556a6-5fb6-48b1-b6d5-7698427a03ab/main.mp4?akamai_token=exp=1616779570~acl=/media/v1/pmp4/static/clear/18140038001/0aed09ac-a483-446f-a428-79c62a3be088/cbe556a6-5fb6-48b1-b6d5-7698427a03ab/main.mp4*~hmac=d826eb949a0f6f2441dd931533376d0e5dacf393aa0a0f43a08f29f6835945e8",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration":3000,
                                 "captions": [ ],
@@ -531,9 +531,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/4ec48e5e-2fc9-46a7-8eed-3b57b0203e7e/0d5a50eb-3a26-4e09-8c83-3242b57b07ef/main.mp4?akamai_token=exp=1616779671~acl=/media/v1/pmp4/static/clear/18140038001/4ec48e5e-2fc9-46a7-8eed-3b57b0203e7e/0d5a50eb-3a26-4e09-8c83-3242b57b07ef/main.mp4*~hmac=0d37cdf1e4f9f06dd7e15db1127c178ded87f59d48710ec8192da6cf930e6778",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -556,9 +556,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/b7662193-17d8-4edf-9654-3d400dc0e817/87040076-421b-41ed-8c71-ae39f8a04aed/main.mp4?akamai_token=exp=1616779782~acl=/media/v1/pmp4/static/clear/18140038001/b7662193-17d8-4edf-9654-3d400dc0e817/87040076-421b-41ed-8c71-ae39f8a04aed/main.mp4*~hmac=78b0baacc2bed8231e6b52b432558726b8bba7ca1cf9f16708e53ff8d4c5f334",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -576,9 +576,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/857d54c6-11ef-4536-9f16-643b53fe0f75/bbef0755-ad62-435c-b8a5-2284183fc8b3/main.mp4?akamai_token=exp=1616779912~acl=/media/v1/pmp4/static/clear/18140038001/857d54c6-11ef-4536-9f16-643b53fe0f75/bbef0755-ad62-435c-b8a5-2284183fc8b3/main.mp4*~hmac=cb8c292704c7ee489aa5530849ce48f7209b87cb8d8d84e24cf2f42aeb29faf4",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -596,9 +596,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/e7ca492a-ced3-42ae-ba4a-f6b5b8747e0a/f650da09-fe05-444a-a310-9a399e442576/main.mp4?akamai_token=exp=1616781036~acl=/media/v1/pmp4/static/clear/18140038001/e7ca492a-ced3-42ae-ba4a-f6b5b8747e0a/f650da09-fe05-444a-a310-9a399e442576/main.mp4*~hmac=734e3eef36c6b636835e1742bdf46b931ab7c4378e3af9df447a454699d74769",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -616,9 +616,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/1bacf883-8ef9-4d9d-b660-d36f11a9035a/98fc2b88-015e-4a2a-862f-5424cb91c94a/main.mp4?akamai_token=exp=1616781137~acl=/media/v1/pmp4/static/clear/18140038001/1bacf883-8ef9-4d9d-b660-d36f11a9035a/98fc2b88-015e-4a2a-862f-5424cb91c94a/main.mp4*~hmac=9ee0c130bc8356e58e6ba699e47684510848135ab597aaac272bacbd28c47c67",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -636,9 +636,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/012bf8b8-af4d-49a2-8fe5-d13b3475fbdb/5af9dd66-9c38-4ca9-93a1-63b4d7ed0287/main.mp4?akamai_token=exp=1616781556~acl=/media/v1/pmp4/static/clear/18140038001/012bf8b8-af4d-49a2-8fe5-d13b3475fbdb/5af9dd66-9c38-4ca9-93a1-63b4d7ed0287/main.mp4*~hmac=0c6437a1ca2f92f599d7d68fcac9a464721138813c03ffd75edde4ed177e148f",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 3000,
                                 "captions": [ ],
@@ -656,9 +656,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/d1d4e7c2-5597-4507-9c2f-f81a8b284c26/6231ed0c-bc5f-442d-bf26-ffbc4218b2c9/main.mp4?akamai_token=exp=1616781664~acl=/media/v1/pmp4/static/clear/18140038001/d1d4e7c2-5597-4507-9c2f-f81a8b284c26/6231ed0c-bc5f-442d-bf26-ffbc4218b2c9/main.mp4*~hmac=e6bf5de96f42254f86d022bad53e8cc4a20f58250a340269de635f99c643ddac",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 50,
                                 "captions": [ ],
@@ -702,8 +702,8 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/0244ba3d-c9f2-4535-8757-a7ffbff76663/8499d187-d47f-4e77-9020-c7a3d62e399b/main.mp4?akamai_token=exp=1616781611~acl=/media/v1/pmp4/static/clear/18140038001/0244ba3d-c9f2-4535-8757-a7ffbff76663/8499d187-d47f-4e77-9020-c7a3d62e399b/main.mp4*~hmac=c8aafbb128c344a5ecfd476544a83885db292a8fcface794a3ce3a3c8eebd077",
+                                    "videoType": "MP4",
                                     "quality": "HD"
                                 }],
                                 "duration": 2710,
@@ -722,9 +722,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/18937c10-e681-48f9-b4c6-f761f9a7b690/fff5baa7-f6e3-44af-9f87-c65436087bda/main.mp4?akamai_token=exp=1616781734~acl=/media/v1/pmp4/static/clear/18140038001/18937c10-e681-48f9-b4c6-f761f9a7b690/fff5baa7-f6e3-44af-9f87-c65436087bda/main.mp4*~hmac=784a1a951b3a13f12dc0af379672bac2eab50fc1ebb35d2abd75808bdb094d64",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 2710,
                                 "captions": [ ],
@@ -742,9 +742,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/7f7c4913-574b-4933-8fbf-bde54b320735/0acbeb56-e18e-460b-a3bc-677bc72bdd31/main.mp4?akamai_token=exp=1616781851~acl=/media/v1/pmp4/static/clear/18140038001/7f7c4913-574b-4933-8fbf-bde54b320735/0acbeb56-e18e-460b-a3bc-677bc72bdd31/main.mp4*~hmac=6d08a5e29efc2acfec74f7558521e6de780b8edcee3c39b7456553241cbbcc10",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 2710,
                                 "captions": [ ],
@@ -767,9 +767,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/6919fa6d-be2d-4fb2-8f84-adaabd4eefe1/29f58fd5-a0b6-4e08-8b56-ec7d7ca75f2f/main.mp4?akamai_token=exp=1616782052~acl=/media/v1/pmp4/static/clear/18140038001/6919fa6d-be2d-4fb2-8f84-adaabd4eefe1/29f58fd5-a0b6-4e08-8b56-ec7d7ca75f2f/main.mp4*~hmac=58971d04482c53047c3c214b2072972a867732a51f32470c612cc35939d15139",
                                     "videoType": "MP4",
-                                    "quality": "SD"
+                                    "quality": "HD"
                                 }],
                                 "duration": 2710,
                                 "captions": [ ],
@@ -787,9 +787,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/3e34db7e-6efd-4cc1-b090-f4546e3f65f0/0d8398c5-7a01-44e2-a40e-65ad6fa67511/main.mp4?akamai_token=exp=1616783806~acl=/media/v1/pmp4/static/clear/18140038001/3e34db7e-6efd-4cc1-b090-f4546e3f65f0/0d8398c5-7a01-44e2-a40e-65ad6fa67511/main.mp4*~hmac=14a1be2d7c92a31236cf4d3ee8cab524002080100c7b0bc845cae3a502797e24",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 2710,
                                 "captions": [ ],
@@ -807,9 +807,9 @@
                             "content": {
                                 "dateAdded": "2020-07-22T02:32:24Z",
                                 "videos": [{
-                                    "url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit1-intro-v3.mp4",
-                                    "videoType": "HLS",
-                                    "quality": "SD"
+                                    "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/24e7fe2f-8b1a-4e65-83bb-88be645a3b9b/88801e58-eea8-476f-a5a8-d81136cbb460/main.mp4?akamai_token=exp=1616783897~acl=/media/v1/pmp4/static/clear/18140038001/24e7fe2f-8b1a-4e65-83bb-88be645a3b9b/88801e58-eea8-476f-a5a8-d81136cbb460/main.mp4*~hmac=2b69eed500faa5ce8a816ee0c110236117c4afa753179bf5f405aa85861dd741",
+                                    "videoType": "MP4",
+                                    "quality": "HD"
                                 }],
                                 "duration": 2710,
                                 "captions": [ ],
