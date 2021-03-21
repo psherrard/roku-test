@@ -123,7 +123,7 @@
             "content":{  
                 "dateAdded": "2021-03-05T02:32:24+00:00",
 				"videos": [{
-					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/dd8d98ef-5566-4548-b1a5-fa0fed8c2aa9/5d99b63f-2560-4e90-b135-e003efb5b020/main.mp4?akamai_token=exp=1616207050~acl=/media/v1/pmp4/static/clear/1351824783/dd8d98ef-5566-4548-b1a5-fa0fed8c2aa9/5d99b63f-2560-4e90-b135-e003efb5b020/main.mp4*~hmac=cae4b8e7a349c30784dd6de2daa5661775f90000ad43dbe1bcce93ff2d0ad866&pubid=18140038001",
+					"url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/1351824783/dd8d98ef-5566-4548-b1a5-fa0fed8c2aa9/5d99b63f-2560-4e90-b135-e003efb5b020/main.mp4?akamai_token=exp=1616370780~acl=/media/v1/pmp4/static/clear/1351824783/dd8d98ef-5566-4548-b1a5-fa0fed8c2aa9/5d99b63f-2560-4e90-b135-e003efb5b020/main.mp4*~hmac=e7630b7b61da368ede5fba1f0db005631910e43f6b46073ac972a8bf1a90cc51&pubid=18140038001",
 					"videoType": "MP4",
 					"quality": "HD"
 				}],
