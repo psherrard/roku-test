@@ -1,0 +1,84 @@
+{
+    "providerName": "TVO",
+    "lastUpdated": "2021-03-05T02:30:00+00:00",
+    "language": "en",
+    "series": [
+        {
+            "id": "Test",
+            "title": "Test",
+            "releaseDate": "2016-01-01",
+            "episodes": [
+                {
+                    "id": "2646482",
+                    "title": "Turning Our Back on Long-Term Care?",
+                    "episodeNumber": 0,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/2d8dcf0c-b332-405d-a9ca-9b32c26dbe99/e792958c-1708-4156-918d-3a7f6b2d0eb3/main.mp4?akamai_token=exp=1616792813~acl=/media/v1/pmp4/static/clear/18140038001/2d8dcf0c-b332-405d-a9ca-9b32c26dbe99/e792958c-1708-4156-918d-3a7f6b2d0eb3/main.mp4*~hmac=0d4943b05b853cddf4908b6b18f688ca419ed60c88cdd4475173cfb66fbdacee",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/Test/01.png",
+                    "shortDescription": "Health journalist André Picard shares insights from his new book, \"Neglected No More.\"",
+                    "longDescription": "André Picard, the Globe and Mail's award-winning health columnist, has covered long-term Care in Canada for decades. His new book, \"Neglected No More: The Urgent Need to Improve the Lives of Canada's Elders in the Wake of a Pandemic,\" casts a lens on the effects of COVID-19 on this sector and the conditions that led to so many deaths.",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "2648477",
+                    "title": "Has Ontario Failed Long-Term Care?",
+                    "episodeNumber": 0,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/b96ba0ac-d92c-4386-b20a-8395673d9715/1cc2dc2a-7f11-42b0-be12-f28a216ba7f1/main.mp4?akamai_token=exp=1616793713~acl=/media/v1/pmp4/static/clear/18140038001/b96ba0ac-d92c-4386-b20a-8395673d9715/1cc2dc2a-7f11-42b0-be12-f28a216ba7f1/main.mp4*~hmac=741505ac56cee190e5ed01f0b4333cb2c994e256951175242d4e092c53a3b8e0",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/Test/02.png",
+                    "shortDescription": "Reviewing the devestating reality of long-term care during COVID-19.",
+                    "longDescription": "The Ontario government has promised - more than once - that it would put an iron ring around seniors in this province. But as the government's own Long-term Care Commission established, residents and staff in that sector have been devastatingly affected during the COVID-19 emergency. To discuss how and why we got here, we invite Peter Shawn Taylor, senior features editor at C2C Journal; Vivian Stamatopoulos, long-term care researcher with Ontario Tech University and co-founder of the advocacy group Doctors for Justice in LTC; Donna Duncan, CEO of the Ontario Long Term Care Association; and Pat Armstrong, distinguished research professor of sociology at York University.",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "2647833",
+                    "title": "Liberal Democracy Does Not Flourish on Self Loathing",
+                    "episodeNumber": null,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/7893af88-d2f5-4aa7-b613-3b99f0606c9e/741e627a-76ba-4179-9967-092f738baa8e/main.mp4?akamai_token=exp=1616793567~acl=/media/v1/pmp4/static/clear/18140038001/7893af88-d2f5-4aa7-b613-3b99f0606c9e/741e627a-76ba-4179-9967-092f738baa8e/main.mp4*~hmac=ccd20015d1fd229d1a8270a18e9d10344e7e6ff5bb5b7938836b57e550aedca8",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/Test/03.png",
+                    "shortDescription": "A feature interview with Michael Ignatieff, as part of The Democracy Agenda, a joint series between The Toronto Star and The Agenda.",
+                    "longDescription": "Can liberal democracies remain liberal when contending with global emergencies such as epidemics and global warming. A conversation with Michael Ignatieff, former Liberal leader and currently the president and rector of Central European University in Vienna.",
+                    "releaseDate": "2016-01-01"
+                }
+            ],
+            "genres": [
+              "educational",
+              "news"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/The-Agenda/the-agenda.jpg",
+            "shortDescription": "Daily current affairs show offering in-depth analysis and intelligent debate on issues of concern in the rapidly changing world around us.",
+            "longDescription":"The Agenda with Steve Paikin is TVO's flagship current affairs program, devoted to exploring the social, political, cultural, and economic issues that are changing our world. We consistently offer a diversity of viewpoints and in-depth analysis of what lies behind the headlines.",
+            "tags":[  
+                "the-agenda"
+            ]
+        } 
+    ]
+}
