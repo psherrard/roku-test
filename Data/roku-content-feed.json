@@ -1336,6 +1336,86 @@
             ]
         },
         {
+            "id": "human-plus",
+            "title": "Human Plus",
+            "releaseDate": "2020-01-01",
+            "episodes": [
+                {
+                    "id": "1247",
+                    "title": "Test 1",
+                    "episodeNumber": 1,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/e1b5af3e-212f-443d-a65c-78356461ef8b/d5880936-ab6c-44e7-b9ce-84b01c0aa223/main.mp4?akamai_token=exp=1616790339~acl=/media/v1/pmp4/static/clear/18140038001/e1b5af3e-212f-443d-a65c-78356461ef8b/d5880936-ab6c-44e7-b9ce-84b01c0aa223/main.mp4*~hmac=42ccae7af9b3e482084d4b973b874cb290597dc21f85e8289075af811d26906e",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/Test/01.png",
+                    "shortDescription": "The sense of touch is an invisible force of human nature. Not only does it perceive tiny elements that our eyes can't see, but it plays a vital role in our lives.",
+                    "longDescription": "The sense of touch is an invisible force of human nature. Not only does it perceive tiny elements that our eyes can't see, but it plays a vital role in our lives. It has an important influence on our physical capacity, our cerebral functioning, and our well-being ",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "1248",
+                    "title": "Test 2",
+                    "episodeNumber": 0,
+                    "content": {
+                        "dateAdded": "2021-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/8c8ce693-c2a3-4a2f-859d-afeb80144ecc/e562985c-7341-462b-a5e2-de9dd5bc0740/main.mp4?akamai_token=exp=1616790501~acl=/media/v1/pmp4/static/clear/18140038001/8c8ce693-c2a3-4a2f-859d-afeb80144ecc/e562985c-7341-462b-a5e2-de9dd5bc0740/main.mp4*~hmac=c2c9dd30dfdc1e4bdd4f434f26a3de13b1d6ce082307a0d12a148aba81604ba1",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/Test/02.png",
+                    "shortDescription": "The science of sight has entered a new era.",
+                    "longDescription": "The science of sight has entered a new era. We are starting to understand how a few rare individuals can see better or see faster. We meet a woman who can see a hundred more colors than the average human being, and a heavyweight boxer who undergoes sophisticated training to increase the speed of his visual reflexes and acuity.",
+                    "releaseDate": "2016-01-01"
+                },
+                {
+                    "id": "1249",
+                    "title": "Test 3",
+                    "episodeNumber": 0,
+                    "content": {
+                        "dateAdded": "2020-07-22T02:32:24Z",
+                        "videos": [{
+                            "url": "http://bcbolt446c5271-a.akamaihd.net/media/v1/pmp4/static/clear/18140038001/18b33189-5b23-4bba-8e04-713818890f75/6f6e1fe9-fbef-45dc-89f8-260af4e0d76a/main.mp4?akamai_token=exp=1616790569~acl=/media/v1/pmp4/static/clear/18140038001/18b33189-5b23-4bba-8e04-713818890f75/6f6e1fe9-fbef-45dc-89f8-260af4e0d76a/main.mp4*~hmac=eb6e20c809e07b082f9f1c615a8cdae5fb7ce2d283145eb117c3c5042ae985df",
+                            "videoType": "MP4",
+                            "quality": "HD"
+                        }],
+                        "duration": 2895,
+                        "captions": [ ],
+                        "language": "en-us"
+                    },
+                    "thumbnail": "https://psherrard.github.io/roku-test/images/Test/03.png",
+                    "shortDescription": "As the mysteries of hearing are revealed, we see how technology and scientific progress are working to restore, replace, or supercharge this enormously powerful human sense.",
+                    "longDescription":"As the mysteries of hearing are revealed, we see how technology and scientific progress are working to restore, replace, or supercharge this enormously powerful human sense.",
+                    "releaseDate": "2016-01-01"
+                }
+            ],
+            "genres": [
+              "documentary",
+              "educational",
+              "health",
+              "science",
+              "technology"
+            ],
+            "thumbnail": "https://psherrard.github.io/roku-test/images/human-plus/human-plus.jpg",
+            "shortDescription": "We're living in an era in which the incredible is possible and the unbelievable is believable. The science and technology of sense enhancement and recovery is astonishing.",
+            "longDescription":"We're living in an era in which the incredible is possible and the unbelievable is believable. The science and technology of sense enhancement and recovery is astonishing. Join us as we delve into the awe-inspiring and emotional stories of people whose lives are being turned around.",
+            "tags":[  
+                "kids"
+            ]
+        },
+        {
             "id": "the-agenda",
             "title": "The Agenda",
             "releaseDate": "2016-01-01",
